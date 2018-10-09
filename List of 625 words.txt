@@ -1,0 +1,663 @@
+はし  chopsticks  HL(L)
+はし  bridge      LH(L)
+はし  edge        LH(H)
+
+
+
+animal(C)　動物／どうぶつ
+dog 犬／いぬ
+cat 猫／ねこ
+fish 魚／さかな
+bird 鳥／とり
+cow 牛／うし
+pig 豚／ぶた
+mouse 鼠／ねずみ
+horse 馬／うま
+wing 
+
+transportation(C) 交通／こうつう
+train 電車／でんしゃ
+plane 飛行機／ひこうき
+car 車／くるま
+truck トラック
+bicycle 自転車／じてんしゃ
+bus バス
+boat 
+ship 
+tyre 
+petrol/gasoline ガソリン
+engine 
+(train) ticket 切符／きっぷ
+
+location(C) 場所／ばしょ
+city 
+house 家／いえ
+apartment アパート
+street/road 
+airport 空港／くうこう
+(train) station 駅／えき
+bridge 橋／はし
+hotel ホテル
+restaurant 食堂／しょくどう
+farm 
+court 
+school 学校／がっこう
+office 
+room 
+town 
+university 
+club 
+bar 
+park 
+camp 
+store/shop 
+theater 
+library 
+hospital 
+church 
+market 
+country (USA, France, etc.) 
+building 
+ground 
+space (outer space) 
+bank 
+
+clothing(C) 
+hat 
+dress 
+suit 
+skirt 
+shirt 
+T-shirt 
+pants 
+shoes 
+pocket 
+coat 
+stain 
+
+colour(C)
+red 
+green 
+blue (light/dark) 
+yellow 
+brown 
+pink 
+orange 
+black 
+white 
+gray 
+
+person(C) 
+son* 
+daughter* 
+mother 
+father 
+parent (mother/father) 
+baby 
+man 
+woman 
+brother* 
+sister* 
+family 
+grandfather 
+grandmother 
+husband* 
+wife* 
+king 
+queen 
+president 
+neighbor 
+boy 
+girl 
+child (boy/girl) 
+adult (man/woman) 
+human (not animal) 
+friend 
+victim 
+player 
+fan 
+crowd 
+
+job(C) 
+teacher 
+student 
+lawyer 
+doctor 
+patient 
+waiter 
+secretary 
+priest 
+police 
+army 
+soldier 
+artist 
+author 
+manager 
+reporter 
+actor 
+
+Society:
+religion 
+heaven 
+hell 
+death 
+medicine 
+money 
+dollar 
+bill 
+marriage* 
+wedding* 
+team 
+relationship 
+race (ethnicity) 
+intercourse 
+sex (gender) 
+murder 
+prison 
+technology 
+energy 
+war 
+peace 
+attack 
+election 
+magazine 
+newspaper 
+poison 
+gun 
+sport 
+race (sport) 
+exercise 
+ball 
+game 
+price 
+contract 
+drug 
+sign 
+science 
+God 
+
+Art:
+band 
+song 
+instrument (musical) 
+music 
+movie 
+art 
+
+beverage(C) 
+coffee 
+tea 
+wine 
+beer 
+juice 
+water 
+milk 
+
+food(C)
+egg 
+cheese 
+bread 
+soup 
+cake 
+chicken 
+pork 
+beef 
+apple 
+pear 
+rice (raw) 
+rice (cooked) 
+oil 
+seed 
+knife 
+spoon 
+fork 
+chopsticks 
+plate 
+bowl 
+cup 
+breakfast 
+lunch 
+dinner 
+sugar 
+salt 
+bottle 
+
+Home:
+table 
+chair 
+bed 
+dream 
+window 
+door 
+bedroom 
+kitchen 
+bathroom 
+pencil 
+pen 
+photograph 
+soap 
+book 
+page 
+key 
+paint 
+letter 
+note 
+wall 
+paper 
+floor 
+ceiling 
+roof 
+pool 
+lock 
+telephone 
+garden 
+yard 
+needle 
+bag 
+box 
+gift 
+card 
+ring 
+tool
+
+electronic(C) 
+clock 
+lamp 
+electric fan 
+mobile phone 
+network 
+computer 
+program (computer) 
+laptop 
+screen 
+camera 
+television 
+radio
+
+body(C) 
+head 
+neck 
+face 
+beard 
+hair 
+eye 
+mouth* 
+lip* 
+nose 
+tooth 
+ear 
+tear (drop) 
+tongue 
+back 
+toe 
+finger 
+foot 
+hand 
+leg 
+arm 
+shoulder 
+heart 
+blood 
+brain 
+knee 
+sweat 
+disease 
+bone 
+voice 
+skin 
+
+nature(C)
+sea* 
+ocean* 
+river 
+mountain 
+rain 
+snow 
+tree 
+sun 
+moon 
+world 
+Earth 
+forest 
+sky 
+plant 
+wind 
+soil/earth 
+flower 
+valley 
+root 
+lake 
+star 
+grass 
+leaf 
+air 
+sand 
+beach 
+wave 
+fire 
+ice 
+island 
+hill 
+heat 
+
+material(C) 
+glass 
+metal 
+plastic 
+wood 
+stone 
+diamond 
+clay 
+dust 
+gold 
+copper 
+silver 
+
+Math/Measurements:
+meter 
+centimeter 
+kilogram 
+inch 
+foot 
+pound 
+half 
+circle 
+square 
+temperature 
+date 
+weight 
+edge 
+corner 
+
+noun(C) 
+map 
+dot 
+consonant 
+vowel 
+light 
+sound 
+yes 
+no 
+piece 
+pain 
+injury 
+hole 
+image 
+pattern 
+
+direction(C)
+top 
+bottom 
+side 
+front 
+back 
+outside 
+inside 
+up 
+down 
+left 
+right 
+straight 
+north 
+south 
+east 
+west 
+
+season(C) 季節／きせつ
+Summer 夏／なつ
+Spring 春／はる
+Winter 冬／ふゆ
+Autumn 秋／あき
+
+number(C) 番号／ばんごう
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+30 
+31 
+32 
+40 
+41 
+42 
+50 
+51 
+52 
+60 
+61 
+62 
+70 
+71 
+72 
+80 
+81 
+82 
+90 
+91 
+92 
+100 百／ひゃく
+101  
+110 
+111 
+1000 千／せん
+1001 
+1,0000 一万／いちまん
+10,0000 
+100,0000 
+1000,0000
+1,0000,0000 一億／いちおく
+1st 一番／いちばん
+2nd 二番／にばん
+3rd 三番／さんばん
+4th 
+5th 
+
+January 一月／いちがつ
+February 二月／にがつ
+March 三月／さんがつ
+April 四月／しがつ
+May 五月／ごがつ
+June 六月／ろくがつ
+July 七月／しちがつ
+August 八月／はちがつ
+September 九月／くがつ
+October 十月／がつ
+November 十一月／じゅういちがつ
+December十二月／じゅうにがつ
+
+Monday 月曜日／げつようび
+Tuesday 火曜日／かようび
+Wednesday 水曜日／すいようび
+Thursday 木曜日／もくようび
+Friday 金曜日／きんようび
+Saturday 土曜日／どようび
+Sunday 日曜日／にちようび
+
+time(C) 
+year 
+month 
+week 
+day 
+hour 
+minute 
+second 
+morning 
+afternoon 
+evening 
+night 
+
+verb(C)
+work 
+play 
+walk 
+run 
+drive 
+fly 
+swim 
+go(C)  
+stop 
+follow 
+think 
+speak/say 
+eat 
+drink 
+kill 
+die 
+smile 
+laugh 
+cry 
+buy* 
+pay* 
+sell* 
+shoot (a gun) 
+learn 
+jump 
+smell 
+hear* (a sound) 
+listen* (music) 
+taste 
+touch 
+see (a bird) 
+watch (TV) 
+kiss 
+burn 
+melt 
+dig 
+explode 
+sit 
+stand 
+love 
+pass by 
+cut 
+fight 
+lie down 
+dance 
+sleep 
+wake up 
+sing 
+count 
+marry 
+pray 
+win 
+lose 
+mix/stir 
+bend 
+wash 
+cook 
+open 
+close 
+write 
+call 
+turn 
+build 
+teach 
+grow 
+draw 
+feed 
+catch 
+throw 
+clean 
+find 
+fall 
+push 
+pull 
+carry 
+break 
+wear 
+hang 
+shake 
+sign 
+beat 
+lift
+
+adjective(C)
+long 長い／ながい
+short (vs long) 短い／みじかい
+tall (person) 背が高い／せがたかい
+short (person) 背が低い／せがひくい
+wide 広い／ひろい
+narrow 狭い／せまい
+big/large 大きい／おおきい
+small/little 小さい／ちいさい
+slow 遅い／おそい
+fast 速い／はやい
+hot 暑い／あつい
+cold (to touch) 冷たい／つめたい
+warm 暖かい／あたたかい
+cool 涼しい／すずしい
+new 新しい／あたらしい
+old (vs new) 古い／ふるい
+young 若い／わかい
+old (vs young) 
+good いい
+bad 悪い／わるい
+wet 
+dry 
+sick 
+healthy 
+loud 煩い／うるさい
+quiet 静かな／しずかな
+happy 
+sad 
+beautiful 美しい／うつくしい
+ugly 
+deaf 
+blind 
+nice 
+mean 
+rich 
+poor 
+thick (object) 厚い／あつい
+thin (object) 薄い／うすい
+expensive 高価な／こうかな
+cheap 安い／やすい
+flat 
+curved 
+male 
+female 
+tight 
+loose 
+high 高い／たかい
+low 低い／ひくい
+soft 柔らかい／やわらかい
+hard 硬い／かたい
+deep 深い／ふかい
+shallow 浅い／あさい
+clean 清潔な／せいけつな
+dirty 汚い／きたない
+strong 強い／つよい
+weak 弱い／よわい
+dead 
+alive 
+heavy 思い／おもい
+light (vs heavy) 軽い／かるい
+dark 暗い／くらい
+light (vs dark) 明るい／あかるい
+nuclear 
+famous 有名な／ゆうめいな
+
+I 私／わたし
+you (singular) あなた
+he 彼／かれ
+she 彼女／かのじょ
+we 私たち／わたしたち
+you (plural) あなたたち
+they 彼ら／かれら
