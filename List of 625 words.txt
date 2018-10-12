@@ -22,8 +22,8 @@ car 車／くるま
 truck トラック
 bicycle 自転車／じてんしゃ
 bus バス
-boat 
-ship 
+boat 舟／ふね HL(L)
+ship 船舶／せんぱく HLLL(L)
 tyre 
 petrol/gasoline ガソリン
 engine 
