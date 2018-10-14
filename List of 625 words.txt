@@ -1,20 +1,13 @@
-はし  chopsticks  HL(L)
-はし  bridge      LH(L)
-はし  edge        LH(H)
-
-
-
-animal(C)　動物／どうぶつ
-dog 犬／いぬ
-cat 猫／ねこ
-fish 魚／さかな
-bird 鳥／とり
-cow 牛／うし
-pig 豚／ぶた
-mouse 鼠／ねずみ
-horse 馬／うま
-wing 
-
+N animal(C)　動物／どうぶつ LHHH(H)
+N dog 犬／いぬ LH(L)
+N cat 猫／ねこ HL
+N fish 魚／さかな
+N bird 鳥／とり
+N cow 牛／うし
+N pig 豚／ぶた
+N mouse 鼠／ねずみ
+N horse 馬／うま
+N wing (of animal/plane) 翼／つばさ
 transportation(C) 交通／こうつう
 train 電車／でんしゃ
 plane 飛行機／ひこうき
@@ -22,12 +15,12 @@ car 車／くるま
 truck トラック
 bicycle 自転車／じてんしゃ
 bus バス
-boat 舟／ふね HL(L)
-ship 船舶／せんぱく HLLL(L)
-tyre 
+boat 舟／ふね HL
+ship 船舶／せんぱく HLLL
+tyre タイヤ
 petrol/gasoline ガソリン
-engine 
-(train) ticket 切符／きっぷ
+(motor) engine エンジン
+(train) ticket 切符／きっぷ LHH(H)
 
 location(C) 場所／ばしょ
 city 
@@ -661,3 +654,11 @@ she 彼女／かのじょ
 we 私たち／わたしたち
 you (plural) あなたたち
 they 彼ら／かれら
+
+
+
+
+はし  chopsticks  HL(L)
+はし  bridge      LH(L)
+はし  edge        LH(H)
+
