@@ -23,75 +23,77 @@ petrol/gasoline ガソリン
 (train) ticket 切符／きっぷ LHH(H)
 
 location(C) 場所／ばしょ
-city 
+city 都市／とし
 house 家／いえ
 apartment アパート
-street/road 
+street/road 通り／とおり
 airport 空港／くうこう
 (train) station 駅／えき
 bridge 橋／はし
 hotel ホテル
 restaurant 食堂／しょくどう
-farm 
-court 
+farm 農場／のうじょう
+(tribunal) court 法廷／ほうてい
 school 学校／がっこう
-office 
-room 
-town 
-university 
-club 
-bar 
-park 
-camp 
-store/shop 
-theater 
-library 
-hospital 
-church 
-market 
-country (USA, France, etc.) 
-building 
-ground 
-space (outer space) 
-bank 
+office 事務所／じむしょ
+room 部屋／へや
+town 町／まち
+university 大学／だいがく
+club クラブ
+bar 酒場／さかば
+park 公園／こうえん
+camp キャンプ場／キャンプじょう
+store/shop 店／みせ
+theater 劇場／げきじょう
+library 図書館／としょかん
+hospital 病院／びょういん
+church 教会／きょうかい
+market 市場／いちば
+country (USA, France, etc.) 国／くに
+building 建物／たてもの
+ground 地面／じめん
+space (outer space) 宇宙／うちゅう
+bank 銀行／ぎんこう
 
 clothing(C) 
-hat 
-dress 
+hat 帽子／ぼうし
+dress ドレス
 suit 
-skirt 
+skirt スカート
 shirt 
 T-shirt 
-pants 
-shoes 
+trousers ズボン
+shoes 靴／くつ
 pocket 
 coat 
 stain 
 
-colour(C)
-red 
-green 
-blue (light/dark) 
-yellow 
-brown 
-pink 
-orange 
-black 
-white 
-gray 
+colour(C) 色／いろ
+red 赤／あか
+green 緑／みどり
+blue/green 青／あお
+yellow 黄色／きいろ
+brown 茶色／ちゃいろ
+pink ピンク
+orange オレンジ色／おれんじいろ
+black 黒／くろ
+white 白／しろ
+grey 灰色／はいいろ
 
 person(C) 
-son* 
-daughter* 
-mother 
-father 
+son 息子／むすこ
+daughter 娘／むすめ
+mother 母／はは
+father 父／ちち
 parent (mother/father) 
-baby 
-man 
-woman 
-brother* 
-sister* 
-family 
+baby 赤ちゃん／あかちゃん
+man 男／おとこ
+woman 女／おんな
+elder brother 兄／あに
+younger brother 弟／おとうと
+elder sister 姉／あね
+younger sister 妹／いもうと
+family 家族／かぞく
 grandfather 
 grandmother 
 husband* 
@@ -99,13 +101,13 @@ wife*
 king 
 queen 
 president 
-neighbor 
-boy 
-girl 
-child (boy/girl) 
+neighbour 
+boy 男の子／おとこのこ
+girl 女の子／おんあのこ
+child (boy/girl) 子供／こども
 adult (man/woman) 
 human (not animal) 
-friend 
+friend 友達／ともだち
 victim 
 player 
 fan 
@@ -113,9 +115,9 @@ crowd
 
 job(C) 
 teacher 
-student 
+student 学生／がくせい
 lawyer 
-doctor 
+doctor 医者／いしゃ
 patient 
 waiter 
 secretary 
@@ -134,9 +136,9 @@ religion
 heaven 
 hell 
 death 
-medicine 
-money 
-dollar 
+medicine 薬／くすり
+money お金／おかね
+yen 円／えん
 bill 
 marriage* 
 wedding* 
@@ -153,11 +155,11 @@ war
 peace 
 attack 
 election 
-magazine 
-newspaper 
+magazine 雑誌／ざっし
+newspaper 新聞／しんぶん
 poison 
 gun 
-sport 
+sport スポーツ
 race (sport) 
 exercise 
 ball 
@@ -178,72 +180,73 @@ movie
 art 
 
 beverage(C) 
-coffee 
+coffee コーヒー
 tea 
-wine 
-beer 
-juice 
-water 
-milk 
+wine ワイン
+beer ビール
+juice ジュース
+water 水／みず
+milk 牛乳／ぎゅうにゅう
 
 food(C)
-egg 
-cheese 
-bread 
+egg 卵／たまご
+cheese チーズ
+bread パン
 soup 
-cake 
-chicken 
-pork 
-beef 
-apple 
-pear 
+cake ケーキ
+chicken (meat) 鶏肉／とりにく
+pork 豚肉／豚肉
+beef 牛肉／牛肉
+apple 林檎／りんご
+pear 梨／なし
 rice (raw) 
 rice (cooked) 
 oil 
-seed 
-knife 
-spoon 
-fork 
-chopsticks 
+seed 種／たね
+knife ナイフ
+spoon スプーン
+fork フォーク
+chopsticks 箸／はし
 plate 
 bowl 
 cup 
 breakfast 
 lunch 
 dinner 
-sugar 
-salt 
+sugar 砂糖／さとう
+salt 塩／しお
+pepper 故障／こしょう
 bottle 
 
 Home:
 table 
-chair 
+chair 椅子／いす
 bed 
-dream 
-window 
+dream 夢／ゆめ
+window 窓／まど
 door 
 bedroom 
-kitchen 
+kitchen 台所／だいどころ
 bathroom 
-pencil 
+pencil 鉛筆／えんぴつ
 pen 
-photograph 
+photograph 写真／しゃしｎ
 soap 
-book 
+book 本／ほん
 page 
-key 
+key 鍵／かぎ
 paint 
-letter 
+letter 手紙／てがみ
 note 
 wall 
-paper 
+paper 紙／かみ
 floor 
 ceiling 
-roof 
+roof 屋根／やね
 pool 
 lock 
-telephone 
-garden 
+telephone 電話／でんわ
+garden 庭／にわ
 yard 
 needle 
 bag 
@@ -251,7 +254,7 @@ box
 gift 
 card 
 ring 
-tool
+tool 
 
 electronic(C) 
 clock 
@@ -498,28 +501,29 @@ evening
 night 
 
 verb(C)
-work 
-play 
-walk 
-run 
-drive 
-fly 
-swim 
-go(C)  
+work 働く／はたらく
+play 遊ぶ／あそぶ
+walk 歩く／あるく
+run 走る／はしる
+drive 運転する
+fly 飛ぶ／とぶ
+swim 泳ぐ／およぐ
+go(C) 行く／いく
 stop 
 follow 
-think 
-speak/say 
-eat 
-drink 
+think 思う／おもう
+speak 話す／はなす
+say 言う／いう
+eat 食べる／たべる
+drink 飲む／のむ
 kill 
 die 
 smile 
 laugh 
 cry 
-buy* 
-pay* 
-sell* 
+buy* 買う／かう
+pay* 支払う／しはらう
+sell* 売る／うる
 shoot (a gun) 
 learn 
 jump 
