@@ -55,18 +55,18 @@ ground 地面／じめん
 space (outer space) 宇宙／うちゅう
 bank 銀行／ぎんこう
 
-clothing(C) 
+clothing(C) 衣類／いるい
 hat 帽子／ぼうし
 dress ドレス
-suit 
+suit 背広／せびろ
 skirt スカート
-shirt 
-T-shirt 
+shirt ワイシャツ
+T-shirt ティーシャツ
 trousers ズボン
 shoes 靴／くつ
-pocket 
-coat 
-stain 
+pocket ポケット
+overcoat 外套／がいとう
+stain 汚れ／よごれ
 
 colour(C) 色／いろ
 red 赤／あか
@@ -80,12 +80,13 @@ black 黒／くろ
 white 白／しろ
 grey 灰色／はいいろ
 
-person(C) 
+person(C) 人／ひと
 son 息子／むすこ
 daughter 娘／むすめ
 mother 母／はは
 father 父／ちち
-parent (mother/father) 
+parent (mother/father) 親／おや
+(both) parents 両親／りょうしん
 baby 赤ちゃん／あかちゃん
 man 男／おとこ
 woman 女／おんな
@@ -94,31 +95,31 @@ younger brother 弟／おとうと
 elder sister 姉／あね
 younger sister 妹／いもうと
 family 家族／かぞく
-grandfather 
-grandmother 
-husband* 
-wife* 
-king 
-queen 
-president 
-neighbour 
+grandfather 祖父／そふ
+grandmother 祖母／そぼ
+husband* 夫／おっと
+wife* 妻／つま
+king 王／おう
+queen 女王／じょおう
+president 大統領／だいとうりょう
+neighbour 隣の人／となりのひと
 boy 男の子／おとこのこ
 girl 女の子／おんあのこ
 child (boy/girl) 子供／こども
-adult (man/woman) 
-human (not animal) 
+adult (man/woman) 大人／おとな
+human 人間／にんげん
 friend 友達／ともだち
-victim 
-player 
-fan 
-crowd 
+victim 犠牲者／ぎせいしゃ
+player 選手／せんしゅ
+fan 愛好者／あいこうしゃ
+crowd 群衆／ぐんしゅう
 
-job(C) 
-teacher 
+job(C) 職業／しょくぎょう
+teacher 教師／きょうし
 student 学生／がくせい
-lawyer 
+lawyer 弁護士／べんごし
 doctor 医者／いしゃ
-patient 
+patient 患者／かんじゃ
 waiter 
 secretary 
 priest 
