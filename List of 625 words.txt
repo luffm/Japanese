@@ -200,6 +200,7 @@ pork 豚肉／豚肉
 beef 牛肉／牛肉
 apple 林檎／りんご
 pear 梨／なし
+mandarin orange 蜜柑／みかん
 rice (raw) 
 rice (cooked) 
 oil 
