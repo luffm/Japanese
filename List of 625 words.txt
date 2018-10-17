@@ -383,23 +383,23 @@ hole
 image 
 pattern 
 
-direction(C)
-top 
-bottom 
-side 
-front 
-back 
-outside 
-inside 
-up 
-down 
-left 
-right 
-straight 
-north 
-south 
-east 
-west 
+direction(C) 方向／ほうこう
+top 上部／じょうぶ 
+bottom 底／そこ
+side 側／そば
+in front 前に／まえに
+behind 後ろに／うしろに
+outside 外／そと
+inside 中／なか
+up 上へ／うえへ
+down 下へ／したへ
+left 左／ひだり
+right 右／みぎ
+straight 真っ直ぐ
+north 北／きた
+south 南／みなみ
+east 東／ひがし
+west 西／にし
 
 season(C) 季節／きせつ
 Summer 夏／なつ
