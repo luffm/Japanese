@@ -21,7 +21,6 @@ tyre タイヤ
 petrol/gasoline ガソリン
 (motor) engine エンジン
 (train) ticket 切符／きっぷ LHH(H)
-
 location(C) 場所／ばしょ
 city 都市／とし
 house 家／いえ
@@ -54,7 +53,6 @@ building 建物／たてもの
 ground 地面／じめん
 space (outer space) 宇宙／うちゅう
 bank 銀行／ぎんこう
-
 clothing(C) 衣類／いるい
 hat 帽子／ぼうし
 dress ドレス
@@ -67,7 +65,6 @@ shoes 靴／くつ
 pocket ポケット
 overcoat 外套／がいとう
 stain 汚れ／よごれ
-
 colour(C) 色／いろ
 red 赤／あか
 green 緑／みどり
@@ -79,7 +76,6 @@ orange オレンジ色／おれんじいろ
 black 黒／くろ
 white 白／しろ
 grey 灰色／はいいろ
-
 person(C) 人／ひと
 son 息子／むすこ
 daughter 娘／むすめ
