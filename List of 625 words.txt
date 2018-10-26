@@ -77,10 +77,10 @@ black 黒／くろ
 white 白／しろ
 grey 灰色／はいいろ
 person(C) 人／ひと
-son 息子／むすこ
-daughter 娘／むすめ
-mother 母／はは
-father 父／ちち
+son 息子／むすこ LHH(H)
+daughter 娘／むすめ LHH(H)
+mother 母／はは HL
+father 父／ちち LH
 parent (mother/father) 親／おや
 (both) parents 両親／りょうしん
 baby 赤ちゃん／あかちゃん
