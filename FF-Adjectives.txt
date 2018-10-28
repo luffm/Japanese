@@ -1,0 +1,64 @@
+long 長い／ながい
+short (vs long) 短い／みじかい
+tall (person) 背が高い／せがたかい
+short (person) 背が低い／せがひくい
+wide 広い／ひろい
+narrow 狭い／せまい
+big/large 大きい／おおきい
+small/little 小さい／ちいさい
+slow 遅い／おそい
+fast 速い／はやい
+hot 暑い／あつい
+cold (to touch) 冷たい／つめたい
+warm 暖かい／あたたかい
+cool 涼しい／すずしい
+new 新しい／あたらしい
+old (vs new) 古い／ふるい
+young 若い／わかい
+old (vs young) 
+good いい
+bad 悪い／わるい
+wet 
+dry 
+sick 
+healthy 
+loud 煩い／うるさい
+quiet 静かな／しずかな
+happy 
+sad 
+beautiful 美しい／うつくしい
+ugly 
+deaf 
+blind 
+nice 
+mean 
+rich 
+poor 
+thick (object) 厚い／あつい
+thin (object) 薄い／うすい
+expensive 高価な／こうかな
+cheap 安い／やすい
+flat 
+curved 
+male 
+female 
+tight 
+loose 
+high 高い／たかい
+low 低い／ひくい
+soft 柔らかい／やわらかい
+hard 硬い／かたい
+deep 深い／ふかい
+shallow 浅い／あさい
+clean 清潔な／せいけつな
+dirty 汚い／きたない
+strong 強い／つよい
+weak 弱い／よわい
+dead 
+alive 
+heavy 思い／おもい
+light (vs heavy) 軽い／かるい
+dark 暗い／くらい
+light (vs dark) 明るい／あかるい
+nuclear 
+famous 有名な／ゆうめいな
