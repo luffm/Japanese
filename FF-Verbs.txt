@@ -1,0 +1,83 @@
+work 働く／はたらく
+play 遊ぶ／あそぶ
+walk 歩く／あるく
+run 走る／はしる
+drive 運転する
+fly 飛ぶ／とぶ
+swim 泳ぐ／およぐ
+go(C) 行く／いく
+stop 
+follow 
+think 思う／おもう
+speak 話す／はなす
+say 言う／いう
+eat 食べる／たべる
+drink 飲む／のむ
+kill 
+die 
+smile 
+laugh 
+cry 
+buy* 買う／かう
+pay* 支払う／しはらう
+sell* 売る／うる
+shoot (a gun) 
+learn 
+jump 
+smell 
+hear* (a sound) 
+listen* (music) 
+taste 
+touch 
+see (a bird) 
+watch (TV) 
+kiss 
+burn 
+melt 
+dig 
+explode 
+sit 
+stand 
+love 
+pass by 
+cut 
+fight 
+lie down 
+dance 
+sleep 
+wake up 
+sing 
+count 
+marry 
+pray 
+win 
+lose 
+mix/stir 
+bend 
+wash 
+cook 
+open 
+close 
+write 
+call 
+turn 
+build 
+teach 
+grow 
+draw 
+feed 
+catch 
+throw 
+clean 
+find 
+fall 
+push 
+pull 
+carry 
+break 
+wear 
+hang 
+shake 
+sign 
+beat 
+lift
