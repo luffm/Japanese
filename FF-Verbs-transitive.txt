@@ -6,7 +6,8 @@ drive 運転する
 fly 飛ぶ／とぶ
 swim 泳ぐ／およぐ
 go(C) 行く／いく
-stop 
+stop (quit) やめる
+stop (halt a motion) 止める／とめる
 follow 
 think 思う／おもう
 speak 話す／はなす
