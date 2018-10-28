@@ -1,13 +1,13 @@
-N animal(C)　動物／どうぶつ LHHH(H)
-N dog 犬／いぬ LH(L)
-N cat 猫／ねこ HL
-N fish 魚／さかな
-N bird 鳥／とり
-N cow 牛／うし
-N pig 豚／ぶた
-N mouse 鼠／ねずみ
-N horse 馬／うま
-N wing (of animal/plane) 翼／つばさ
+animal(C)　動物／どうぶつ LHHH(H)
+dog 犬／いぬ LH(L)
+cat 猫／ねこ HL
+fish 魚／さかな
+bird 鳥／とり
+cow 牛／うし
+pig 豚／ぶた
+mouse 鼠／ねずみ
+horse 馬／うま
+wing (of animal/plane) 翼／つばさ
 transportation(C) 交通／こうつう
 train 電車／でんしゃ
 plane 飛行機／ひこうき
@@ -28,7 +28,7 @@ apartment アパート
 street/road 通り／とおり
 airport 空港／くうこう
 (train) station 駅／えき
-bridge 橋／はし
+bridge 橋／はし LH(L)
 hotel ホテル
 restaurant 食堂／しょくどう
 farm 農場／のうじょう
@@ -204,7 +204,7 @@ seed 種／たね
 knife ナイフ
 spoon スプーン
 fork フォーク
-chopsticks 箸／はし
+chopsticks 箸／はし HL(L)
 plate 
 bowl 
 cup 
@@ -363,7 +363,6 @@ weight
 edge 
 corner 
 
-noun(C) 
 map 
 dot 
 consonant 
@@ -498,156 +497,9 @@ afternoon
 evening 
 night 
 
-verb(C)
-work 働く／はたらく
-play 遊ぶ／あそぶ
-walk 歩く／あるく
-run 走る／はしる
-drive 運転する
-fly 飛ぶ／とぶ
-swim 泳ぐ／およぐ
-go(C) 行く／いく
-stop 
-follow 
-think 思う／おもう
-speak 話す／はなす
-say 言う／いう
-eat 食べる／たべる
-drink 飲む／のむ
-kill 
-die 
-smile 
-laugh 
-cry 
-buy* 買う／かう
-pay* 支払う／しはらう
-sell* 売る／うる
-shoot (a gun) 
-learn 
-jump 
-smell 
-hear* (a sound) 
-listen* (music) 
-taste 
-touch 
-see (a bird) 
-watch (TV) 
-kiss 
-burn 
-melt 
-dig 
-explode 
-sit 
-stand 
-love 
-pass by 
-cut 
-fight 
-lie down 
-dance 
-sleep 
-wake up 
-sing 
-count 
-marry 
-pray 
-win 
-lose 
-mix/stir 
-bend 
-wash 
-cook 
-open 
-close 
-write 
-call 
-turn 
-build 
-teach 
-grow 
-draw 
-feed 
-catch 
-throw 
-clean 
-find 
-fall 
-push 
-pull 
-carry 
-break 
-wear 
-hang 
-shake 
-sign 
-beat 
-lift
-
+noun(C) 
 adjective(C)
-long 長い／ながい
-short (vs long) 短い／みじかい
-tall (person) 背が高い／せがたかい
-short (person) 背が低い／せがひくい
-wide 広い／ひろい
-narrow 狭い／せまい
-big/large 大きい／おおきい
-small/little 小さい／ちいさい
-slow 遅い／おそい
-fast 速い／はやい
-hot 暑い／あつい
-cold (to touch) 冷たい／つめたい
-warm 暖かい／あたたかい
-cool 涼しい／すずしい
-new 新しい／あたらしい
-old (vs new) 古い／ふるい
-young 若い／わかい
-old (vs young) 
-good いい
-bad 悪い／わるい
-wet 
-dry 
-sick 
-healthy 
-loud 煩い／うるさい
-quiet 静かな／しずかな
-happy 
-sad 
-beautiful 美しい／うつくしい
-ugly 
-deaf 
-blind 
-nice 
-mean 
-rich 
-poor 
-thick (object) 厚い／あつい
-thin (object) 薄い／うすい
-expensive 高価な／こうかな
-cheap 安い／やすい
-flat 
-curved 
-male 
-female 
-tight 
-loose 
-high 高い／たかい
-low 低い／ひくい
-soft 柔らかい／やわらかい
-hard 硬い／かたい
-deep 深い／ふかい
-shallow 浅い／あさい
-clean 清潔な／せいけつな
-dirty 汚い／きたない
-strong 強い／つよい
-weak 弱い／よわい
-dead 
-alive 
-heavy 思い／おもい
-light (vs heavy) 軽い／かるい
-dark 暗い／くらい
-light (vs dark) 明るい／あかるい
-nuclear 
-famous 有名な／ゆうめいな
+verb(C)
 
 I 私／わたし
 you (singular) あなた
