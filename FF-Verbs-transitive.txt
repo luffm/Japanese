@@ -1,35 +1,43 @@
-work 働く／はたらく
-play 遊ぶ／あそぶ
-walk 歩く／あるく
-run 走る／はしる
-drive 運転する
-fly 飛ぶ／とぶ
-swim 泳ぐ／およぐ
-go(C) 行く／いく
-stop (quit) やめる
-stop (halt a motion) 止める／とめる
-follow 
-think 思う／おもう
-speak 話す／はなす
-say 言う／いう
-eat 食べる／たべる
-drink 飲む／のむ
-kill 
-die 
-smile 
-laugh 
-cry 
-buy* 買う／かう
-pay* 支払う／しはらう
-sell* 売る／うる
-shoot (a gun) 
-learn 
-jump 
-smell 
-hear* (a sound) 
-listen* (music) 
-taste 
-touch 
+to stop (to quit) やめる
+to stop (to halt a motion) 止める／とめる
+to think 思う／おもう
+to speak 話す／はなす
+to say 言う／いう
+to eat 食べる／たべる
+to drink 飲む／のむ
+to kill 
+to buy 買う／かう
+to pay 支払う／しはらう
+to sell 売る／うる
+to shoot (a gun) 
+
+Intransitive
+============================================
+to work 働く／はたらく
+to play 遊ぶ／あそぶ
+to walk 歩く／あるく
+to run 走る／はしる
+to drive 運転する
+to fly 飛ぶ／とぶ
+to swim 泳ぐ／およぐ
+to go(C) 行く／いく
+to stop (to be over) 止む／やむ
+to stop (come to a halt) 止まる／とまる
+to die 
+to smile 
+to laugh 
+to cry 
+
+============================================
+to follow 
+
+to learn 
+to jump 
+to smell 
+to hear* (a sound) 
+to listen* (music) 
+to taste 
+to touch 
 see (a bird) 
 watch (TV) 
 kiss 
