@@ -15,6 +15,12 @@ to learn something 学ぶ／まなぶ
 to smell 臭いを嗅ぐ／においをかぐ
 to listen; to hear 聴く／きく 聞く／きく
 to see; to watch 見る／みる
+to taste 味わう／あじわう
+to burn something 燃やす／もやす
+to melt something 溶かす／とかす
+to dig 掘る／ほる
+to love 愛する／あいする
+to cut 切る／きる
 
 
 Intransitive
@@ -36,58 +42,53 @@ to cry
 to follow; to go after 付いて行く／ついていく
 to jump 跳ぶ／とぶ
 to be heard; to be audible 聞こえる／きこえる
+to touch 触る／さわる
+to kiss 接吻をする／接吻をする
+to burn 燃える／もえる
+to melt 溶ける／とける
+to explode 爆発する／ばくはつする
+to sit down 座る／すわる
+to stand up 立つ／たつ
+to pass by 通り過ぎる／とおりすぎる
+to fight 戦う／たたかう
+to lie down 横になる／よこになる
+to dance 踊る／おどる
 
-
-
-to taste 
-to touch 
-kiss 
-burn 
-melt 
-dig 
-explode 
-sit 
-stand 
-love 
-pass by 
-cut 
-fight 
-lie down 
-dance 
-sleep 
-wake up 
-sing 
-count 
-marry 
-pray 
-win 
-lose 
-mix/stir 
-bend 
-wash 
-cook 
-open 
-close 
-write 
-call 
-turn 
-build 
-teach 
-grow 
-draw 
-feed 
-catch 
-throw 
-clean 
-find 
-fall 
-push 
-pull 
-carry 
-break 
-wear 
-hang 
-shake 
-sign 
-beat 
-lift
+to sleep 眠る／ねむる
+to go to sleep 寝る／ねる
+to wake up 起きる／おきる
+to sing 歌う／うたう
+to count 
+to marry 
+to pray 
+to win 
+to lose 
+to mix/stir 
+to bend 
+to wash 洗う／あらう
+to cook 
+to open 開ける／あける
+close 閉める／しめる
+to write 書く／かく
+to call 
+to turn 
+to build 
+to teach 教える／おしえる
+to grow 
+to draw 
+to feed 
+to catch 
+to throw 
+to clean 
+to find 見つかる／みつかる
+to fall 
+to push 押す／おす
+to pull 引く／ひく
+to carry 
+to break 
+to wear 
+to hang 
+to shake 
+to sign 
+to beat 
+to lift
