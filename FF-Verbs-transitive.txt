@@ -21,6 +21,17 @@ to melt something 溶かす／とかす
 to dig 掘る／ほる
 to love 愛する／あいする
 to cut 切る／きる
+to sing 歌う／うたう
+to count 数える／かぞえる
+to pray 祈る／いのる
+to mix/combine 混ぜる／まぜる
+to bend 曲げる／まげる
+to wash 洗う／あらう
+to bake 焼く／やく
+to boil 煮る／にる
+to open 開ける／あける
+to close 閉める／しめる
+to write 書く／かく
 
 
 Intransitive
@@ -43,7 +54,7 @@ to follow; to go after 付いて行く／ついていく
 to jump 跳ぶ／とぶ
 to be heard; to be audible 聞こえる／きこえる
 to touch 触る／さわる
-to kiss 接吻をする／接吻をする
+to kiss 接吻をする／せっぷんをする
 to burn 燃える／もえる
 to melt 溶ける／とける
 to explode 爆発する／ばくはつする
@@ -53,23 +64,17 @@ to pass by 通り過ぎる／とおりすぎる
 to fight 戦う／たたかう
 to lie down 横になる／よこになる
 to dance 踊る／おどる
-
 to sleep 眠る／ねむる
 to go to sleep 寝る／ねる
 to wake up 起きる／おきる
-to sing 歌う／うたう
-to count 
-to marry 
-to pray 
-to win 
-to lose 
-to mix/stir 
-to bend 
-to wash 洗う／あらう
-to cook 
-to open 開ける／あける
-close 閉める／しめる
-to write 書く／かく
+to marry 結婚する／けっこんする
+to win 勝つ／かつ
+to lose 負ける／まける
+to open 
+to close 
+
+
+
 to call 
 to turn 
 to build 
