@@ -32,6 +32,24 @@ to boil 煮る／にる
 to open 開ける／あける
 to close 閉める／しめる
 to write 書く／かく
+to call; to call out to 呼ぶ／よぶ
+to turn 回す／まわす
+to build 建てる／たてる
+to teach 教える／おしえる
+to draw 描く／かく
+to catch 捕る／とる
+to throw 投げる／なげる
+to make clean きれいにする
+to find 見付ける／みつける
+to push 押す／おす
+to pull 引く／ひく
+to carry 運ぶ／はこぶ
+to break 壊す／こわす
+to wear 着る／きる
+to hang 掛ける／かける
+to beat; to defeat 破る／やぶる
+to lift 持ち上げる／もちあげる
+
 
 
 Intransitive
@@ -72,28 +90,10 @@ to win 勝つ／かつ
 to lose 負ける／まける
 to open 
 to close 
+to turn 回る／まわる
+to grow 生える／はえる
+to fall 落ちる／おちる
+to break; to be broken 壊れる／こわれる
+to hang 掛かる／かかる
+to shake 揺れる／ゆれる
 
-
-
-to call 
-to turn 
-to build 
-to teach 教える／おしえる
-to grow 
-to draw 
-to feed 
-to catch 
-to throw 
-to clean 
-to find 見つかる／みつかる
-to fall 
-to push 押す／おす
-to pull 引く／ひく
-to carry 
-to break 
-to wear 
-to hang 
-to shake 
-to sign 
-to beat 
-to lift
