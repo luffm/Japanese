@@ -8,10 +8,10 @@ to swim 泳ぐ／およぐ
 to go(C) 行く／いく
 to stop; to be over 止む／やむ
 to stop; to come to a halt 止まる／とまる
-to die 
-to smile 
-to laugh 
-to cry 
+to die 死ぬ／しぬ
+to smile 微笑む／ほほえむ
+to laugh 笑う／わらう
+to cry 泣く／なく
 to follow; to go after 付いて行く／ついていく
 to jump 跳ぶ／とぶ
 to be heard; to be audible 聞こえる／きこえる
@@ -32,8 +32,8 @@ to wake up 起きる／おきる
 to marry 結婚する／けっこんする
 to win 勝つ／かつ
 to lose 負ける／まける
-to open 
-to close 
+to open 開く／あく
+to close 閉まる／しまる
 to turn 回る／まわる
 to grow 生える／はえる
 to fall 落ちる／おちる
