@@ -19,3 +19,14 @@
             if not p:
                 # e.g. "20" would result in ['2', '']
                 nopron[-1] = nopron[-1] * 10
+
+kana_conv = {'カ':'ガ',
+             'キ':'ギ',
+             'ク':'グ',
+             'ケ':'ゲ',
+             'コ':'ゴ'}
+
+new = list(midashigo1)
+for pos in nasal:
+    new[pos-1] = kana_conv[new[pos-1]]
+midashigo1 = ''.join(new)
