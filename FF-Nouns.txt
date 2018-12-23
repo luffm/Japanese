@@ -116,17 +116,17 @@ student 学生／がくせい
 lawyer 弁護士／べんごし
 doctor 医者／いしゃ
 patient 患者／かんじゃ
-waiter 
-secretary 
-priest 
-police 
-army 
-soldier 
-artist 
-author 
-manager 
-reporter 
-actor 
+waiter 給仕人／きゅうじにん
+secretary 秘書／ひしょ
+monk; priest 僧／そう
+police 警察／けいさつ 
+armed forces; military 軍隊／ぐんたい
+soldier 兵士／へいし
+painter; artist 画家／がか
+author; writer 作家／さっか
+manager; proprietor 経営者／けいえいしゃ
+reporter 記者／きしゃ
+actor 俳優／はいゆう
 
 Society:
 religion 
