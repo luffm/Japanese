@@ -167,6 +167,7 @@ drug
 sign 
 science 
 God 
+explosion 爆発／ばくはつ
 
 Art:
 band 
