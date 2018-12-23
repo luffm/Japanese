@@ -17,7 +17,6 @@ to be heard; to be audible 聞こえる／きこえる
 to touch 触る／さわる
 to burn 燃える／もえる
 to melt 溶ける／とける
-to explode 爆発する／ばくはつする
 to sit down 座る／すわる
 to stand up 立つ／たつ
 to pass by 通り過ぎる／とおりすぎる
@@ -27,7 +26,6 @@ to dance 踊る／おどる
 to sleep 眠る／ねむる
 to go to sleep 寝る／ねる
 to wake up 起きる／おきる
-to marry 結婚する／けっこんする
 to win 勝つ／かつ
 to lose 負ける／まける
 to open 開く／あく
