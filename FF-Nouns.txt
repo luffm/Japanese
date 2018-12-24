@@ -109,7 +109,6 @@ victim 犠牲者／ぎせいしゃ
 player 選手／せんしゅ
 fan 愛好者／あいこうしゃ
 crowd 群衆／ぐんしゅう
-
 job; occupation 職業／しょくぎょう
 teacher 教師／きょうし
 student 学生／がくせい
