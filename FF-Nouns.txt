@@ -110,13 +110,13 @@ player 選手／せんしゅ
 fan 愛好者／あいこうしゃ
 crowd 群衆／ぐんしゅう
 
-job(C) 職業／しょくぎょう
+job; occupation 職業／しょくぎょう
 teacher 教師／きょうし
 student 学生／がくせい
 lawyer 弁護士／べんごし
 doctor 医者／いしゃ
 patient 患者／かんじゃ
-waiter 給仕人／きゅうじにん
+waiter 給仕／きゅうじ
 secretary 秘書／ひしょ
 monk; priest 僧／そう
 police 警察／けいさつ 
