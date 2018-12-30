@@ -126,46 +126,45 @@ author; writer 作家／さっか
 manager; proprietor 経営者／けいえいしゃ
 reporter 記者／きしゃ
 actor 俳優／はいゆう
-
-Society:
-religion 
-heaven 
-hell 
-death 
+　Society:religion 宗教／しゅうきょう
+heaven 天国／てんごく
+hell 地獄／じごく
+death 死／し
 medicine 薬／くすり
 money お金／おかね
 yen 円／えん
-bill 
-marriage* 
-wedding* 
-team 
-relationship 
-race (ethnicity) 
-intercourse 
-sex (gender) 
-murder 
-prison 
-technology 
-energy 
-war 
-peace 
-attack 
-election 
+banknote 札／さつ
+bill (settlement of charges) 勘定／かんじょう
+marriage* 結婚／けっこん
+wedding* 結婚式／けっこんしき
+team チーム
+relationship 関係／かんけい
+race (racial group) 人種／じんしゅ
+sexual intercourse 性交／せいこう
+gender; sex 性別／せいべつ
+murder 殺人／さつじん
+prison 刑務所／けいむしょ
+technology 技術／ぎじゅつ
+energy (of physics) エネルギー
+war 戦争／せんそう
+peace 平和／へいわ
+attack 攻撃／こうげき
+election 選挙／せんきょ
 magazine 雑誌／ざっし
 newspaper 新聞／しんぶん
-poison 
-gun 
+poison 毒／どく
+gun 銃／じゅう
 sport スポーツ
-race (sport) 
-exercise 
-ball 
-game 
-price 
-contract 
-drug 
-sign 
-science 
-God 
+competition; race 競争／きょうそう
+exercise 運動／うんどう
+ball (for sports) ボール
+match; game 試合／しあい
+price 値段／ねだん
+contract 契約／けいやく
+drug; narcotic 麻薬／まやく
+notice; sign 掲示／けいじ
+science 科学／かがく
+God 神／かみ
 explosion 爆発／ばくはつ
 
 Art:
