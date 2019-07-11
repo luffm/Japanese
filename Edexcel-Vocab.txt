@@ -1,0 +1,4185 @@
+================================================================================
+Section 1: High-frequency language
+================================================================================
+
+Common verbs
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+あう	会う	to meet
+あける	開ける	to open
+あげる	(uk)	to give
+あそぶ	遊ぶ	to play, to socialize
+あつまる	集まる	to assemble
+あつめる	集める	to collect
+あらう	洗う	to wash
+ある		(uk)	to be, to exist
+あるく	歩く	to walk
+いう	言う	to say
+いく	行く	to go
+いそぐ	急ぐ	to hurry
+いる	(uk)	to be, to exist
+いれる	入れる	to put in
+うごく	動く	to move
+うたう	歌う	to sing
+うまれる	生まれる	to be born
+うる	売る	to sell
+えらぶ	選ぶ	to choose
+おきる	起きる	to wake up, to get up
+おくる	送る	to send
+おこる	怒る	to get angry
+おしえる	教える	to teach, to tell
+おす	押す	to push
+おとす	落とす	to drop
+おどる	踊る	to dance
+おぼえる	覚える	to learn, to remember
+おもう	思う	to think
+およぐ	泳ぐ	to swim
+おりる	降りる	to get off
+おわる	終わる	to end
+かう	買う	to buy
+かう	飼う	to keep a pet
+かえす	返す	to return something
+かえる	帰る	to go home
+かかる	かかる	to take
+かく	描く	to draw
+かく	書く	to write
+（かぎを）かける	（鍵を）かける	to lock
+（でんわを）かける	（電話を）かける	to make a phone call
+（めがねを）かける	（眼鏡を）かける	to wear glasses
+かす	貸す	to lend
+かつ	勝つ	to win
+かぶる	(uk)	to wear (hats etc)
+かりる	借りる	to borrow
+（のどが）かわく	(uk)	to be thirsty
+かんがえる	考える	to think
+がんばる	頑張る	to do one's best, to endure
+きく	聞く、聴く	to hear, to listen
+きこえる	聞こえる	to be audible
+きめる	決める	to decide
+きる	着る	to wear
+くもる	曇る	to be cloudy
+くる	来る	to come
+こたえる	答える	to answer
+こむ	混む	to be crowded
+しぬ	死ぬ	to die
+しめる	閉める	to close
+しらせる	知らせる	to notify
+しる	知る	to know
+すう	吸う	to smoke, to inhale
+（おなかが）すく	（お腹が）すく	to get hungry
+すてる	捨てる	to throw out
+すむ	住む	to live
+する	(uk)	to do
+すわる	座る	to sit
+だす	出す	to put out, to hand in
+たすける	助ける	to help
+たつ	立つ	to stand up
+たてる	建てる	to build
+たべる	食べる	to eat
+ちがう	違う	to be different, to be wrong
+つかう	使う	to use
+つかれる	疲れる	to get tired
+つく	着く	to arrive
+つくる	作る	to make
+（でんきを）つける	（電気を）つける	to switch on (a light)
+つたえる	伝える	to pass on a message
+つづける	続ける	to continue
+できる	(uk)	to be able to
+てつだう	手伝う	to help
+でる	出る	to go out
+とおる	通る	to go through
+とまる	泊る	to stay somewhere
+とまる	止まる	to stop
+とる	取る	to take
+とる	撮る	to take a photograph
+なおす	直す	to repair
+なく	泣く	to cry
+なくす	(uk)	to lose
+なげる	投げる	to throw
+ならう	習う	to learn
+なる	成る	to become
+ぬぐ	脱ぐ	to take off (clothes)
+ねる	寝る	to sleep, to go to bed
+のぼる	登る、上る	to climb
+のむ	飲む	to drink
+のる	乗る	to ride on a method of transport
+はいる	入る	to enter
+はく	(uk)	to wear (shoes, trousers etc)
+はじめる	始める	to start
+はしる	走る	to run
+はたらく	働く	to work
+はなす	話す	to talk
+はらう	払う	to pay
+はれる	晴れる	to be sunny
+ひく	弾く	to play a musical instrument
+ひく	引く	to subtract, to draw a line
+(かぜを）ひく	（風邪を）ひく	to catch a cold
+ふえる	増える	to increase
+（あめが）ふる	（雨が）降る	to rain
+へる	減る	to decrease
+まがる	曲がる	to turn
+まける	負ける	to lose
+まちがえる	間違える	to make a mistake
+まつ	待つ	to wait
+みえる	見える	to be visible
+みがく	磨く	to polish
+みせる	見せる	to show
+みつける	見つける	to find
+みる	見る	to see, to watch, to look
+もつ	持つ	to hold, to carry
+もっていく	持って行く	to take something
+もってくる	持って来る	to bring something
+もどる	戻る	to return
+もらう	(uk)	to receive
+やすむ	休む	to rest
+（あめが）やむ	（雨が）やむ	to stop (raining)
+やめる	辞める	to quit
+よぶ	呼ぶ	to call
+よむ	読む	to read
+わかる	分かる	to understand
+わすれる	忘れる	to forget
+わらう	笑う	to laugh
+
+Higher tier
+--------------------------------------------------------------------------------
+あがる	上がる	to rise
+あく	開く	to open
+あげる	上げる	to raise
+（シャワーを）あびる	（シャワーを）浴びる	to have a shower
+いきる	生きる	to live
+いじめる	(uk)	to bully
+いる	要る	to need
+（しけんに）うかる	（試験に）受かる	to pass (an exam)
+うける	受ける	to receive, to take an exam
+うつ	打つ	to hit
+おく	置く	to place, to put
+おくれる	遅れる	to be late
+おちる	落ちる	to fall
+おもいだす	思い出す	to recall
+かえる	変える、替える、換える	to change
+かたづける	片づける	to tidy up
+かむ	(uk)	to chew
+かわる	変わる	to change
+きまる	決まる	to be decided
+きる	切る	to cut
+きをつける	気を付ける	to be careful
+くらべる	比べる	to compare
+けす	消す	to switch off
+こまる	困る	to be in trouble, to be stuck
+ころぶ	転ぶ	to fall over
+こわす	壊す	to break
+こわれる	壊れる	to be broken
+さがす	探す	to search for
+さがる	下がる	to fall
+さく	咲く	to bloom
+さわる	触る	to touch
+しまる	閉まる	to close
+しめる	(uk)	to wear (belt, etc.)
+しらべる	調べる	to investigate
+しんじる	信じる	to believe
+たずねる	尋ねる	to ask
+たずねる	訪ねる	to visit
+たたく	叩く	to strike
+たのしむ	楽しむ	to enjoy
+たのむ	頼む	to request
+ついていく	ついて行く	to go (with someone)
+ついてくる	ついて来る	to come (with someone)
+つける	付ける	to attach
+つづく	続く	to continue
+つとめる	勤める	to work
+つれていく	連れて行く	to take (someone)
+つれてくる	連れて来る	to bring (someone)
+でかける	出かける	to go out
+とどける	届ける	to deliver
+とぶ	飛ぶ、跳ぶ	to fly, to jump
+とめる	止める	to stop
+なおる	治る	to get better
+なくなる	亡くなる	to pass away
+なくなる	無くなる	to lose something
+ならぶ	並ぶ	to line up
+ならべる	並べる	to line up
+にげる	逃げる	to run away
+にる	似る	to be similar to
+ぬすむ	盗む	to steal
+のこす	残す	to leave something remaining
+のりかえる	乗り換える	to change (trains)
+はこぶ	運ぶ	to carry, to transport
+はじまる	始まる	to start
+はる	貼る	to attach, to stick
+ひろう	拾う	to pick up
+ふく	吹く	to blow
+へらす	減らす	to reduce
+まにあう	間に合う	to be on time, be sufficient
+もうしこむ	申し込む	to apply, to register
+やくにたつ	役に立つ	to be useful
+やる	(uk)	to do, to give
+ゆるす	許す、赦す	to permit, to forgive
+よる	(uk)	to drop by
+よろこぶ	喜ぶ	to rejoice
+わかれる	別れる	to separate
+わたる	渡る	to cross
+
+I adjectives
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+あかるい	明るい	bright
+あたたかい	暖かい	warm
+あたらしい	新しい	new
+あつい	暑い	hot (climate)
+あつい	熱い	hot (to touch)
+あぶない	危ない	dangerous
+いい	(uk)	good
+いそがしい	忙しい	busy
+いたい	痛い	painful
+うるさい	(uk)	noisy
+うれしい	(uk)	happy, pleased
+おいしい	美味しい	tasty
+おおい	多い	many
+おおきい	大きい	large, big
+おかしい	(uk)	funny
+おそい	遅い	slow, late
+おもしろい	面白い	interesting
+かなしい	悲しい	sad
+かわいい	(uk)	cute
+きたない	汚い	dirty
+きびしい	厳しい	strict, tough
+くらい	暗い	dark
+こわい	怖い	scary
+さむい	寒い	cold
+すくない	少ない	few
+すごい	(uk)	fantastic
+すずしい	涼しい	cool
+すばらしい	素晴らしい	wonderful
+たかい	高い	high, expensive
+ただしい	正しい	correct
+たのしい	楽しい	enjoyable
+ちいさい	小さい	small
+ちかい	近い	near
+つまらない	(uk)	boring
+つめたい	冷たい	cold (to touch)
+つよい	強い	strong
+とおい	遠い	far
+ながい	長い	long
+はやい	早い	early
+はやい	速い	fast
+ふるい	古い	old
+ほしい	欲しい	desirable
+まずい	(uk)	horrible to taste
+まるい	丸い	round
+みじかい	短い	short
+むしあつい	蒸し暑い	hot and sticky
+むずかしい	難しい	difficult
+めずらしい	珍しい	unusual, rare
+やさしい	優しい	kind
+やすい	安い	cheap
+よい	良い	good
+よわい	弱い	weak
+わかい	若い	young
+わるい	悪い	bad
+
+Higher tier
+--------------------------------------------------------------------------------
+あつい	厚い	thick
+あまい	甘い	sweet
+うすい	薄い	thin
+うつくしい	美しい	beautiful
+うまい	(uk)	tasty, good at
+えらい	偉い	distinguished, great
+おとなしい	(uk)	quiet
+おもい	重い	heavy
+かたい	硬い	hard
+かっこいい	(uk)	stylish, good looking
+からい	辛い	spicy
+かるい	軽い	light (in weight)
+くるしい	苦しい	trying, rough
+くわしい	詳しい	detailed
+さびしい	寂しい	lonely
+せまい	狭い	narrow
+ねむい	眠い	sleepy
+はずかしい	恥ずかしい	embarrassing
+ひくい	低い	low
+ひろい	広い	wide, spacious
+ふとい	太い	thick, wide
+ほそい	細い	thin, narrow
+やさしい	易しい	easy
+やわらかい	柔らかい	soft
+
+Na adjectives
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+いやな	嫌な	dislikeable
+いろいろな	色々な	various
+おいしそうな	(uk)	looks tasty
+おおきな	大きな	large, big
+きらいな	嫌いな	dislilkeable
+きれいな	綺麗な	beautiful, pretty, clean
+げんきな	元気な	lively, energentic, healthy
+しずかな	静かな	quiet
+じゅうぶんな	充分な	sufficient
+じょうずな	上手な	good at
+しんぱいな	心配な	worrying
+すきな	好きな	likeable
+すてきな	素敵な	lovely
+だいすきな	大好きな	that which I love
+たいへんな	大変な	hard, troublesome
+だめな	(uk)	no good
+ちいさな	小さな	small
+とくいな	得意な	good at
+にがてな	苦手な	bad at
+にぎやかな	(uk)	lively, noisy
+ハンサムな	(uk)	handsome
+ひまな	暇な	having free time
+ふべんな	不便な	inconvenient
+へたな	下手な	bad at
+べんりな	便利な	convenient
+まじめな	真面目な	studious, hard working, serious
+むりな	無理な	impossible, difficult
+ゆうめいな	有名な	famous
+
+Higher tier
+--------------------------------------------------------------------------------
+あんぜんな	安全な	safe
+おしゃべりな	(uk)	chatter box
+かんたんな	簡単な	simple
+きけんな	危険な	dangerous
+けんこうてきな	健康的な	healthy
+けんこうな	健康な	healthy
+ごうかな	豪華な	luxurious
+しあわせな	幸せな	happy
+しつれいな	失礼な	rude
+じゃまな	邪魔な	in the way, hindering
+じゆうな	自由な	free
+しょうじきな	正直な	honest
+しんせつな	親切な	kind
+だいじな	大事な	precious
+たいせつな	大切な	important, precious
+ていねいな	丁寧な	polite
+てきとうな	適当な	suitable
+とくべつな	特別な	special
+ねっしんな	熱心な	passionate
+ひつような	必要な	necessary
+ふくざつな	複雑な	complicated
+ふけんこうな	不健康な	unhealthy
+ふしぎな	不思議な	mysterious
+へんな	変な	strange
+みごとな	見事な	excellent
+むだな	無駄な	wasteful
+らくな	楽な	easy
+りそうてきな	理想的な	ideal
+れきしてきな	歴史的な	historic
+
+Words that can be used with する
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+うんてん	運転	drive
+うんどう	運動	exercise
+キャンセル	(uk)	cancel
+コピー	(uk)	photocopy
+しっぱい	失敗	failure
+しょうかい	紹介	introduce
+せいこう	成功	success
+せつめい	説明	explain
+せんたく	洗濯	washing
+ちゅうもん	注文	order
+べんきょう	勉強	study
+へんじ	返事	reply
+やくそく	約束	promise
+そうじ	掃除	to clean
+
+Higher tier
+--------------------------------------------------------------------------------
+あんしん	安心	(to be) relieved
+あんない	案内	guide
+しゅっぱつ	出発	departure
+じゅんび	準備	preparation
+しょうたい	招待	invitation
+しんぱい	心配	worry
+せいかつ	生活	to live
+せっとく	説得	to convince
+せわ	世話	to look after, to care for
+たいいん	退院	to come out of hospital
+ちゅうい	注意	caution, warn, be careful
+とうちゃく	到着	arrival
+にゅういん	入院	to go into hospital
+びっくり	(uk)	to be surprised
+れんらく	連絡	to notify
+ほぞんする	保存	to save
+
+Common adverbs
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+あまり	(uk)	not much
+いっしょうけんめい	一生懸命	to the best of one's ability
+いっしょに	一緒に	together
+いつも	(uk)	always
+すぐ（に）	(uk)	immediately
+すこし	少し	a little
+ずっと	(uk)	continuously
+ぜんぜん	全然	not at all
+だいたい	(uk)	more or less
+たくさん	(uk)	a lot of
+たとえば	例えば	for example
+だんだん	(uk)	gradually
+ちょうど	(uk)	exactly
+ちょっと	(uk)	a little
+ときどき	時々	sometimes
+とくに	特に	especially
+とても	(uk)	very
+はじめて	初めて	for the first time
+ほとんど	(uk)	mostly
+ほんとうに	本当に	truly
+また	(uk)	again
+まだ	(uk)	not yet
+まっすぐ	(uk)	straight
+もう	(uk)	already
+もうすぐ	(uk)	soon
+もちろん	(uk)	of course
+もっと	(uk)	more
+ゆっくり	(uk)	slowly
+よく	(uk)	often, well
+
+Higher tier
+--------------------------------------------------------------------------------
+いっぱい	(uk)	lots of
+かなり	(uk)	quite
+ぜひ	是非	by all means
+たぶん	多分	probably
+たまに	(uk)	occasionally
+
+Prepositions
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+あいだ	間	in between
+うえ	上	on, above
+うしろ	後ろ	behind
+** がわ	**側	** side
+した	下	below, beneath
+そと	外	outside
+そば	(uk)	nearby
+ちかく	近く	near
+とおく	遠く	far away
+となり	隣	next to
+なか	中	in, inside
+はんたい	反対	opposite
+まえ	前	in front of
+まわり	周り	around
+まんなか	真ん中	right in the middle
+むかい	向かい	facing
+よこ	横	next to
+
+Colours
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+いろ	色	colours
+あお （い）	青（い）	blue
+あか （い）	赤（い）	red
+オレンジ	(uk)	orange
+きいろ（い）	黄色（い）	yellow
+きん	金	gold
+ぎん	銀	silver
+グレー	(uk)	grey
+くろ（い）	黒（い）	black
+しろ（い）	白（い）	white
+ちゃいろ（い）	茶色（い）	brown
+はいいろ	灰色	grey
+ピンク	(uk)	pink
+みどり	緑	green
+むらさき	紫	purple
+
+Numbers
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+ゼロ	(uk)	zero
+れい	零	zero
+いち	一	one
+に	二	two
+さん	三	three
+し	四	four
+よん	四	four
+ご	五	five
+ろく	六	six
+なな	七	seven
+しち	七	seven
+はち	八	eight
+きゅう	九	nine
+じゅう	十	ten
+じゅういち、じゅうに…	十一、十二 …	eleven, twelve…
+にじゅういち、にじゅうに…	二十一、二十二 ...	twenty-one, twenty-two…
+ひゃく	百	one hundred
+せん	千	one thousand
+まん	万	ten thousand
+いちおく	一億	a hundred million
+ひとつ	一つ	one
+ふたつ	二つ	two
+みっつ	三つ	three
+よっつ	四つ	four
+いつつ	五つ	five
+むっつ	六つ	six
+ななつ	七つ	seven
+やっつ	八つ	eight
+ここのつ	九つ	nine
+とお	十	ten
+ひとつめ、ふたつめ…	一つ目、二つ目…	first, second…
+いちばん、にばん…	一番、二番…	first, second…
+いちばんめ、にばんめ…	一番目、二番目…	first, second…
+マイナス	(uk)	minus
+プラス	(uk)	plus
+
+Higher tier
+--------------------------------------------------------------------------------
+(さん)ぶんの(いち) ...	(三)分の(一)	one third…
+(に)てん(なな)	(二)・(七)	two point seven
+かず	数	number
+ずつ	(uk)	each
+
+Quantities and measures
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+えん	円	yen
+ドル	(uk)	dollars
+ポンド	(uk)	pound sterling
+ユーロ	(uk)	Euro
+かい	回	counter for number of times
+かい	階	counter for number of floors
+かん	缶	a can
+こ	個	general counter
+さい	才、歳	years old
+さつ	冊	counter for books
+だい	台	counter for machines, vehicles
+てん	点	marks, points
+にん	人	counter for people
+はい	杯	cup fulls
+はく	泊	counter for number of nights
+ひき・ぴき	匹	counter for small animals
+びん	瓶	a bottle
+ほん	本	counter for long, thin, cylindrical things
+まい	枚	counter for flat things
+ひとり	一人	one person
+ふたり	二人	two people
+ばんごう	番号	number
+はんぶん	半分	half
+ぐらい	(uk)	about (quantities)
+ごろ	(uk)	about (times)
+キロ	(uk)	kilometre, kilogramme
+グラム	(uk)	gramme
+センチ	(uk)	centimetre
+メートル	(uk)	metre
+おなじ	同じ	the same
+
+Higher tier
+--------------------------------------------------------------------------------
+せいき
+世紀
+century
+など
+etc.
+ばい
+倍
+twice, ** times
+Connectives
+Foundation tier
+あとで
+後で
+later
+さいご（に）
+最後（に）
+lastly
+さいしょ（に）
+最初（に）
+firstly
+そして
+and
+それから
+and then
+それに
+moreover
+だから
+therefore
+つぎ（に）
+次（に）
+next
+でも
+but
+まず
+firstly
+Higher tier
+しかし
+however
+もし
+if
+Time expressions
+Foundation tier
+ごぜん
+午前
+am
+ごご
+午後
+pm
+きょう
+今日
+today
+あした
+明日
+tomorrow
+あさって
+the day after tomorrow
+きのう
+昨日
+yesterday
+おととい
+the day before yesterday
+まいにち
+毎日
+every day
+こんしゅう
+今週
+this week
+せんしゅう
+先週
+last week
+らいしゅう
+来週
+next week
+さらいしゅう
+再来週
+the week after next
+まいしゅう
+毎週
+every week
+こんげつ
+今月
+this month
+らいげつ
+来月
+next month
+さらいげつ
+再来月
+the month after next
+せんげつ
+先月
+last month
+まいつき
+毎月
+every month
+ことし
+今年
+this year
+らいねん
+来年
+next year
+さらいねん
+再来年
+the year after next
+おととし
+the year before last
+きょねん
+去年
+last year
+まいとし
+毎年
+every year
+**にち
+**日
+** days
+**しゅうかん
+**週間
+** weeks
+**ねん
+**年
+** years
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+94
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+いま
+今
+now
+**じ**ふん
+**時**分
+** minutes past **
+**じはん
+**時半
+half past **
+びょう
+秒
+seconds
+ごぜんちゅう
+午前中
+during the morning
+じかん
+時間
+time
+** じかん
+**時間
+length of time
+いちねんじゅう
+一年中
+all year round
+あさ
+朝
+morning
+ばん
+晩
+evening
+まいあさ
+毎朝
+every morning
+まいばん
+毎晩
+every evening
+よる
+夜
+night
+こんばん
+今晩
+this evening
+ひ
+日
+day
+むかし
+昔
+in the past
+Higher tier
+（**と）どうじに
+（**と）同時に
+at the same time as **
+（**の）あと（で/に）
+（**の）後（で/に）
+after (**)
+（**の）まえに
+（**の）前に
+before (**)
+**かげつ
+**か月
+** months
+いちにちじゅう
+一日中
+all day long
+けさ
+今朝
+this morning
+こんど
+今度
+this time / next time
+さいきん
+最近
+recently
+しばらく
+for a while
+ひる
+昼
+noon
+へいせい
+平成
+the Heisei era
+まよなか
+真夜中
+midnight
+ゆうがた
+夕方
+evening
+Days of the week
+Foundation tier
+げつようび
+月曜日
+Monday
+かようび
+火曜日
+Tuesday
+すいようび
+水曜日
+Wednesday
+もくようび
+木曜日
+Thursday
+きんようび
+金曜日
+Friday
+どようび
+土曜日
+Saturday
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+95
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+にちようび
+日曜日
+Sunday
+しゅうまつ
+週末
+weekend
+きゅうじつ
+休日
+holiday
+しゅくじつ
+祝日
+festival day
+
+Months and seasons of the year
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+いちがつ
+一月
+January
+にがつ
+二月
+February
+さんがつ
+三月
+March
+しがつ
+四月
+April
+ごがつ
+五月
+May
+ろくがつ
+六月
+June
+しちがつ
+七月
+July
+はちがつ
+八月
+August
+くがつ
+九月
+September
+じゅうがつ
+十月
+October
+じゅういちがつ
+十一月
+November
+じゅうにがつ
+十二月
+December
+きせつ
+季節
+season
+はる
+春
+spring
+つゆ
+梅雨
+rainy season
+なつ
+夏
+summer
+あき
+秋
+autumn
+ふゆ
+冬
+winter
+Question words
+Foundation tier
+いくら
+how much (money)
+いつ
+when
+だれ
+who
+どう
+how
+どうして
+why
+どうやって
+how
+どこ
+where
+どの
+which
+どのくらい
+how much (quantity)
+どれ
+which one
+どんな
+what kind of
+なに
+何
+what
+なにいろ
+何色
+what colour
+なん with a measure word
+何 with a measure word
+なんがつ
+何月
+which month
+なんじ
+何時
+what time
+なんにち
+何日
+what date
+なんようび
+何曜日
+what day of the week
+Higher tier
+いかが
+how (about)
+なぜ
+why
+Other useful expressions
+Foundation tier
+**くん
+**君
+used after a boy's name
+**さん
+Mr./Mrs./Ms.
+** さま
+**様
+Mr./Mrs./Ms.
+**でございます
+This is / It is **
+あの（う）
+well…
+ありがとう（ございます）
+thank you (very much)
+いいですね(え)
+that's nice
+いいですよ
+that's fine
+いただきます
+bon apetite
+いらっしゃいませ
+welcome
+いってきます
+行ってきます
+I'm off
+いってらっしゃい
+see you later / take care
+ただいま
+I'm home
+おかえりなさい
+お帰りなさい
+welcome home
+おかげさまで
+thanks for asking
+おげんきですか
+お元気ですか
+how are you?
+おだいじに
+お大事に
+take care (to an ill person)
+おねがいします
+お願いします
+please
+おはよう（ございます）
+good morning
+おやすみなさい
+お休みなさい
+good night
+かしこまりました
+certainly
+がんばって（ください）
+頑張って（ください）
+Do your best
+ごちそうさま（でした）
+thanks for a lovely meal
+ごめんなさい
+I'm sorry
+こんにちは
+hello
+こんばんは
+good evening
+さようなら
+goodbye
+ざんねんです（が）
+残念です（が）
+It's a pity, but..
+じゃ
+well then, in that case
+じゃ、また
+see you again
+すみません
+sorry, excuse me, thanks
+ぜんぶ（で）
+全部（で）
+in total
+だいじょうぶ（です）
+大丈夫（です）
+I'm/It's okay
+ちょっと…
+it’s a bit…
+つごうがわるいです
+都合が悪いです
+It's not convenient
+どうぞ
+said when giving things
+どうも
+thanks
+はい
+yes
+いいえ
+no
+ええ
+yes (familiar)
+うん
+yes (familiar)
+ううん
+no (familiar)
+はじめまして
+初めまして
+how do you do
+ほかに？
+他に？
+anything else?
+もういちどおねがいします
+もう一度お願いします
+again, please
+もしもし
+hello on the phone
+ようこそ
+welcome
+よろしく（おねがいします）
+よろしく（お願いします）
+please be good to me
+Higher tier
+けっこうです
+結構です
+it's okay
+こちらこそ
+it's me who should be saying that
+しつれいします
+失礼します
+excuse me
+しつれいですが
+失礼ですが
+excuse me, but…
+では、また
+see you again
+どういたしまして
+you're welcome
+わたしのいけんでは
+私の意見では
+in my opinion
+
+Countries and continents
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+アイルランド
+Ireland
+アメリカ
+America
+イギリス
+England/UK
+イタリア
+Italy
+イングランド
+England
+インド
+India
+ウェールズ
+Wales
+オーストラリア
+Australia
+カナダ
+Canada
+かんこく
+韓国
+Korea
+スコットランド
+Scotland
+スペイン
+Spain
+ちゅうごく
+中国
+China
+ドイツ
+Germany
+にほん
+日本
+Japan
+フランス
+France
+ロシア
+Russia
+アジア
+Asia
+アフリカ
+Africa
+ヨーロッパ
+Europe
+Higher tier
+えいこく
+英国
+England/UK
+べいこく
+米国
+USA
+
+Nationalities
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+アメリカじん
+アメリカ人
+American
+イギリスじん
+イギリス人
+English
+イタリアじん
+イタリア人
+Italian
+インドじん
+インド人
+Indian
+オーストラリアじん
+オーストラリア人
+Australian
+カナダじん
+カナダ人
+Canadian
+かんこくじん
+韓国人
+Korean
+スペインじん
+スペイン人
+Spanish
+ちゅうごくじん
+中国人
+Chinese
+ドイツじん
+ドイツ人
+German
+にほんじん
+日本人
+Japanese
+フランスじん
+フランス人
+French
+ロシアじん
+ロシア人
+Russian
+
+Places
+================================================================================
+
+Foundation tier
+--------------------------------------------------------------------------------
+ほっかいどう
+北海道
+Hokkaido
+ほんしゅう
+本州
+Honshu
+きゅうしゅう
+九州
+Kyushu
+しこく
+四国
+Shikoku
+けん
+県
+prefecture
+し
+市
+city
+むら
+村
+village
+とうきょう
+東京
+Tokyo
+おおさか
+大阪
+Osaka
+おきなわ
+沖縄
+Okinawa
+きょうと
+京都
+Kyoto
+さっぽろ
+札幌
+Sapporo
+なら
+奈良
+Nara
+ひろしま
+広島
+Hiroshima
+ふじさん
+富士山
+Mt. Fuji
+ロンドン
+London
+パリ
+Paris
+ニューヨーク
+New York
+Areas/mountains/seas
+Foundation tier
+うみ
+海
+sea
+おんせん
+温泉
+hot spring
+かわ
+川
+river
+しま
+島
+island
+たんぼ
+田んぼ
+rice field
+とし
+都市
+large city
+はやし
+林
+woods
+もり
+森
+forest
+やま
+山
+mountain
+けしき
+scenery
+きた
+北
+north
+にし
+西
+west
+ひがし
+東
+east
+みなみ
+南
+south
+Higher tier
+アルプス
+Alps
+おか
+丘
+hill
+しゅう
+州
+state
+しゅと
+首都
+capital city
+じんこう
+人口
+population
+ちいき
+地域
+region
+ちほう
+地方
+region, district
+Language used in dialogues and messages
+Foundation tier
+けいたいでんわ
+携帯電話
+mobile phone
+じゅうしょ
+住所
+address
+でんしメール
+電子メール
+email
+でんわ
+電話
+telephone
+でんわばんごう
+電話番号
+telephone number
+めいし
+名刺
+name card / business card
+メール
+email/text
+メールアドレス
+email address
+メッセージ
+message
+ゆうびんばんごう
+郵便番号
+postcode
+Section 2 – Topic-specific vocabulary
+Identity and culture - food and drink
+Foundation tier
+たべもの
+食べ物
+food
+のみもの
+飲み物
+drink(s)
+アイスクリーム
+ice cream
+うどん
+noodles
+おかし
+お菓子
+Japanese sweets
+おにぎり
+rice balls
+おべんとう
+お弁当
+packed lunch / bento
+オレンジ
+orange
+カレーライス
+curry (rice)
+ぎゅうにく
+牛肉
+beef
+ぎゅうにゅう
+牛乳
+milk
+くだもの
+果物
+fruit
+ケーキ
+cake
+こうちゃ
+紅茶
+tea
+コーヒー
+coffee
+コーラ
+coke
+こおり
+ice
+ココア
+cocoa
+ごはん
+ご飯
+rice
+（お）こめ
+（お）米
+(uncooked) rice
+さかな
+魚
+fish
+（お）さけ
+（お）酒
+sake
+さしみ
+刺身
+sashimi
+サラダ
+salad
+サンドイッチ
+sandwich
+ジュース
+juice
+しょうゆ
+soy sauce
+スープ
+soup
+すきやき
+好き焼き
+sukiyaki
+（お）すし
+（お）寿司
+sushi
+ステーキ
+steak
+ソーセージ
+sausage
+そば
+noodles
+たまご
+卵
+egg
+チーズ
+cheese
+チキン
+chicken
+チップス
+crisps
+ポテトチップス
+crisps
+(お)ちゃ
+(お)茶
+green tea
+チョコレート
+chocolate
+デザート
+dessert
+てんぷら
+天ぷら
+tempura
+トースト
+toast
+とりにく
+鶏肉
+chicken
+にく
+肉
+meat
+パスタ
+pasta
+バナナ
+banana
+ハム
+ham
+パン
+bread
+ハンバーガー
+hamburger
+ビーフ
+beef
+ビール
+beer
+ピザ
+pizza
+ビュッフェ
+buffet
+フライドポテト
+chips
+みかん
+satsuma/tangerine
+みず
+水
+water
+みそしる
+味噌汁
+miso soup
+ミルク
+milk
+やさい
+野菜
+vegetable(s)
+ヨーグルト
+yogurt
+ラーメン
+(egg) noodles
+りんご
+apple
+レモン
+lemon
+ワイン
+wine
+ベジタリアン
+vegetarian
+メニュー
+menu
+あさごはん
+朝ごはん
+breakfast
+ひるごはん
+昼ごはん
+lunch
+ばんごはん
+晩ごはん
+dinner
+がいしょく
+外食
+eating out
+はし
+箸
+chopsticks
+ナイフ
+knife
+フォーク
+fork
+スプーン
+spoon
+Higher tier
+あぶら
+油
+oil
+アボカド
+avocado
+いちご
+strawberry
+おこのみやき
+お好み焼き
+okonomiyaki
+おゆ
+お湯
+hot water
+きゅうり
+cucumber
+こしょう
+pepper
+サーモン
+salmon
+さとう
+砂糖
+sugar
+シーフード
+sea food
+しお
+塩
+salt
+じゃがいも
+じゃが芋
+potato(es)
+ジャム
+jam
+スナック
+snack
+たまねぎ
+玉ねぎ
+onion
+ていしょく
+定食
+set meal
+トマト
+tomato
+なし
+梨
+pear
+なま（の）
+生（の）
+raw
+にゅうせいひん
+乳製品
+milk products
+にんじん
+人参
+carrot(s)
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+103
+Higher tier (cont)
+Hiragana/Katakana
+Kanji
+パイナップル
+pineapple
+バター
+butter
+ぶたにく
+豚肉
+pork
+ぶどう
+葡萄
+grapes
+ミックス
+mixed
+めいぶつ
+名物
+speciality
+もも
+桃
+peach
+やきとり
+焼き鳥
+grilled chicken skewers
+ゆうきしょくひん
+有機食品
+organic
+あじ
+味
+taste
+しょくじ
+食事
+meal
+ちゅうしょく
+昼食
+lunch
+ちょうしょく
+朝食
+breakfast
+ゆうしょく
+夕食
+dinner
+コップ
+cup
+（お）さら
+（お）皿
+plate
+なべ
+鍋
+(cooking) pot
+フライパン
+frying pan
+おかいけい
+お会計
+the bill
+おかんじょう
+お勘定
+the bill
+サービス
+service
+セルフサービス
+room service
+さいしょくしゅぎ
+菜食主義
+vegetarian
+Clothing
+Foundation tier
+T シャツ
+T-shirt
+かさ
+傘
+umbrella
+かばん
+鞄
+bag
+きもの
+着物
+kimono/clothes
+くつ
+靴
+shoe(s)
+くつした
+靴下
+sock(s)
+コート
+coat
+サイズ
+size
+ジーンズ
+jeans
+シャツ
+shirt
+スーツ
+suit
+スカート
+skirt
+ズボン
+trousers
+セーター
+jumper
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+104
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+とけい
+時計
+watch, clock
+ネクタイ
+tie
+パジャマ
+pyjamas
+バッグ
+bag
+ハンカチ
+handkerchief
+はんズボン
+半ズボン
+shorts
+ハンドバッグ
+handbag
+ファッション
+fashion
+ブーツ
+boot(s)
+ベルト
+belt
+ぼうし
+帽子
+hat
+ポケット
+pocket
+みずぎ
+水着
+swimming costume/trunks
+ようふく
+洋服
+(western) clothes
+Higher tier
+アクセサリー
+accessories
+イヤリング
+ear ring(s)
+ウール
+wool
+うでどけい
+腕時計
+watch
+うわぎ
+上着
+jacket, coat
+カーディガン
+cardigan
+こうすい
+香水
+perfume
+したぎ
+下着
+underwear
+しちゃくしつ
+試着室
+changing room(s)
+ジャケット
+jacket
+スカーフ
+scarf
+スタイル
+style
+スニーカー
+trainer(s)
+スリッパ
+slipper(s)
+てぶくろ
+手袋
+glove(s)
+ネックレス
+necklace
+ほうせき
+宝石
+jewellry
+メイク
+make up
+ゆかた
+浴衣
+yukata
+わふく
+和服
+Japanese clothes
+ワンピース
+dress
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+105
+Family and relationships
+Foundation tier
+Hiragana/Katakana
+Kanji
+かぞく
+家族
+family
+ちち
+父
+father
+はは
+母
+mother
+あに
+兄
+elder brother
+あね
+姉
+elder sister
+おとうと
+弟
+younger brother
+いもうと
+妹
+younger sister
+きょうだい
+兄弟
+siblings
+おとうさん
+お父さん
+father
+おかあさん
+お母さん
+mother
+おにいさん
+お兄さん
+elder brother
+おねえさん
+お姉さん
+elder sister
+おとうとさん
+弟さん
+younger brother
+いもうとさん
+妹さん
+younger sister
+おばあさん
+お婆さん
+grandmother
+おじいさん
+お爺さん
+grandfather
+あかちゃん
+赤ちゃん
+baby
+しんせき
+親戚
+relatives
+ともだち
+友達
+friend(s)
+ペンフレンド
+penfriend
+ガールフレンド
+girlfriend
+ボーイフレンド
+boyfriend
+かれし
+彼氏
+boyfriend
+ひと
+人
+person
+おとこのひと
+男の人
+man
+おんなのひと
+女の人
+woman
+おとこのこ
+男の子
+boy
+おんなのこ
+女の子
+girl
+おとしより
+お年寄り
+elderly person
+しょうねん
+少年
+(a) youth
+しょうじょ
+少女
+a girl
+みんな
+everyone
+みなさん
+everyone (addressing them)
+Higher tier
+あかんぼう
+赤ん坊
+baby
+いとこ
+cousin
+おこさん
+お子さん
+child(ren)
+おくさん
+奥さん
+wife
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+106
+Higher tier (cont)
+Hiragana/Katakana
+Kanji
+（ご）しゅじん
+（ご）主人
+husband
+おっと
+夫
+husband
+つま
+妻
+wife
+おじ
+uncle
+おじさん
+uncle
+おば
+aunt
+おばさん
+aunt
+かた
+方
+person (honorific)
+しまい
+姉妹
+sisters
+そふ
+祖父
+grandfather
+そぼ
+祖母
+grandmother
+ちょうじょ
+長女
+eldest daughter
+ちょうなん
+長男
+eldest son
+ひとりっこ
+一人っ子
+only child
+ふたご
+双子
+twin(s)
+まご
+孫
+grand child(ren)
+むすこ
+息子
+son
+むすめ
+娘
+daughter
+りょうしん
+両親
+parent(s)
+わかもの
+若者
+young person
+じぶん
+自分
+self
+Personal pronouns
+Foundation tier
+わたし
+私
+I
+わたくし
+私
+I (formal)
+わたしたち
+私たち
+we
+ぼく
+僕
+I (male, familiar)
+あなた
+you (singular)
+あなたたち
+you (plural)
+かれ
+彼
+he
+かのじょ
+彼女
+she/girlfriend
+かれら
+彼ら
+they
+Describing people
+Foundation tier
+あたまがいい
+頭がいい
+clever
+おかねもち
+お金持ち
+rich
+おとな
+大人
+adult
+こども
+子供
+child
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+107
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+がいこくじん
+外国人
+foreigner
+けっこん
+結婚
+marriage
+せ
+背
+height
+たんじょうび
+誕生日
+birthday
+とし
+年
+age
+なまえ
+名前
+given name
+にんき
+人気
+popular
+ねんれい
+年齢
+age
+ブロンド
+blond
+みょうじ
+苗字
+surname
+めがね
+眼鏡
+glasses
+Higher tier
+いじめ
+bullying
+かんけい
+関係
+relationship
+ぎりの
+義理の
+** in law
+きんぱつ
+金髪
+blond
+けんか
+fight, quarrel
+じしん
+自身
+self, myself, himself, herself
+せいかく
+性格
+character
+どくしん
+独身
+single
+なかがいい
+仲がいい
+friends with
+ゆうめいじん
+有名人
+celebrity
+ユーモア
+humour
+りかい
+理解
+understanding
+りこん
+離婚
+divorce(d)
+Pets and animals
+Foundation tier
+どうぶつ
+動物
+animal
+ペット
+pet(s)
+いぬ
+犬
+dog
+うさぎ
+兎
+rabbit
+うし
+牛
+cow
+うま
+馬
+horse
+かめ
+亀
+turtle, tortoise
+きんぎょ
+金魚
+gold fish
+くま
+熊
+bear
+しか
+鹿
+deer
+ぞう
+像
+elephant
+とら
+虎
+tiger
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+108
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+とり
+鳥
+bird
+ねこ
+猫
+cat
+ねずみ
+mouse
+ハムスター
+hamster
+モルモット
+guinea pig
+ライオン
+lion
+Parts of the body and illnesses
+Foundation tier
+あし
+足
+feet, legs
+あたま
+頭
+head
+うで
+腕
+arm
+おなか
+お腹
+tummy
+かお
+顔
+face
+かた
+肩
+shoulder(s)
+かみのけ
+髪の毛
+hair
+からだ
+体
+body
+くち
+口
+mouth
+くちびる
+唇
+lip(s)
+くび
+首
+neck
+こし
+腰
+hip(s)
+せなか
+背中
+back
+て
+手
+hand(s)
+のど
+喉
+throat
+は
+歯
+tooth, teeth
+はな
+鼻
+nose
+ひざ
+膝
+knee(s)
+みみ
+耳
+ear
+め
+目
+eye(s)
+ゆび
+指
+fingers
+びょうき
+病気
+ill, illness
+かぜ
+風邪
+a cold
+けが
+wound
+せき
+咳
+cough
+ねつ
+熱
+temperature
+こえ
+声
+voice
+きぶん
+気分
+mood, feeling
+きもち
+気持ち
+feeling
+じこ
+事故
+accident
+ストレス
+stress
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+109
+Rooms and items in a house
+Foundation tier
+アパート
+flat, apartment
+いえ
+家
+house
+うち
+home
+マンション
+flat, apartment
+にわ
+庭
+garden
+いま
+居間
+lounge
+おてあらい
+お手洗い
+toilet
+かいだん
+階段
+stairs
+しゃこ
+車庫
+garage
+しんしつ
+寝室
+bedroom
+だいどころ
+台所
+kitchen
+ドア
+door
+トイレ
+toilet
+ふろば
+風呂場
+bath room
+へや
+部屋
+room
+（お）ふろ
+（お）風呂
+bath
+エアコン
+air conditioning
+かぐ
+家具
+furniture
+かべ
+壁
+wall(s)
+カレンダー
+calendar
+ソファ
+sofa
+たな
+棚
+shelf
+だんぼう
+暖房
+heating, radiator
+つくえ
+机
+desk
+テーブル
+table
+どうぐ
+道具
+tool(s)
+ふとん
+futon
+ベッド
+bed
+ほんだな
+本棚
+book shelf
+まど
+窓
+window
+れいぞうこ
+冷蔵庫
+refrigerator
+**かいだて
+**階建て
+** storey
+Sport
+Foundation tier
+からて
+空手
+karate
+ゴルフ
+golf
+サッカー
+football
+さんぽ
+散歩
+going for a walk
+じゅうどう
+柔道
+judo
+すいえい
+水泳
+swimming
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+110
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+スキー
+ski(ing)
+スケート
+skating
+スポーツ
+sports
+すもう
+相撲
+sumo
+ダンス
+dance
+チーム
+team
+テニス
+tennis
+ハイキング
+hiking
+バスケットボール
+basketball
+バドミントン
+badminton
+ボール
+ball
+ホッケー
+hockey
+マウンテンバイク
+mountain bik(ing)
+やきゅう
+野球
+baseball
+ヨット
+yacht
+ラグビー
+rugby
+Higher tier
+カヌー
+canoe
+かんきゃく
+観客
+audinece, specator(s)
+クライミング
+climing
+ゴール
+goal
+サーフィン
+surfing
+サイクリング
+cycling
+じょうば
+乗馬
+riding
+すいじょうスキー
+水上スキー
+water skiing
+スケートボード
+skate board
+セーリング
+sailing
+せんしゅ
+選手
+(sports) player
+たいそう
+体操
+gymnastics
+たっきゅう
+卓球
+table tennis
+とざん
+登山
+climbing
+バレー
+ballet
+バレーボール
+volleyball
+ボクシング
+boxing
+ようぐ
+用具
+equipment
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+111
+Social media and technology
+Foundation tier
+Hiragana/Katakana
+Kanji
+CD
+CD
+DVD
+DVD
+インターネット
+internet
+ウィルス
+virus
+ウェブサイト
+website
+オンライン
+online
+クリック
+click
+コンピューター
+computer
+コンピューターゲーム
+computer game
+スクリーン
+screen
+ソーシャルネットワーク
+social network
+ダウンロード
+download
+ディスク
+disk
+デジタル
+digital
+パスワード
+password
+パソコン
+personal computer
+プリンター
+printer
+ブログ
+blog
+ホームページ
+home page
+マウス
+mouse
+Higher tier
+アップロード
+upload
+さくじょ
+削除
+to delete
+ソフト
+software
+タイプ
+to type
+チャットルーム
+chat room
+でんしゲーム
+電子ゲーム
+electronic games
+Music
+Foundation tier
+うた
+歌
+song
+オーケストラ
+orchestra
+おんがく
+音楽
+music
+かしゅ
+歌手
+singer
+がっき
+楽器
+musical instrument
+ギター
+guitar
+クラシック
+classical
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+112
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+クラリネット
+clarinet
+コンサート
+concert
+ドラム
+drum(s)
+バンド
+band
+ピアノ
+piano
+ポップス
+popular music
+Higher tier
+がっしょう
+合唱
+chorus, choir
+ジャズ
+jazz
+トランペット
+trumpet
+バイオリン
+violin
+ふえ
+笛
+(Japanese) flute
+フルート
+flute
+ロック
+rock music
+Celebrations and festivals
+Foundation tier
+(お）いわい
+（お）祝い
+celebration
+イベント
+event
+まつり
+祭り
+festival
+おしょうがつ
+お正月
+New Year
+おぼん
+お盆
+the 'bon' festival
+クリスマス
+Christmas
+けっこんしき
+結婚式
+wedding
+ゴールデンウィーク
+Golden Week
+しんねん
+新年
+new year
+はつもうで
+初詣
+new year shrine visit
+はなみ
+花見
+flower arranging
+Hobbies and interests
+Foundation tier
+アニメ
+animation
+いけばな
+生け花
+flower arranging
+えいが
+映画
+film
+おもちゃ
+toy
+かいもの
+買い物
+shopping
+かつどう
+活動
+activity
+カメラ
+camera
+カラオケ
+karaoke
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+113
+Foundation tier (cont)
+Hiragana/Katakana Kanji
+きょうみ
+興味
+interest
+クラブ
+club
+ゲーム
+game
+げき
+劇
+a play
+（お）こづかい
+（お）小遣い
+pocket money
+ざっし
+雑誌
+magazine
+しゃしん
+写真
+photograph, photography
+じゆうじかん
+自由時間
+free time
+しゅみ
+趣味
+hobby
+ショー
+show
+シリーズ
+series
+たのしみ
+楽しみ
+pleasure, enjoyment
+つり
+釣り
+fishing
+ディスコ
+disco
+テレビ
+TV
+どくしょ
+読書
+reading
+ドラマ
+drama
+ナイトクラブ
+night club
+ニュース
+news
+パーティー
+party
+ばんぐみ
+番組
+programme
+ビデオ
+video
+ぶんか
+文化
+culture
+ほん
+本
+book
+まんが
+漫画
+manga, cartoon
+ユースクラブ
+youth club
+リモコン
+remote control
+りょうり
+料理
+cooking
+レジャー
+leisure
+Higher tier
+えんげき
+演劇
+drama
+かじ
+家事
+housework
+がめん
+画面
+screen
+さどう
+茶道
+tea ceremony
+しせつ
+施設
+facility
+しゅうかん
+習慣
+custom
+でんとう
+伝統
+tradition
+にちじょうせいかつ
+日常生活
+every day life
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+114
+Local area, holiday and travel: methods of transport
+Foundation tier
+Hiragana/Katakana
+Kanji
+こうつうしゅだん
+交通手段
+method of transport
+のりもの
+乗り物
+method of transport
+あるいて
+歩いて
+on foot
+オートバイ
+motorbike
+くるま
+車
+car
+じてんしゃ
+自転車
+bicycle
+じどうしゃ
+自動車
+car
+しんかんせん
+新幹線
+bullet train
+タクシー
+taxi
+ちかてつ
+underground, tube
+でんしゃ
+電車
+tram/train
+トラック
+lorry
+バス
+bus
+ひこうき
+飛行機
+aeroplane
+フェリー
+ferry
+ふね
+船
+ship, boat
+フライト
+flight
+**びん
+**便
+flight **
+ヘリコプター
+helicopter
+ボート
+boat
+レンタカー
+hire car
+スピード
+speed
+Places in town/places to visit
+Foundation tier
+いなか
+田舎
+countryside
+インフォメーション
+information
+うりば
+売り場
+sales counter
+えいがかん
+映画館
+cinema
+えき
+駅
+station
+エスカレーター
+escalator
+エレベーター
+lift
+がいこく
+外国
+abroad, foreign country
+かいしゃ
+会社
+company
+ガソリンスタンド
+petrol station
+カフェ
+café
+かんこうあんないじょ
+観光案内所
+tourist information office
+キオスク
+kiosk
+きっぷうりば
+切符売り場
+ticket office
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+115
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+キャンプ
+camp
+キャンプじょう
+キャンプ場
+camping ground
+きょうかい
+教会
+church
+ぎんこう
+銀行
+bank
+きんじょ
+近所
+neighbourhood
+くうこう
+空港
+airport
+くすりや
+薬屋
+pharmacy, chemist
+くに
+国
+country
+けいさつ
+警察
+police
+けいさつしょ
+警察署
+police station
+げきじょう
+劇場
+theatre
+コインロッカー
+locker
+こうえん
+公園
+park
+こうじょう
+工場
+factory
+こうばん
+交番
+police box
+コンビニ
+convenience store
+じむしょ
+事務所
+office
+しょくどう
+食堂
+canteen
+ショッピングセンター
+shopping centre
+（お）しろ
+（お）城
+castle
+じんじゃ
+神社
+shrine
+しんぶんや
+新聞屋
+newsagent
+スーパー
+supermarket
+スポーツセンター
+sports centre
+たいしかん
+大使館
+embassy
+タクシーのりば
+タクシー乗り場
+taxi rank
+たてもの
+建物
+building
+たばこや
+たばこ屋
+tobacco shop
+ちゅうしゃじょう
+駐車（場）
+car park
+テニスコート
+tennis court
+デパート
+department store
+（お）てら
+（お）寺
+temple
+どうぶつえん
+動物園
+zoo
+としょかん
+図書館
+library
+にくや
+肉屋
+butcher
+のうじょう
+農場
+farm
+バー
+bar
+はくぶつかん
+博物館
+museum
+バスのりば
+バス乗り場
+bus stop
+パブ
+pub
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+116
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+パンや
+パン屋
+baker
+ビーチ
+beach
+びじゅつかん
+美術館
+art gallery
+びょういん
+病院
+hospital
+ビル
+high rise building
+プール
+swimming pool
+ヘアサロン
+hair salon
+ポスト
+post box
+まち
+町、街
+town
+みせ
+店
+shop
+もん
+門
+gate
+ゆうびんきょく
+郵便局
+post office
+レストラン
+restaurant
+ロッカー
+locker
+**や
+**屋
+** shop
+Higher tier
+いちば
+市場
+market
+うけつけ
+受付
+reception
+かいがい
+海外
+abroad
+かいがん
+海岸
+coast
+かいじょう
+会場
+location
+かんこうめいしょ
+観光名所
+famous tourist spot
+こっきょう
+国境
+border
+じどうはんばいき
+自動販売機
+vending machine
+しやくしょ
+市役所
+city/town hall
+せんめんじょ
+洗面所
+wash room
+タワー
+tower
+とかい
+都会
+large city
+とこや
+床屋
+barber
+ところ
+所
+place
+バスてい
+バス停
+bus stop
+まちあいしつ
+待合室
+waiting room
+みずうみ
+湖
+lake
+みなと
+港
+port
+Finding the way
+Foundation tier
+いりぐち
+入口
+entrance
+かど
+corner
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+117
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+こうさてん
+交差点
+crossroads, junction
+こうつう
+交通
+traffic
+しんごう
+信号
+traffic light(s)
+ちゅうしん
+中心
+centre
+でぐち
+出口
+exit
+はし
+橋
+bridge
+ばしょ
+場所
+place
+ひだり
+左
+left
+みぎ
+右
+right
+みち
+道
+road
+Higher tier
+いきさき
+行先
+destination
+おうだんほどう
+横断歩道
+pedestrial crossing
+こうそくどうろ
+高速道路
+motorway
+どうろ
+道路
+road
+ほうこう
+方向
+directions
+ラッシュアワー
+rush hour
+ロータリー
+roundabout
+Accommodation
+Foundation tier
+おきゃくさん
+お客さん
+customer, guest
+かぎ
+鍵
+key, lock
+シーツ
+sheet(s)
+シャワー
+shower
+せっけん
+石鹸
+soap
+タオル
+towel
+チェックアウト
+check out
+チェックイン
+check in
+パスポート
+passport
+ホテル
+hotel
+ユースホステル
+youth hostel
+ようしつ
+洋室
+Western style room
+ようしょく
+洋食
+Western meal
+よやく
+予約
+reservation
+りょかん
+旅館
+Japanese inn
+わしつ
+和室
+Japanese style room
+わしょく
+和食
+Japanese room
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+118
+Buying a train ticket
+Foundation tier
+Hiragana/Katakana
+Kanji
+おうふく
+往復
+return
+かたみち
+片道
+one-way
+きっぷ
+切符
+ticket
+グリーンしゃ
+グリーン車
+1st class
+していせき
+指定席
+reserved seat
+じゆうせき
+自由席
+unreserved seat
+りょうきん
+料金
+fare
+** ばんせん
+**番線
+platform number
+**せん
+**線
+the ** line
+ホーム
+platform
+**ゆき
+**行き
+bound for **
+Services
+Foundation tier
+え
+絵
+picture
+えはがき
+絵葉書
+picture postcard
+おおきさ
+大きさ
+size
+おかね
+お金
+money
+おつり
+お釣り
+change
+おみやげ
+お土産
+souvenir
+カード
+card
+ガイド
+(tour) guide
+ガイドブック
+guidebook
+ガソリン
+petrol
+かたち
+形
+shape
+かんこう
+観光
+tourism
+かんこうきゃく
+観光客
+tourist
+きって
+切手
+stamps
+きゃく
+客
+customer, guest
+くすり
+薬
+medicine, tablets
+クレジットカード
+credit card
+さいふ
+財布
+purse
+サイン
+(to) sign
+しんぶん
+新聞
+newspaper
+スーツケース
+suitcase
+ただ
+free
+ちか
+地下
+basement, underground
+チケット
+ticket
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+119
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+ちず
+地図
+map
+ツアー
+tour
+てがみ
+手紙
+a letter
+でんち
+電池
+battery
+テント
+tent
+にもつ
+荷物
+baggage, luggage
+ねだん
+値段
+price
+はがき
+postcard
+はこ
+箱
+box
+はなび
+花火
+fireworks
+はブラシ
+歯ブラシ
+tooth brush
+パンフレット
+pamphlet
+ビザ
+visa
+プレゼント
+present
+ボールペン
+ball point pen
+ほかの
+他の
+other
+ポスター
+poster
+ラジオ
+radio
+りょうしゅうしょ
+領収書
+receipt
+りょこう
+旅行
+travelling
+レジ
+till
+レシート
+receipt
+レンタル
+rental
+わすれもの
+忘れもの
+lost property
+Higher tier
+うんてんめんきょ
+運転免許
+driving licence
+きかい
+機械
+machine
+こうかん
+交換
+exchange
+こうきょうこうつうきかん
+公共交通機関
+public transport
+さんぎょう
+産業
+industry
+じもと（の）
+地元（の）
+local
+しゅくはく
+宿泊
+accommodation
+たいけん
+体験
+personal/physical experience
+てんらんかい
+展覧会
+exhibition
+にゅうじょうりょう
+入場料
+entrance fee
+にんぎょう
+人形
+doll
+はみがきこ
+歯磨き粉
+toothpaste
+ふうとう
+封筒
+envelope
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+120
+Weather and climate
+Foundation tier
+Hiragana/Katakana
+てんき
+天気
+weather
+てんきよほう
+天気予報
+weather forecast
+あめ
+雨
+rain
+かぜ
+風
+wind
+くも
+雲
+cloud
+くもり
+曇り
+cloudy
+たいふう
+台風
+typhoon
+はれ
+晴れ
+sunny
+ゆき
+雪
+snow
+**ど
+**度
+** degrees
+き
+木
+tree
+くうき
+空気
+air
+さくら
+桜
+cherry blossom
+そら
+空
+sky
+つき
+月
+moon
+はな
+花
+flower
+ほし
+星
+star
+Higher tier
+あらし
+嵐
+storm
+かみなり
+雷
+thunder
+きおん
+気温
+temperature
+きこう
+気候
+climate
+きり
+霧
+fog
+しつど
+湿度
+humidity
+たいよう
+太陽
+sun
+のち
+later
+School subjects
+Foundation tier
+かもく
+科目
+subject
+えいご
+英語
+English
+がいこくご
+外国語
+foreign language
+かがく
+科学
+science
+**ご
+**語
+** language
+こくご
+国語
+Japanese
+しゃかい
+社会
+social studies
+しゅうじ
+習字
+calligraphy/brush writing
+すうがく
+数学
+mathematics
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+121
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+たいいく
+体育
+physical education
+ちり
+地理
+geography
+にほんご
+日本語
+Japanese
+びじゅつ
+美術
+art
+ぶんがく
+文学
+literature
+ホームルーム
+form time, form room
+れきし
+歴史
+history
+Higher tier
+かがく
+化学
+chemistry
+かていか
+家庭科
+home economics
+ぎじゅつ
+技術
+technology
+けいざい
+経済
+economics
+しゅうきょう
+宗教
+religion, religious studies
+しょどう
+書道
+calligraphy/brush writing
+せいぶつ（がく）
+生物（学）
+biology
+せんたく（かもく）
+選択（科目）
+optional subjects
+どうとく
+道徳
+moral education
+ぶつり（がく）
+物理（学）
+physics
+The school day and school year
+Foundation tier
+えんそく
+遠足
+excursion
+きゅうしょく
+給食
+(set) school lunch
+けんがく
+見学
+study trip
+しあい
+試合
+(sports) match
+しゅうがくりょこう
+修学旅行
+school trip
+じゅぎょう
+授業
+lesson(s)
+そつぎょう
+卒業
+graduation
+にゅうがく
+入学
+entering a school
+テスト
+test
+ひるやすみ
+昼休み
+lunch break
+ほうかご
+放課後
+after school
+ホームステイ
+home stay
+やすみ
+休み
+holiday
+やすみじかん
+休み時間
+break
+レッスン
+lesson(s)
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+122
+Higher tier
+Hiragana/Katakana
+Kanji
+かいぎ
+会議
+meeting
+きまつ
+期末
+end of term
+きゅうけい
+休憩
+rest
+けんしゅう
+研修
+training
+しけん
+試験
+examination
+そつぎょうしき
+卒業式
+school graduation ceremony
+にゅうがくしき
+入学式
+school entrance ceremony
+ちゅうかん
+中間
+mid-(term)
+りゅうがく
+留学
+studying abroad
+School buildings and things in a classroom
+Foundation tier
+いす
+椅子
+chair
+えんぴつ
+鉛筆
+pencil
+かみ
+紙
+paper
+きょうかしょ
+教科書
+text book
+きょうしつ
+教室
+classroom
+グラウンド
+sports ground
+けしゴム
+消しゴム
+rubber, eraser
+ごみばこ
+ごみ箱
+rubbish bin
+じしょ
+辞書
+dictionary
+セロテープ
+selotape
+たいいくかん
+体育館
+sports hall, gym
+ノート
+notebook
+のり
+glue
+はさみ
+scissors
+プリント
+handout
+ペン
+pen
+レポート
+report
+ろうか
+廊下
+corridor
+Higher tier
+うんどうじょう
+運動場
+sports ground
+こうてい
+校庭
+school yard
+こくばん
+黒板
+blackboard
+しょくいんしつ
+職員室
+staff room
+ふでばこ
+筆箱
+pencil case
+りょう
+寮
+dormitory
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+123
+Types of schools and students
+Foundation tier
+Hiragana/Katakana
+Kanji
+がっこう
+学校
+school
+しょうがっこう
+小学校
+primary school
+ちゅうがっこう
+中学校
+middle school, junior high school
+こうこう
+高校
+(senior) high school
+だいがく
+大学
+universtiy
+しょうがくせい
+小学生
+primary school pupil
+ちゅうがくせい
+中学生
+secondary school pupil
+こうこうせい
+高校生
+high school pupil
+がくせい
+学生
+student
+だいがくせい
+大学生
+universtiy student
+せいと
+生徒
+pupil(s)
+がくねん
+学年
+school year
+**ねんせい
+**年生
+** grader
+Higher tier
+こうりつ
+公立
+public
+しりつ
+私立
+private
+ようちえん
+幼稚園
+nursery
+りゅうがくせい
+留学生
+overseas student
+Other school vocabulary
+Foundation tier
+はじめ
+始め、初め
+start
+おわり
+終わり
+end
+ひらがな
+hiragana
+かたかな
+katakana
+かんじ
+漢字
+kanji
+ローマじ
+ローマ字
+romaji
+がっき
+学期
+(school) term
+**くみ
+**組
+class **
+クラス
+class
+グループ
+group
+こうちょう（せんせい）
+校長（先生）
+head teacher
+こたえ
+答
+answer
+ことば
+言葉
+word
+さくぶん
+作文
+essay
+じ
+字
+letter(s)
+**じかんめ
+**時間目
+period **
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+124
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+じかんわり
+時間割
+timetable
+しつもん
+質問
+question
+じゅく
+塾
+cram school
+しゅくだい
+宿題
+homework
+せいせき
+成績
+grade(s)
+せいふく
+制服
+uniform
+**ぶ
+**部
+** club/department
+ページ
+page
+れい
+例
+example
+れんしゅう
+練習
+practice
+なつやすみ
+夏休み
+summer holiday
+はるやすみ
+春休み
+spring holiday
+ふゆやすみ
+冬休み
+winter holiday
+** について
+about **
+Higher tier
+いけん
+意見
+opinion
+いみ
+意味
+meaning
+おと
+音
+sound
+おもいで
+思い出
+memory
+かいわ
+会話
+conversation
+きまり
+rule
+きょういく
+教育
+education
+けいけん
+経験
+experience
+けっか
+結果
+result(s)
+けっせき
+欠席
+absent
+けんきゅう
+研究
+research
+ごうかく
+合格
+pass
+こと
+事
+(abstract) thing
+もの
+物
+(physical) thing
+じっけん
+実験
+experiment
+じゆうけんきゅう
+自由研究
+project work
+しゅっせき
+出席
+present
+しょうせつ
+小説
+novel
+しょるい
+書類
+documents
+にっき
+日記
+diary
+はなし
+話
+talk
+ふくしゅう
+復習
+revision
+よしゅう
+予習
+preparing for class
+プレッシャー
+pressure
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+125
+Future aspirations, study and work
+Foundation tier
+Hiragana/Katakana
+Kanji
+アーティスト
+artist
+いしゃ
+医者
+doctor
+ウェーター
+waiter
+ウェートレス
+waitress
+うんてんしゅ
+運転手
+driver
+エンジニア
+engineer
+おんがくか
+音楽家
+musician
+かいしゃいん
+会社員
+company employee
+かんごし
+看護師
+nurse
+ぎんこういん
+銀行員
+banker
+けいかん
+警官
+police officer
+さっか
+作家
+writer
+シェフ
+chef
+ジャーナリスト
+journalist
+しゃちょう
+社長
+company president
+しゅふ
+主婦
+housewife
+スチュワーデス
+stewardess
+スチュワード
+steward
+せんせい
+先生
+teacher
+つうやく
+通訳
+interpreter
+デザイナー
+designer
+てんいん
+店員
+shop assistant
+はいしゃ
+歯医者
+dentist
+はいゆう
+俳優
+actor, actress
+パイロット
+pilot
+キャビンアテンダント
+flight attendant
+プログラマー
+(computer) programmer
+べんごし
+弁護士
+lawyer
+ほんやくか
+翻訳家
+translator
+マネージャー
+manager
+むしょく
+無職
+unemployed
+アルバイト
+part time job
+インタビュー
+interview
+きゅうりょう
+給料
+salary
+けいかく
+計画
+plan
+じこしょうかい
+自己紹介
+self introduction
+しごと
+仕事
+job
+しょうらい
+将来
+future
+しょくばたいけん
+職場体験
+work experience
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+126
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+トレーニング
+training
+パートタイム
+part time
+フルタイム
+full time
+プロ
+professional
+ボーナス
+bonus
+ボランティア
+volunteer
+ゆめ
+夢
+dream
+よてい
+予定
+plan
+りゆう
+理由
+reason
+Higher tier
+かいけいし
+会計士
+accountant
+がか
+画家
+painter
+きょうし
+教師
+teacher
+けんちくか
+建築家
+architect
+こうむいん
+公務員
+civil servant
+いがく
+医学
+medicine
+てつがく
+哲学
+philosophy
+ほうがく
+法学
+law
+いんしょう
+印象
+impression
+きかい
+機会
+opportunity
+げんご
+言語
+language(s)
+こうこく
+広告
+advert
+しかく
+資格
+qualification
+じしん
+自信
+self confidence
+しつぎょう
+失業
+unemployment
+せんもん
+専門
+specialism
+めんせつ
+面接
+interview
+もくてき
+目的
+aim
+International and global dimension
+Foundation tier
+エネルギー
+energy
+オリンピック
+Olympics
+かざん
+火山
+volcano
+かんきょう
+環境
+environment
+けってん
+欠点
+disadvantage(s)
+こうがい
+公害
+pollution
+こくさい
+国際
+international
+こくさいてき（な）
+国際的（な）
+international
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
+Issue 3 – October 2018 © Pearson Education Limited 2018
+127
+Foundation tier (cont)
+Hiragana/Katakana
+Kanji
+ごみ
+rubbish
+さんせい
+賛成
+agree
+じしん
+地震
+earthquake
+しぜん
+自然
+nature
+じゆう
+自由
+freedom
+せいじ
+政治
+politics
+せかい
+世界
+world
+せきじゅうじ
+赤十字
+Red Cross
+せんそう
+戦争
+war
+ちきゅう
+地球
+earth
+チャリティー
+charity
+テロ（リズム）
+terrorism
+でんき
+電気
+electricity
+どろぼう
+泥棒
+thief
+におい
+匂い
+smell
+はんたい
+反対
+disagree
+フェアトレード
+fair trade
+へいわ
+平和
+peace
+ほご
+保護
+protection
+もんだい
+問題
+problem
+リサイクル
+recycle
+りてん
+利点
+advantage(s)
+ワールドカップ
+world cup
+Higher tier
+イスラムきょう
+イスラム教
+Islam
+いみん
+移民
+immigrant, emigrant
+おせん
+汚染
+pollution
+かく
+核
+nuclear
+かじ
+火事
+(a) fire
+ぎょうじ
+行事
+event
+キリストきょう
+キリスト教
+Christianity
+グローバル
+global
+こうずい
+洪水
+flood
+さいがい
+災害
+natural disaster
+さいばん
+裁判
+trial
+サミット
+summit
+しげん
+資源
+natural resources
+じんけん
+人権
+human rights
+しんとう
+神道
+Shitoism
+Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
+– Issue 3 – October 2018 © Pearson Education Limited 2018
+128
+Higher tier (cont)
+Hiragana/Katakana
+Kanji
+せきたん
+石炭
+coal
+せきゆ	石油	oil
+せつやく	節約	to save
+せんきょ	選挙	election
+たぶんか（の）	多文化（の）	multi cultural
+ちきゅうおんだんか	地球温暖化	global warming
+ちりょう	治療	treatment
+なんみん	難民	refugee
+ひんこん	貧困	porverty
+ぶっきょう	仏教	Buddhism
+ほうほう	方法	method
