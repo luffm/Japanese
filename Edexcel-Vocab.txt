@@ -586,351 +586,156 @@ Foundation tier
 
 Higher tier
 --------------------------------------------------------------------------------
-せいき
-世紀
-century
-など
-etc.
-ばい
-倍
-twice, ** times
+せいき 世紀  century
+など  (uk)  etc.
+ばい  倍 twice, ** times
+
 Connectives
+================================================================================
+
 Foundation tier
-あとで
-後で
-later
-さいご（に）
-最後（に）
-lastly
-さいしょ（に）
-最初（に）
-firstly
-そして
-and
-それから
-and then
-それに
-moreover
-だから
-therefore
-つぎ（に）
-次（に）
-next
-でも
-but
-まず
-firstly
+--------------------------------------------------------------------------------
+あとで 後で  later
+さいご（に）  最後（に） lastly
+さいしょ（に） 最初（に） firstly
+そして (uk)  and
+それから  (uk)  and then
+それに (uk)  moreover
+だから (uk)  therefore
+つぎ（に） 次（に）  next
+でも  (uk)  but
+まず  (uk)  firstly
+
 Higher tier
-しかし
-however
-もし
-if
+--------------------------------------------------------------------------------
+しかし (uk)  however
+もし  (uk)  if
+
 Time expressions
+================================================================================
+
 Foundation tier
-ごぜん
-午前
-am
-ごご
-午後
-pm
-きょう
-今日
-today
-あした
-明日
-tomorrow
-あさって
-the day after tomorrow
-きのう
-昨日
-yesterday
-おととい
-the day before yesterday
-まいにち
-毎日
-every day
-こんしゅう
-今週
-this week
-せんしゅう
-先週
-last week
-らいしゅう
-来週
-next week
-さらいしゅう
-再来週
-the week after next
-まいしゅう
-毎週
-every week
-こんげつ
-今月
-this month
-らいげつ
-来月
-next month
-さらいげつ
-再来月
-the month after next
-せんげつ
-先月
-last month
-まいつき
-毎月
-every month
-ことし
-今年
-this year
-らいねん
-来年
-next year
-さらいねん
-再来年
-the year after next
-おととし
-the year before last
-きょねん
-去年
-last year
-まいとし
-毎年
-every year
-**にち
-**日
-** days
-**しゅうかん
-**週間
-** weeks
-**ねん
-**年
-** years
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-94
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
-いま
-今
-now
-**じ**ふん
-**時**分
-** minutes past **
-**じはん
-**時半
-half past **
-びょう
-秒
-seconds
-ごぜんちゅう
-午前中
-during the morning
-じかん
-時間
-time
-** じかん
-**時間
-length of time
-いちねんじゅう
-一年中
-all year round
-あさ
-朝
-morning
-ばん
-晩
-evening
-まいあさ
-毎朝
-every morning
-まいばん
-毎晩
-every evening
-よる
-夜
-night
-こんばん
-今晩
-this evening
-ひ
-日
-day
-むかし
-昔
-in the past
+--------------------------------------------------------------------------------
+ごぜん 午前  am
+ごご  午後  pm
+きょう 今日  today
+あした 明日  tomorrow
+あさって  (uk)  the day after tomorrow
+きのう 昨日  yesterday
+おととい  (uk)  the day before yesterday
+まいにち  毎日  every day
+こんしゅう 今週  this week
+せんしゅう 先週  last week
+らいしゅう 来週  next week
+さらいしゅう  再来週 the week after next
+まいしゅう 毎週  every week
+こんげつ  今月  this month
+らいげつ  来月  next month
+さらいげつ 再来月 the month after next
+せんげつ  先月  last month
+まいつき  毎月  every month
+ことし 今年  this year
+らいねん  来年  next year
+さらいねん 再来年 the year after next
+おととし  (uk)  the year before last
+きょねん  去年  last year
+まいとし  毎年  every year
+**にち  **日 ** days
+**しゅうかん **週間  ** weeks
+**ねん  **年 ** years
+いま  今 now
+**じ**ふん **時**分  ** minutes past **
+**じはん **時半  half past **
+びょう 秒 seconds
+ごぜんちゅう  午前中 during the morning
+じかん 時間  time
+** じかん  **時間  length of time
+いちねんじゅう 一年中 all year round
+あさ  朝 morning
+ばん  晩 evening
+まいあさ  毎朝  every morning
+まいばん  毎晩  every evening
+よる  夜 night
+こんばん  今晩  this evening
+ひ 日 day
+むかし 昔 in the past
+
 Higher tier
-（**と）どうじに
-（**と）同時に
-at the same time as **
-（**の）あと（で/に）
-（**の）後（で/に）
-after (**)
-（**の）まえに
-（**の）前に
-before (**)
-**かげつ
-**か月
-** months
-いちにちじゅう
-一日中
-all day long
-けさ
-今朝
-this morning
-こんど
-今度
-this time / next time
-さいきん
-最近
-recently
-しばらく
-for a while
-ひる
-昼
-noon
-へいせい
-平成
-the Heisei era
-まよなか
-真夜中
-midnight
-ゆうがた
-夕方
-evening
+--------------------------------------------------------------------------------
+（**と）どうじに （**と）同時に  at the same time as **
+（**の）あと（で/に）  （**の）後（で/に） after (**)
+（**の）まえに  （**の）前に before (**)
+**かげつ **か月  ** months
+いちにちじゅう 一日中 all day long
+けさ  今朝  this morning
+こんど 今度  this time / next time
+さいきん  最近  recently
+しばらく  (uk)  for a while
+ひる  昼 noon
+へいせい  平成  the Heisei era
+まよなか  真夜中 midnight
+ゆうがた  夕方  evening
+
 Days of the week
+================================================================================
+
 Foundation tier
-げつようび
-月曜日
-Monday
-かようび
-火曜日
-Tuesday
-すいようび
-水曜日
-Wednesday
-もくようび
-木曜日
-Thursday
-きんようび
-金曜日
-Friday
-どようび
-土曜日
-Saturday
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-95
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
-にちようび
-日曜日
-Sunday
-しゅうまつ
-週末
-weekend
-きゅうじつ
-休日
-holiday
-しゅくじつ
-祝日
-festival day
+--------------------------------------------------------------------------------
+げつようび 月曜日 Monday
+かようび  火曜日 Tuesday
+すいようび 水曜日 Wednesday
+もくようび 木曜日 Thursday
+きんようび 金曜日 Friday
+どようび  土曜日 Saturday
+にちようび 日曜日 Sunday
+しゅうまつ 週末  weekend
+きゅうじつ 休日  holiday
+しゅくじつ 祝日  festival day
 
 Months and seasons of the year
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-いちがつ
-一月
-January
-にがつ
-二月
-February
-さんがつ
-三月
-March
-しがつ
-四月
-April
-ごがつ
-五月
-May
-ろくがつ
-六月
-June
-しちがつ
-七月
-July
-はちがつ
-八月
-August
-くがつ
-九月
-September
-じゅうがつ
-十月
-October
-じゅういちがつ
-十一月
-November
-じゅうにがつ
-十二月
-December
-きせつ
-季節
-season
-はる
-春
-spring
-つゆ
-梅雨
-rainy season
-なつ
-夏
-summer
-あき
-秋
-autumn
-ふゆ
-冬
-winter
+いちがつ  一月  January
+にがつ 二月  February
+さんがつ  三月  March
+しがつ 四月  April
+ごがつ 五月  May
+ろくがつ  六月  June
+しちがつ  七月  July
+はちがつ  八月  August
+くがつ 九月  September
+じゅうがつ 十月  October
+じゅういちがつ 十一月 November
+じゅうにがつ  十二月 December
+きせつ 季節  season
+はる  春 spring
+つゆ  梅雨  rainy season
+なつ  夏 summer
+あき  秋 autumn
+ふゆ  冬 winter
+
 Question words
+================================================================================
+
 Foundation tier
-いくら
-how much (money)
-いつ
-when
-だれ
-who
-どう
-how
-どうして
-why
-どうやって
-how
-どこ
-where
-どの
-which
-どのくらい
-how much (quantity)
-どれ
-which one
-どんな
-what kind of
-なに
-何
-what
-なにいろ
-何色
-what colour
-なん with a measure word
-何 with a measure word
-なんがつ
-何月
-which month
+--------------------------------------------------------------------------------
+いくら (uk)  how much (money)
+いつ  (uk)  when
+だれ  (uk)  who
+どう  (uk)  how
+どうして  (uk)  why
+どうやって (uk)  how
+どこ  (uk)  where
+どの  (uk)  which
+どのくらい (uk)  how much (quantity)
+どれ  (uk)  which one
+どんな (uk)  what kind of
+なに  何 what
+なにいろ  何色  what colour
+なん with a measure word  何 with a measure word
+なんがつ  何月  which month
 なんじ
 何時
 what time
@@ -945,8 +750,12 @@ Higher tier
 how (about)
 なぜ
 why
+
 Other useful expressions
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 **くん
 **君
 used after a boy's name
@@ -1060,7 +869,9 @@ welcome
 よろしく（おねがいします）
 よろしく（お願いします）
 please be good to me
+
 Higher tier
+--------------------------------------------------------------------------------
 けっこうです
 結構です
 it's okay
@@ -1237,8 +1048,12 @@ London
 Paris
 ニューヨーク
 New York
+
 Areas/mountains/seas
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 うみ
 海
 sea
@@ -1280,7 +1095,9 @@ east
 みなみ
 南
 south
+
 Higher tier
+--------------------------------------------------------------------------------
 アルプス
 Alps
 おか
@@ -1301,8 +1118,12 @@ region
 ちほう
 地方
 region, district
+
 Language used in dialogues and messages
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 けいたいでんわ
 携帯電話
 mobile phone
@@ -1330,9 +1151,16 @@ message
 ゆうびんばんごう
 郵便番号
 postcode
+
+================================================================================
 Section 2 – Topic-specific vocabulary
+================================================================================
+
 Identity and culture - food and drink
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 たべもの
 食べ物
 food
@@ -1566,12 +1394,6 @@ milk products
 にんじん
 人参
 carrot(s)
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-103
-Higher tier (cont)
-Hiragana/Katakana
-Kanji
 パイナップル
 pineapple
 バター
@@ -1634,8 +1456,12 @@ room service
 さいしょくしゅぎ
 菜食主義
 vegetarian
+
 Clothing
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 T シャツ
 T-shirt
 かさ
@@ -1669,12 +1495,6 @@ skirt
 trousers
 セーター
 jumper
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-104
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 とけい
 時計
 watch, clock
@@ -1760,13 +1580,12 @@ yukata
 Japanese clothes
 ワンピース
 dress
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-105
+
 Family and relationships
+================================================================================
+
 Foundation tier
-Hiragana/Katakana
-Kanji
+--------------------------------------------------------------------------------
 かぞく
 家族
 family
@@ -1861,7 +1680,9 @@ a girl
 everyone
 みなさん
 everyone (addressing them)
+
 Higher tier
+--------------------------------------------------------------------------------
 あかんぼう
 赤ん坊
 baby
@@ -1873,12 +1694,6 @@ child(ren)
 おくさん
 奥さん
 wife
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-106
-Higher tier (cont)
-Hiragana/Katakana
-Kanji
 （ご）しゅじん
 （ご）主人
 husband
@@ -1938,8 +1753,12 @@ young person
 じぶん
 自分
 self
+
 Personal pronouns
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 わたし
 私
 I
@@ -1979,12 +1798,6 @@ adult
 こども
 子供
 child
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-107
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 がいこくじん
 外国人
 foreigner
@@ -2017,7 +1830,9 @@ surname
 めがね
 眼鏡
 glasses
+
 Higher tier
+--------------------------------------------------------------------------------
 いじめ
 bullying
 かんけい
@@ -2054,8 +1869,12 @@ understanding
 りこん
 離婚
 divorce(d)
+
 Pets and animals
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 どうぶつ
 動物
 animal
@@ -2091,12 +1910,6 @@ elephant
 とら
 虎
 tiger
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-108
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 とり
 鳥
 bird
@@ -2111,8 +1924,12 @@ hamster
 guinea pig
 ライオン
 lion
+
 Parts of the body and illnesses
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 あし
 足
 feet, legs
@@ -2204,11 +2021,12 @@ feeling
 accident
 ストレス
 stress
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-109
+
 Rooms and items in a house
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 アパート
 flat, apartment
 いえ
@@ -2294,8 +2112,12 @@ refrigerator
 **かいだて
 **階建て
 ** storey
+
 Sport
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 からて
 空手
 karate
@@ -2312,12 +2134,6 @@ judo
 すいえい
 水泳
 swimming
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-110
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 スキー
 ski(ing)
 スケート
@@ -2357,7 +2173,7 @@ Higher tier
 canoe
 かんきゃく
 観客
-audinece, specator(s)
+audience, specator(s)
 クライミング
 climing
 ゴール
@@ -2397,13 +2213,12 @@ boxing
 ようぐ
 用具
 equipment
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-111
+
 Social media and technology
+================================================================================
+
 Foundation tier
-Hiragana/Katakana
-Kanji
+--------------------------------------------------------------------------------
 CD
 CD
 DVD
@@ -2444,7 +2259,9 @@ blog
 home page
 マウス
 mouse
+
 Higher tier
+--------------------------------------------------------------------------------
 アップロード
 upload
 さくじょ
@@ -2459,8 +2276,12 @@ chat room
 でんしゲーム
 電子ゲーム
 electronic games
+
 Music
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 うた
 歌
 song
@@ -2479,12 +2300,6 @@ musical instrument
 guitar
 クラシック
 classical
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-112
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 クラリネット
 clarinet
 コンサート
@@ -2497,7 +2312,9 @@ band
 piano
 ポップス
 popular music
+
 Higher tier
+--------------------------------------------------------------------------------
 がっしょう
 合唱
 chorus, choir
@@ -2546,8 +2363,12 @@ new year shrine visit
 はなみ
 花見
 flower arranging
+
 Hobbies and interests
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 アニメ
 animation
 いけばな
@@ -2568,11 +2389,6 @@ activity
 camera
 カラオケ
 karaoke
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-113
-Foundation tier (cont)
-Hiragana/Katakana Kanji
 きょうみ
 興味
 interest
@@ -2671,13 +2487,12 @@ tradition
 にちじょうせいかつ
 日常生活
 every day life
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-114
+
 Local area, holiday and travel: methods of transport
+================================================================================
+
 Foundation tier
-Hiragana/Katakana
-Kanji
+--------------------------------------------------------------------------------
 こうつうしゅだん
 交通手段
 method of transport
@@ -2733,8 +2548,12 @@ boat
 hire car
 スピード
 speed
+
 Places in town/places to visit
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 いなか
 田舎
 countryside
@@ -2771,12 +2590,6 @@ kiosk
 きっぷうりば
 切符売り場
 ticket office
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-115
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 キャンプ
 camp
 キャンプじょう
@@ -2887,12 +2700,6 @@ museum
 bus stop
 パブ
 pub
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-116
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 パンや
 パン屋
 baker
@@ -2985,19 +2792,17 @@ lake
 みなと
 港
 port
+
 Finding the way
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 いりぐち
 入口
 entrance
 かど
 corner
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-117
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 こうさてん
 交差点
 crossroads, junction
@@ -3028,7 +2833,9 @@ right
 みち
 道
 road
+
 Higher tier
+--------------------------------------------------------------------------------
 いきさき
 行先
 destination
@@ -3048,8 +2855,12 @@ directions
 rush hour
 ロータリー
 roundabout
+
 Accommodation
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 おきゃくさん
 お客さん
 customer, guest
@@ -3093,13 +2904,12 @@ Japanese style room
 わしょく
 和食
 Japanese room
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-118
+
 Buying a train ticket
+================================================================================
+
 Foundation tier
-Hiragana/Katakana
-Kanji
+--------------------------------------------------------------------------------
 おうふく
 往復
 return
@@ -3132,8 +2942,12 @@ platform
 **ゆき
 **行き
 bound for **
+
 Services
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 え
 絵
 picture
@@ -3197,12 +3011,6 @@ free
 basement, underground
 チケット
 ticket
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-119
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 ちず
 地図
 map
@@ -3303,12 +3111,12 @@ toothpaste
 ふうとう
 封筒
 envelope
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-120
+
 Weather and climate
+================================================================================
+
 Foundation tier
-Hiragana/Katakana
+--------------------------------------------------------------------------------
 てんき
 天気
 weather
@@ -3360,7 +3168,9 @@ flower
 ほし
 星
 star
+
 Higher tier
+--------------------------------------------------------------------------------
 あらし
 嵐
 storm
@@ -3384,8 +3194,12 @@ humidity
 sun
 のち
 later
+
 School subjects
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 かもく
 科目
 subject
@@ -3413,12 +3227,6 @@ calligraphy/brush writing
 すうがく
 数学
 mathematics
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-121
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 たいいく
 体育
 physical education
@@ -3470,8 +3278,12 @@ moral education
 ぶつり（がく）
 物理（学）
 physics
+
 The school day and school year
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 えんそく
 遠足
 excursion
@@ -3514,12 +3326,9 @@ holiday
 break
 レッスン
 lesson(s)
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-122
+
 Higher tier
-Hiragana/Katakana
-Kanji
+--------------------------------------------------------------------------------
 かいぎ
 会議
 meeting
@@ -3547,8 +3356,12 @@ mid-(term)
 りゅうがく
 留学
 studying abroad
+
 School buildings and things in a classroom
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 いす
 椅子
 chair
@@ -3595,7 +3408,9 @@ report
 ろうか
 廊下
 corridor
+
 Higher tier
+--------------------------------------------------------------------------------
 うんどうじょう
 運動場
 sports ground
@@ -3614,13 +3429,12 @@ pencil case
 りょう
 寮
 dormitory
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-123
+
 Types of schools and students
+================================================================================
+
 Foundation tier
-Hiragana/Katakana
-Kanji
+--------------------------------------------------------------------------------
 がっこう
 学校
 school
@@ -3673,8 +3487,12 @@ nursery
 りゅうがくせい
 留学生
 overseas student
+
 Other school vocabulary
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 はじめ
 始め、初め
 start
@@ -3719,12 +3537,6 @@ letter(s)
 **じかんめ
 **時間目
 period **
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-124
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 じかんわり
 時間割
 timetable
@@ -3765,7 +3577,9 @@ spring holiday
 winter holiday
 ** について
 about **
+
 Higher tier
+--------------------------------------------------------------------------------
 いけん
 意見
 opinion
@@ -3836,13 +3650,12 @@ revision
 preparing for class
 プレッシャー
 pressure
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-125
+
 Future aspirations, study and work
+================================================================================
+
 Foundation tier
-Hiragana/Katakana
-Kanji
+--------------------------------------------------------------------------------
 アーティスト
 artist
 いしゃ
@@ -3945,12 +3758,6 @@ future
 しょくばたいけん
 職場体験
 work experience
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-126
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 トレーニング
 training
 パートタイム
@@ -3972,7 +3779,9 @@ plan
 りゆう
 理由
 reason
+
 Higher tier
+--------------------------------------------------------------------------------
 かいけいし
 会計士
 accountant
@@ -4027,8 +3836,12 @@ interview
 もくてき
 目的
 aim
+
 International and global dimension
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 エネルギー
 energy
 オリンピック
@@ -4051,12 +3864,6 @@ international
 こくさいてき（な）
 国際的（な）
 international
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification –
-Issue 3 – October 2018 © Pearson Education Limited 2018
-127
-Foundation tier (cont)
-Hiragana/Katakana
-Kanji
 ごみ
 rubbish
 さんせい
@@ -4163,13 +3970,7 @@ natural resources
 human rights
 しんとう
 神道
-Shitoism
-Pearson Edexcel Level 1/Level 2 GCSE (9-1) in Japanese – Specification
-– Issue 3 – October 2018 © Pearson Education Limited 2018
-128
-Higher tier (cont)
-Hiragana/Katakana
-Kanji
+Shintoism
 せきたん
 石炭
 coal
