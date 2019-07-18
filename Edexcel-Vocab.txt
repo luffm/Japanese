@@ -736,20 +736,14 @@ Foundation tier
 なにいろ	何色	what colour
 なん with a measure word	何 with a measure word	????
 なんがつ	何月	which month
-なんじ
-何時
-what time
-なんにち
-何日
-what date
-なんようび
-何曜日
-what day of the week
+なんじ	何時	what time
+なんにち	何日	what date
+なんようび	何曜日	what day of the week
+
 Higher tier
-いかが
-how (about)
-なぜ
-why
+--------------------------------------------------------------------------------
+いかが	(uk)	how (about)
+なぜ	(uk)	why
 
 Other useful expressions
 ================================================================================
