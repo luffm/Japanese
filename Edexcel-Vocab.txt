@@ -586,156 +586,156 @@ Foundation tier
 
 Higher tier
 --------------------------------------------------------------------------------
-せいき 世紀  century
-など  (uk)  etc.
-ばい  倍 twice, ** times
+せいき	世紀	century
+など	(uk)	etc.
+ばい	倍	twice, ** times
 
 Connectives
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-あとで 後で  later
-さいご（に）  最後（に） lastly
-さいしょ（に） 最初（に） firstly
-そして (uk)  and
-それから  (uk)  and then
-それに (uk)  moreover
-だから (uk)  therefore
-つぎ（に） 次（に）  next
-でも  (uk)  but
-まず  (uk)  firstly
+あとで	後で	later
+さいご（に）	最後（に）	lastly
+さいしょ（に）	最初（に）	firstly
+そして	(uk)	and
+それから	(uk)	and then
+それに	(uk)	moreover
+だから	(uk)	therefore
+つぎ（に）	次（に）	next
+でも	(uk)	but
+まず	(uk)	firstly
 
 Higher tier
 --------------------------------------------------------------------------------
-しかし (uk)  however
-もし  (uk)  if
+しかし	(uk)	however
+もし	(uk)	if
 
 Time expressions
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-ごぜん 午前  am
-ごご  午後  pm
-きょう 今日  today
-あした 明日  tomorrow
-あさって  (uk)  the day after tomorrow
-きのう 昨日  yesterday
-おととい  (uk)  the day before yesterday
-まいにち  毎日  every day
-こんしゅう 今週  this week
-せんしゅう 先週  last week
-らいしゅう 来週  next week
-さらいしゅう  再来週 the week after next
-まいしゅう 毎週  every week
-こんげつ  今月  this month
-らいげつ  来月  next month
-さらいげつ 再来月 the month after next
-せんげつ  先月  last month
-まいつき  毎月  every month
-ことし 今年  this year
-らいねん  来年  next year
-さらいねん 再来年 the year after next
-おととし  (uk)  the year before last
-きょねん  去年  last year
-まいとし  毎年  every year
-**にち  **日 ** days
-**しゅうかん **週間  ** weeks
-**ねん  **年 ** years
-いま  今 now
-**じ**ふん **時**分  ** minutes past **
-**じはん **時半  half past **
-びょう 秒 seconds
-ごぜんちゅう  午前中 during the morning
-じかん 時間  time
-** じかん  **時間  length of time
-いちねんじゅう 一年中 all year round
-あさ  朝 morning
-ばん  晩 evening
-まいあさ  毎朝  every morning
-まいばん  毎晩  every evening
-よる  夜 night
-こんばん  今晩  this evening
-ひ 日 day
-むかし 昔 in the past
+ごぜん	午前	am
+ごご	午後	pm
+きょう	今日	today
+あした	明日	tomorrow
+あさって	(uk)	the day after tomorrow
+きのう	昨日	yesterday
+おととい	(uk)	the day before yesterday
+まいにち	毎日	every day
+こんしゅう	今週	this week
+せんしゅう	先週	last week
+らいしゅう	来週	next week
+さらいしゅう	再来週 the week after next
+まいしゅう	毎週	every week
+こんげつ	今月	this month
+らいげつ	来月	next month
+さらいげつ	再来月 the month after next
+せんげつ	先月	last month
+まいつき	毎月	every month
+ことし	今年	this year
+らいねん	来年	next year
+さらいねん	再来年	the year after next
+おととし	(uk)	the year before last
+きょねん	去年	last year
+まいとし	毎年	every year
+**にち	**日	** days
+**しゅうかん	**週間	** weeks
+**ねん	**年 ** years
+いま	今	now
+**じ**ふん	**時**分	** minutes past **
+**じはん	**時半	half past **
+びょう	秒	seconds
+ごぜんちゅう	午前中 during the morning
+じかん	時間	time
+** じかん	**時間	length of time
+いちねんじゅう	一年中	all year round
+あさ	朝	morning
+ばん	晩	evening
+まいあさ	毎朝	every morning
+まいばん	毎晩	every evening
+よる	夜	night
+こんばん	今晩	this evening
+ひ	日	day
+むかし	昔	in the past
 
 Higher tier
 --------------------------------------------------------------------------------
-（**と）どうじに （**と）同時に  at the same time as **
-（**の）あと（で/に）  （**の）後（で/に） after (**)
-（**の）まえに  （**の）前に before (**)
-**かげつ **か月  ** months
-いちにちじゅう 一日中 all day long
-けさ  今朝  this morning
-こんど 今度  this time / next time
-さいきん  最近  recently
-しばらく  (uk)  for a while
-ひる  昼 noon
-へいせい  平成  the Heisei era
-まよなか  真夜中 midnight
-ゆうがた  夕方  evening
+（**と）どうじに	（**と）同時に	at the same time as **
+（**の）あと（で/に）	（**の）後（で/に）	after (**)
+（**の）まえに	（**の）前に	before (**)
+**かげつ	**か月	** months
+いちにちじゅう	一日中	all day long
+けさ	今朝	this morning
+こんど	今度	this time / next time
+さいきん	最近	recently
+しばらく	(uk)	for a while
+ひる	昼	noon
+へいせい	平成	the Heisei era
+まよなか	真夜中 midnight
+ゆうがた	夕方	evening
 
 Days of the week
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-げつようび 月曜日 Monday
-かようび  火曜日 Tuesday
-すいようび 水曜日 Wednesday
-もくようび 木曜日 Thursday
-きんようび 金曜日 Friday
-どようび  土曜日 Saturday
-にちようび 日曜日 Sunday
-しゅうまつ 週末  weekend
-きゅうじつ 休日  holiday
-しゅくじつ 祝日  festival day
+げつようび	月曜日	Monday
+かようび	火曜日	Tuesday
+すいようび	水曜日	Wednesday
+もくようび	木曜日	Thursday
+きんようび	金曜日	Friday
+どようび	土曜日	Saturday
+にちようび	日曜日	Sunday
+しゅうまつ	週末	weekend
+きゅうじつ	休日	holiday
+しゅくじつ	祝日	festival day
 
 Months and seasons of the year
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-いちがつ  一月  January
-にがつ 二月  February
-さんがつ  三月  March
-しがつ 四月  April
-ごがつ 五月  May
-ろくがつ  六月  June
-しちがつ  七月  July
-はちがつ  八月  August
-くがつ 九月  September
-じゅうがつ 十月  October
-じゅういちがつ 十一月 November
-じゅうにがつ  十二月 December
-きせつ 季節  season
-はる  春 spring
-つゆ  梅雨  rainy season
-なつ  夏 summer
-あき  秋 autumn
-ふゆ  冬 winter
+いちがつ	一月	January
+にがつ	二月	February
+さんがつ	三月	March
+しがつ	四月	April
+ごがつ	五月	May
+ろくがつ	六月	June
+しちがつ	七月	July
+はちがつ	八月	August
+くがつ	九月	September
+じゅうがつ	十月	October
+じゅういちがつ	十一月	November
+じゅうにがつ	十二月	December
+きせつ	季節	season
+はる	春	spring
+つゆ	梅雨	rainy season
+なつ	夏	summer
+あき	秋	autumn
+ふゆ	冬	winter
 
 Question words
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-いくら (uk)  how much (money)
-いつ  (uk)  when
-だれ  (uk)  who
-どう  (uk)  how
-どうして  (uk)  why
-どうやって (uk)  how
-どこ  (uk)  where
-どの  (uk)  which
-どのくらい (uk)  how much (quantity)
-どれ  (uk)  which one
-どんな (uk)  what kind of
-なに  何 what
-なにいろ  何色  what colour
-なん with a measure word  何 with a measure word
-なんがつ  何月  which month
+いくら	(uk)	how much (money)
+いつ	(uk)	when
+だれ	(uk)	who
+どう	(uk)	how
+どうして	(uk)	why
+どうやって	(uk)	how
+どこ	(uk)	where
+どの	(uk)	which
+どのくらい	(uk)	how much (quantity)
+どれ	(uk)	which one
+どんな	(uk)	what kind of
+なに	何	what
+なにいろ	何色	what colour
+なん with a measure word	何 with a measure word	????
+なんがつ	何月	which month
 なんじ
 何時
 what time
