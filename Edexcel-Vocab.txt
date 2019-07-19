@@ -814,261 +814,120 @@ Countries and continents
 
 Foundation tier
 --------------------------------------------------------------------------------
-アイルランド
-Ireland
-アメリカ
-America
-イギリス
-England/UK
-イタリア
-Italy
-イングランド
-England
-インド
-India
-ウェールズ
-Wales
-オーストラリア
-Australia
-カナダ
-Canada
-かんこく
-韓国
-Korea
-スコットランド
-Scotland
-スペイン
-Spain
-ちゅうごく
-中国
-China
-ドイツ
-Germany
-にほん
-日本
-Japan
-フランス
-France
-ロシア
-Russia
-アジア
-Asia
-アフリカ
-Africa
-ヨーロッパ
-Europe
+アイルランド	(uk)	Ireland
+アメリカ	(uk)	America
+イギリス	(uk)	England/UK
+イタリア	(uk)	Italy
+イングランド	(uk)	England
+インド	(uk)	India
+ウェールズ	(uk)	Wales
+オーストラリア	(uk)	Australia
+カナダ	(uk)	Canada
+かんこく	韓国	Korea
+スコットランド	(uk)	Scotland
+スペイン	(uk)	Spain
+ちゅうごく	中国 China
+ドイツ	(uk)	Germany
+にほん	日本	Japan
+フランス	(uk)	France
+ロシア	(uk)	Russia
+アジア	(uk)	Asia
+アフリカ	(uk)	Africa
+ヨーロッパ	(uk)	Europe
+
 Higher tier
-えいこく
-英国
-England/UK
-べいこく
-米国
-USA
+--------------------------------------------------------------------------------
+えいこく	英国	England/UK
+べいこく	米国	USA
 
 Nationalities
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-アメリカじん
-アメリカ人
-American
-イギリスじん
-イギリス人
-English
-イタリアじん
-イタリア人
-Italian
-インドじん
-インド人
-Indian
-オーストラリアじん
-オーストラリア人
-Australian
-カナダじん
-カナダ人
-Canadian
-かんこくじん
-韓国人
-Korean
-スペインじん
-スペイン人
-Spanish
-ちゅうごくじん
-中国人
-Chinese
-ドイツじん
-ドイツ人
-German
-にほんじん
-日本人
-Japanese
-フランスじん
-フランス人
-French
-ロシアじん
-ロシア人
-Russian
+アメリカじん	アメリカ人	American
+イギリスじん	イギリス人	English
+イタリアじん	イタリア人	Italian
+インドじん	インド人	Indian
+オーストラリアじん	オーストラリア人	Australian
+カナダじん	カナダ人	Canadian
+かんこくじん	韓国人	Korean
+スペインじん	スペイン人	Spanish
+ちゅうごくじん	中国人	Chinese
+ドイツじん	ドイツ人	German
+にほんじん	日本人	Japanese
+フランスじん	フランス人	French
+ロシアじん	ロシア人	Russian
 
 Places
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-ほっかいどう
-北海道
-Hokkaido
-ほんしゅう
-本州
-Honshu
-きゅうしゅう
-九州
-Kyushu
-しこく
-四国
-Shikoku
-けん
-県
-prefecture
-し
-市
-city
-むら
-村
-village
-とうきょう
-東京
-Tokyo
-おおさか
-大阪
-Osaka
-おきなわ
-沖縄
-Okinawa
-きょうと
-京都
-Kyoto
-さっぽろ
-札幌
-Sapporo
-なら
-奈良
-Nara
-ひろしま
-広島
-Hiroshima
-ふじさん
-富士山
-Mt. Fuji
-ロンドン
-London
-パリ
-Paris
-ニューヨーク
-New York
+ほっかいどう	北海道	Hokkaido
+ほんしゅう	本州	Honshu
+きゅうしゅう	九州	Kyushu
+しこく	四国	Shikoku
+けん	県	prefecture
+し	市	city
+むら	村	village
+とうきょう	東京	Tokyo
+おおさか	大阪	Osaka
+おきなわ	沖縄	Okinawa
+きょうと	京都	Kyoto
+さっぽろ	札幌	Sapporo
+なら	奈良	Nara
+ひろしま	広島	Hiroshima
+ふじさん	富士山	Mt. Fuji
+ロンドン	(uk)	London
+パリ	(uk)	Paris
+ニューヨーク	(uk)	New York
 
 Areas/mountains/seas
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-うみ
-海
-sea
-おんせん
-温泉
-hot spring
-かわ
-川
-river
-しま
-島
-island
-たんぼ
-田んぼ
-rice field
-とし
-都市
-large city
-はやし
-林
-woods
-もり
-森
-forest
-やま
-山
-mountain
-けしき
-scenery
-きた
-北
-north
-にし
-西
-west
-ひがし
-東
-east
-みなみ
-南
-south
+うみ	海	sea
+おんせん	温泉	hot spring
+かわ	川	river
+しま	島	island
+たんぼ	田んぼ	rice field
+とし	都市	large city
+はやし	林	woods
+もり	森	forest
+やま	山	mountain
+けしき	(uk)	scenery
+きた	北	north
+にし	西	west
+ひがし	東	east
+みなみ	南	south
 
 Higher tier
 --------------------------------------------------------------------------------
-アルプス
-Alps
-おか
-丘
-hill
-しゅう
-州
-state
-しゅと
-首都
-capital city
-じんこう
-人口
-population
-ちいき
-地域
-region
-ちほう
-地方
-region, district
+アルプス	(uk)	Alps
+おか	丘	hill
+しゅう	州	state
+しゅと	首都	capital city
+じんこう	人口	population
+ちいき	地域	region
+ちほう	地方	region, district
 
 Language used in dialogues and messages
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-けいたいでんわ
-携帯電話
-mobile phone
-じゅうしょ
-住所
-address
-でんしメール
-電子メール
-email
-でんわ
-電話
-telephone
-でんわばんごう
-電話番号
-telephone number
-めいし
-名刺
-name card / business card
-メール
-email/text
-メールアドレス
-email address
-メッセージ
-message
-ゆうびんばんごう
-郵便番号
-postcode
+けいたいでんわ	携帯電話	mobile phone
+じゅうしょ	住所	address
+でんしメール	電子メール	email
+でんわ	電話	telephone
+でんわばんごう	電話番号	telephone number
+めいし	名刺	name card / business card
+メール	(uk)	email/text
+メールアドレス	(uk)	email address
+メッセージ	(uk)	message
+ゆうびんばんごう	郵便番号	postcode
 
 ================================================================================
 Section 2 – Topic-specific vocabulary
@@ -1079,993 +938,419 @@ Identity and culture - food and drink
 
 Foundation tier
 --------------------------------------------------------------------------------
-たべもの
-食べ物
-food
-のみもの
-飲み物
-drink(s)
-アイスクリーム
-ice cream
-うどん
-noodles
-おかし
-お菓子
-Japanese sweets
-おにぎり
-rice balls
-おべんとう
-お弁当
-packed lunch / bento
-オレンジ
-orange
-カレーライス
-curry (rice)
-ぎゅうにく
-牛肉
-beef
-ぎゅうにゅう
-牛乳
-milk
-くだもの
-果物
-fruit
-ケーキ
-cake
-こうちゃ
-紅茶
-tea
-コーヒー
-coffee
-コーラ
-coke
-こおり
-ice
-ココア
-cocoa
-ごはん
-ご飯
-rice
-（お）こめ
-（お）米
-(uncooked) rice
-さかな
-魚
-fish
-（お）さけ
-（お）酒
-sake
-さしみ
-刺身
-sashimi
-サラダ
-salad
-サンドイッチ
-sandwich
-ジュース
-juice
-しょうゆ
-soy sauce
-スープ
-soup
-すきやき
-好き焼き
-sukiyaki
-（お）すし
-（お）寿司
-sushi
-ステーキ
-steak
-ソーセージ
-sausage
-そば
-noodles
-たまご
-卵
-egg
-チーズ
-cheese
-チキン
-chicken
-チップス
-crisps
-ポテトチップス
-crisps
-(お)ちゃ
-(お)茶
-green tea
-チョコレート
-chocolate
-デザート
-dessert
-てんぷら
-天ぷら
-tempura
-トースト
-toast
-とりにく
-鶏肉
-chicken
-にく
-肉
-meat
-パスタ
-pasta
-バナナ
-banana
-ハム
-ham
-パン
-bread
-ハンバーガー
-hamburger
-ビーフ
-beef
-ビール
-beer
-ピザ
-pizza
-ビュッフェ
-buffet
-フライドポテト
-chips
-みかん
-satsuma/tangerine
-みず
-水
-water
-みそしる
-味噌汁
-miso soup
-ミルク
-milk
-やさい
-野菜
-vegetable(s)
-ヨーグルト
-yogurt
-ラーメン
-(egg) noodles
-りんご
-apple
-レモン
-lemon
-ワイン
-wine
-ベジタリアン
-vegetarian
-メニュー
-menu
-あさごはん
-朝ごはん
-breakfast
-ひるごはん
-昼ごはん
-lunch
-ばんごはん
-晩ごはん
-dinner
-がいしょく
-外食
-eating out
-はし
-箸
-chopsticks
-ナイフ
-knife
-フォーク
-fork
-スプーン
-spoon
+たべもの	食べ物	food
+のみもの	飲み物	drink(s)
+アイスクリーム	(uk)	ice cream
+うどん	(uk)	udon noodles
+おかし	お菓子	Japanese sweets
+おにぎり	(uk)	rice balls
+おべんとう	お弁当	packed lunch / bento
+オレンジ	(uk)	orange
+カレーライス	(uk)	curry (rice)
+ぎゅうにく	牛肉	beef
+ぎゅうにゅう	牛乳	milk
+くだもの	果物	fruit
+ケーキ	(uk)	cake
+こうちゃ	紅茶	tea
+コーヒー	(uk)	coffee
+コーラ	(uk)	coke
+こおり	(uk)	ice
+ココア	(uk)	cocoa
+ごはん	ご飯	rice
+（お）こめ	（お）米	(uncooked) rice
+さかな	魚	fish
+（お）さけ	（お）酒	sake
+さしみ	刺身	sashimi
+サラダ	(uk)	salad
+サンドイッチ	(uk)	sandwich
+ジュース	(uk)	juice
+しょうゆ	(uk)	soy sauce
+スープ	(uk)	soup
+すきやき	好き焼き	sukiyaki
+（お）すし	（お）寿司	sushi
+ステーキ	(uk)	steak
+ソーセージ	(uk)	sausage
+そば	(uk)	soba noodles
+たまご	卵	egg
+チーズ	(uk)	cheese
+チキン	(uk)	chicken
+チップス	(uk)	crisps
+ポテトチップス	(uk)	crisps
+(お)ちゃ	(お)茶	green tea
+チョコレート	(uk)	chocolate
+デザート	(uk)	dessert
+てんぷら	天ぷら	tempura
+トースト	(uk)	toast
+とりにく	鶏肉	chicken
+にく	肉	meat
+パスタ	(uk)	pasta
+バナナ	(uk)	banana
+ハム	(uk)	ham
+パン	(uk)	bread
+ハンバーガー	(uk)	hamburger
+ビーフ	(uk)	beef
+ビール	(uk)	beer
+ピザ	(uk)	pizza
+ビュッフェ	(uk)	buffet
+フライドポテト	(uk)	chips
+みかん	(uk)	satsuma/tangerine
+みず	水	water
+みそしる	味噌汁	miso soup
+ミルク	(uk)	milk
+やさい	野菜	vegetable(s)
+ヨーグルト	(uk)	yogurt
+ラーメン	(uk)	(egg) noodles
+りんご	(uk)	apple
+レモン	(uk)	lemon
+ワイン	(uk)	wine
+ベジタリアン	(uk)	vegetarian
+メニュー	(uk)	menu
+あさごはん	朝ごはん	breakfast
+ひるごはん	昼ごはん	lunch
+ばんごはん	晩ごはん	dinner
+がいしょく	外食	eating out
+はし	箸	chopsticks
+ナイフ	(uk)	knife
+フォーク	(uk)	fork
+スプーン	(uk)	spoon
 
 Higher tier
 --------------------------------------------------------------------------------
-あぶら
-油
-oil
-アボカド
-avocado
-いちご
-strawberry
-おこのみやき
-お好み焼き
-okonomiyaki
-おゆ
-お湯
-hot water
-きゅうり
-cucumber
-こしょう
-pepper
-サーモン
-salmon
-さとう
-砂糖
-sugar
-シーフード
-sea food
-しお
-塩
-salt
-じゃがいも
-じゃが芋
-potato(es)
-ジャム
-jam
-スナック
-snack
-たまねぎ
-玉ねぎ
-onion
-ていしょく
-定食
-set meal
-トマト
-tomato
-なし
-梨
-pear
-なま（の）
-生（の）
-raw
-にゅうせいひん
-乳製品
-milk products
-にんじん
-人参
-carrot(s)
-パイナップル
-pineapple
-バター
-butter
-ぶたにく
-豚肉
-pork
-ぶどう
-葡萄
-grapes
-ミックス
-mixed
-めいぶつ
-名物
-speciality
-もも
-桃
-peach
-やきとり
-焼き鳥
-grilled chicken skewers
-ゆうきしょくひん
-有機食品
-organic
-あじ
-味
-taste
-しょくじ
-食事
-meal
-ちゅうしょく
-昼食
-lunch
-ちょうしょく
-朝食
-breakfast
-ゆうしょく
-夕食
-dinner
-コップ
-cup
-（お）さら
-（お）皿
-plate
-なべ
-鍋
-(cooking) pot
-フライパン
-frying pan
-おかいけい
-お会計
-the bill
-おかんじょう
-お勘定
-the bill
-サービス
-service
-セルフサービス
-room service
-さいしょくしゅぎ
-菜食主義
-vegetarian
+あぶら	油	oil
+アボカド	(uk)	avocado
+いちご	(uk)	strawberry
+おこのみやき	お好み焼き	okonomiyaki
+おゆ	お湯	hot water
+きゅうり	(uk)	cucumber
+こしょう	(uk)	pepper
+サーモン	(uk)	salmon
+さとう	砂糖	sugar
+シーフード	(uk)	sea food
+しお	塩	salt
+じゃがいも	じゃが芋	potato(es)
+ジャム	(uk)	jam
+スナック	(uk)	snack
+たまねぎ	玉ねぎ	onion
+ていしょく	定食	set meal
+トマト	(uk)	tomato
+なし	梨	pear
+なま（の）	生（の）	raw
+にゅうせいひん	乳製品	milk products
+にんじん	人参	carrot(s)
+パイナップル	(uk)	pineapple
+バター	(uk)	butter
+ぶたにく	豚肉	pork
+ぶどう	葡萄	grapes
+ミックス	(uk)	mixed
+めいぶつ	名物	speciality
+もも	桃	peach
+やきとり	焼き鳥	grilled chicken skewers
+ゆうきしょくひん	有機食品	organic
+あじ	味	taste
+しょくじ	食事	meal
+ちゅうしょく	昼食	lunch
+ちょうしょく	朝食	breakfast
+ゆうしょく	夕食	dinner
+コップ	(uk)	cup
+（お）さら	（お）皿	plate
+なべ	鍋	(cooking) pot
+フライパン	(uk)	frying pan
+おかいけい	お会計	the bill
+おかんじょう	お勘定	the bill
+サービス	(uk)	service
+セルフサービス	(uk)	self-service
+さいしょくしゅぎ	菜食主義	vegetarian
 
 Clothing
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-T シャツ
-T-shirt
-かさ
-傘
-umbrella
-かばん
-鞄
-bag
-きもの
-着物
-kimono/clothes
-くつ
-靴
-shoe(s)
-くつした
-靴下
-sock(s)
-コート
-coat
-サイズ
-size
-ジーンズ
-jeans
-シャツ
-shirt
-スーツ
-suit
-スカート
-skirt
-ズボン
-trousers
-セーター
-jumper
-とけい
-時計
-watch, clock
-ネクタイ
-tie
-パジャマ
-pyjamas
-バッグ
-bag
-ハンカチ
-handkerchief
-はんズボン
-半ズボン
-shorts
-ハンドバッグ
-handbag
-ファッション
-fashion
-ブーツ
-boot(s)
-ベルト
-belt
-ぼうし
-帽子
-hat
-ポケット
-pocket
-みずぎ
-水着
-swimming costume/trunks
-ようふく
-洋服
-(western) clothes
+T シャツ	(uk)	T-shirt
+かさ	傘	umbrella
+かばん	鞄	bag
+きもの	着物	kimono/clothes
+くつ	靴	shoe(s)
+くつした	靴下	sock(s)
+コート	(uk)	coat
+サイズ	(uk)	size
+ジーンズ	(uk)	jeans
+シャツ	(uk)	shirt
+スーツ	(uk)	suit
+スカート	(uk)	skirt
+ズボン	(uk)	trousers
+セーター	(uk)	jumper
+とけい	時計	watch, clock
+ネクタイ	(uk)	tie
+パジャマ	(uk)	pyjamas
+バッグ	(uk)	bag
+ハンカチ	(uk)	handkerchief
+はんズボン	半ズボン	shorts
+ハンドバッグ	(uk)	handbag
+ファッション	(uk)	fashion
+ブーツ	(uk)	boot(s)
+ベルト	(uk)	belt
+ぼうし	帽子	hat
+ポケット	(uk)	pocket
+みずぎ	水着	swimming costume/trunks
+ようふく	洋服	(western) clothes
 
 Higher tier
 --------------------------------------------------------------------------------
-アクセサリー
-accessories
-イヤリング
-ear ring(s)
-ウール
-wool
-うでどけい
-腕時計
-watch
-うわぎ
-上着
-jacket, coat
-カーディガン
-cardigan
-こうすい
-香水
-perfume
-したぎ
-下着
-underwear
-しちゃくしつ
-試着室
-changing room(s)
-ジャケット
-jacket
-スカーフ
-scarf
-スタイル
-style
-スニーカー
-trainer(s)
-スリッパ
-slipper(s)
-てぶくろ
-手袋
-glove(s)
-ネックレス
-necklace
-ほうせき
-宝石
-jewellry
-メイク
-make up
-ゆかた
-浴衣
-yukata
-わふく
-和服
-Japanese clothes
-ワンピース
-dress
+アクセサリー	(uk)	accessories
+イヤリング	(uk)	ear ring(s)
+ウール	(uk)	wool
+うでどけい	腕時計	watch
+うわぎ	上着	jacket, coat
+カーディガン	(uk)	cardigan
+こうすい	香水	perfume
+したぎ	下着	underwear
+しちゃくしつ	試着室	changing room(s)
+ジャケット	(uk)	jacket
+スカーフ	(uk)	scarf
+スタイル	(uk)	style
+スニーカー	(uk)	trainer(s)
+スリッパ	(uk)	slipper(s)
+てぶくろ	手袋	glove(s)
+ネックレス	(uk)	necklace
+ほうせき	宝石	jewellry
+メイク	(uk)	make up
+ゆかた	浴衣	yukata
+わふく	和服	Japanese clothes
+ワンピース	(uk)	dress
 
 Family and relationships
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-かぞく
-家族
-family
-ちち
-父
-father
-はは
-母
-mother
-あに
-兄
-elder brother
-あね
-姉
-elder sister
-おとうと
-弟
-younger brother
-いもうと
-妹
-younger sister
-きょうだい
-兄弟
-siblings
-おとうさん
-お父さん
-father
-おかあさん
-お母さん
-mother
-おにいさん
-お兄さん
-elder brother
-おねえさん
-お姉さん
-elder sister
-おとうとさん
-弟さん
-younger brother
-いもうとさん
-妹さん
-younger sister
-おばあさん
-お婆さん
-grandmother
-おじいさん
-お爺さん
-grandfather
-あかちゃん
-赤ちゃん
-baby
-しんせき
-親戚
-relatives
-ともだち
-友達
-friend(s)
-ペンフレンド
-penfriend
-ガールフレンド
-girlfriend
-ボーイフレンド
-boyfriend
-かれし
-彼氏
-boyfriend
-ひと
-人
-person
-おとこのひと
-男の人
-man
-おんなのひと
-女の人
-woman
-おとこのこ
-男の子
-boy
-おんなのこ
-女の子
-girl
-おとしより
-お年寄り
-elderly person
-しょうねん
-少年
-(a) youth
-しょうじょ
-少女
-a girl
-みんな
-everyone
-みなさん
-everyone (addressing them)
+かぞく	家族	family
+ちち	父	father
+はは	母	mother
+あに	兄	elder brother
+あね	姉	elder sister
+おとうと	弟	younger brother
+いもうと	妹	younger sister
+きょうだい	兄弟	siblings
+おとうさん	お父さん	father
+おかあさん	お母さん	mother
+おにいさん	お兄さん	elder brother
+おねえさん	お姉さん	elder sister
+おとうとさん	弟さん	younger brother
+いもうとさん	妹さん	younger sister
+おばあさん	お婆さん	grandmother
+おじいさん	お爺さん	grandfather
+あかちゃん	赤ちゃん	baby
+しんせき	親戚	relatives
+ともだち	友達	friend(s)
+ペンフレンド	(uk)	penfriend
+ガールフレンド	(uk)	girlfriend
+ボーイフレンド	(uk)	boyfriend
+かれし	彼氏	boyfriend
+ひと	人	person
+おとこのひと	男の人	man
+おんなのひと	女の人	woman
+おとこのこ	男の子	boy
+おんなのこ	女の子	girl
+おとしより	お年寄り	elderly person
+しょうねん	少年	(a) youth
+しょうじょ	少女	a girl
+みんな	(uk)	everyone
+みなさん	(uk)	everyone (addressing them)
 
 Higher tier
 --------------------------------------------------------------------------------
-あかんぼう
-赤ん坊
-baby
-いとこ
-cousin
-おこさん
-お子さん
-child(ren)
-おくさん
-奥さん
-wife
-（ご）しゅじん
-（ご）主人
-husband
-おっと
-夫
-husband
-つま
-妻
-wife
-おじ
-uncle
-おじさん
-uncle
-おば
-aunt
-おばさん
-aunt
-かた
-方
-person (honorific)
-しまい
-姉妹
-sisters
-そふ
-祖父
-grandfather
-そぼ
-祖母
-grandmother
-ちょうじょ
-長女
-eldest daughter
-ちょうなん
-長男
-eldest son
-ひとりっこ
-一人っ子
-only child
-ふたご
-双子
-twin(s)
-まご
-孫
-grand child(ren)
-むすこ
-息子
-son
-むすめ
-娘
-daughter
-りょうしん
-両親
-parent(s)
-わかもの
-若者
-young person
-じぶん
-自分
-self
+あかんぼう	赤ん坊	baby
+いとこ	(uk)	cousin
+おこさん	お子さん	child(ren)
+おくさん	奥さん	wife
+（ご）しゅじん	（ご）主人	husband
+おっと	夫	husband
+つま	妻	wife
+おじ	(uk)	uncle
+おじさん	(uk)	uncle
+おば	(uk)	aunt
+おばさん	(uk)	aunt
+かた	方	person (honorific)
+しまい	姉妹	sisters
+そふ	祖父	grandfather
+そぼ	祖母	grandmother
+ちょうじょ	長女	eldest daughter
+ちょうなん	長男	eldest son
+ひとりっこ	一人っ子	only child
+ふたご	双子	twin(s)
+まご	孫	grand child(ren)
+むすこ	息子	son
+むすめ	娘	daughter
+りょうしん	両親	parent(s)
+わかもの	若者	young person
+じぶん	自分	self
 
 Personal pronouns
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-わたし
-私
-I
-わたくし
-私
-I (formal)
-わたしたち
-私たち
-we
-ぼく
-僕
-I (male, familiar)
-あなた
-you (singular)
-あなたたち
-you (plural)
-かれ
-彼
-he
-かのじょ
-彼女
-she/girlfriend
-かれら
-彼ら
-they
+わたし	私	I
+わたくし	私	I (formal)
+わたしたち	私たち	we
+ぼく	僕	I (male, familiar)
+あなた	(uk)	you (singular)
+あなたたち	(uk)	you (plural)
+かれ	彼	he
+かのじょ	彼女	she/girlfriend
+かれら	彼ら	they
 
 Describing people
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-あたまがいい
-頭がいい
-clever
-おかねもち
-お金持ち
-rich
-おとな
-大人
-adult
-こども
-子供
-child
-がいこくじん
-外国人
-foreigner
-けっこん
-結婚
-marriage
-せ
-背
-height
-たんじょうび
-誕生日
-birthday
-とし
-年
-age
-なまえ
-名前
-given name
-にんき
-人気
-popular
-ねんれい
-年齢
-age
-ブロンド
-blond
-みょうじ
-苗字
-surname
-めがね
-眼鏡
-glasses
+あたまがいい	頭がいい	clever
+おかねもち	お金持ち	rich
+おとな	大人	adult
+こども	子供	child
+がいこくじん	外国人	foreigner
+けっこん	結婚	marriage
+せ	背	height
+たんじょうび	誕生日	birthday
+とし	年	age
+なまえ	名前	given name
+にんき	人気	popular
+ねんれい	年齢	age
+ブロンド	(uk)	blond
+みょうじ	苗字	surname
+めがね	眼鏡	glasses
 
 Higher tier
 --------------------------------------------------------------------------------
-いじめ
-bullying
-かんけい
-関係
-relationship
-ぎりの
-義理の
-** in law
-きんぱつ
-金髪
-blond
-けんか
-fight, quarrel
-じしん
-自身
-self, myself, himself, herself
-せいかく
-性格
-character
-どくしん
-独身
-single
-なかがいい
-仲がいい
-friends with
-ゆうめいじん
-有名人
-celebrity
-ユーモア
-humour
-りかい
-理解
-understanding
-りこん
-離婚
-divorce(d)
+いじめ	(uk)	bullying
+かんけい	関係	relationship
+ぎりの	義理の	** in law
+きんぱつ	金髪	blond
+けんか	(uk)	fight, quarrel
+じしん	自身	self, myself, himself, herself
+せいかく	性格	character
+どくしん	独身	single
+なかがいい	仲がいい	friends with
+ゆうめいじん	有名人	celebrity
+ユーモア	(uk)	humour
+りかい	理解	understanding
+りこん	離婚	divorce(d)
 
 Pets and animals
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-どうぶつ
-動物
-animal
-ペット
-pet(s)
-いぬ
-犬
-dog
-うさぎ
-兎
-rabbit
-うし
-牛
-cow
-うま
-馬
-horse
-かめ
-亀
-turtle, tortoise
-きんぎょ
-金魚
-gold fish
-くま
-熊
-bear
-しか
-鹿
-deer
-ぞう
-像
-elephant
-とら
-虎
-tiger
-とり
-鳥
-bird
-ねこ
-猫
-cat
-ねずみ
-mouse
-ハムスター
-hamster
-モルモット
-guinea pig
-ライオン
-lion
+どうぶつ	動物	animal
+ペット	(uk)	pet(s)
+いぬ	犬	dog
+うさぎ	兎	rabbit
+うし	牛	cow
+うま	馬	horse
+かめ	亀	turtle, tortoise
+きんぎょ	金魚	gold fish
+くま	熊	bear
+しか	鹿	deer
+ぞう	像	elephant
+とら	虎	tiger
+とり	鳥	bird
+ねこ	猫	cat
+ねずみ	(uk)	mouse
+ハムスター	(uk)	hamster
+モルモット	(uk)	guinea pig
+ライオン	(uk)	lion
 
 Parts of the body and illnesses
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-あし
-足
-feet, legs
-あたま
-頭
-head
-うで
-腕
-arm
-おなか
-お腹
-tummy
-かお
-顔
-face
-かた
-肩
-shoulder(s)
-かみのけ
-髪の毛
-hair
-からだ
-体
-body
-くち
-口
-mouth
-くちびる
-唇
-lip(s)
-くび
-首
-neck
-こし
-腰
-hip(s)
-せなか
-背中
-back
-て
-手
-hand(s)
-のど
-喉
-throat
-は
-歯
-tooth, teeth
-はな
-鼻
-nose
-ひざ
-膝
-knee(s)
-みみ
-耳
-ear
-め
-目
-eye(s)
-ゆび
-指
-fingers
-びょうき
-病気
-ill, illness
-かぜ
-風邪
-a cold
-けが
-wound
-せき
-咳
-cough
-ねつ
-熱
-temperature
-こえ
-声
-voice
-きぶん
-気分
-mood, feeling
-きもち
-気持ち
-feeling
-じこ
-事故
-accident
-ストレス
-stress
+あし	足	feet, legs
+あたま	頭	head
+うで	腕	arm
+おなか	お腹	tummy
+かお	顔	face
+かた	肩	shoulder(s)
+かみのけ	髪の毛	hair
+からだ	体	body
+くち	口	mouth
+くちびる	唇	lip(s)
+くび	首	neck
+こし	腰	hip(s)
+せなか	背中	back
+て	手	hand(s)
+のど	喉	throat
+は	歯	tooth, teeth
+はな	鼻	nose
+ひざ	膝	knee(s)
+みみ	耳	ear
+め	目	eye(s)
+ゆび	指	fingers
+びょうき	病気	ill, illness
+かぜ	風邪	a cold
+けが	(uk)	wound
+せき	咳	cough
+ねつ	熱	temperature
+こえ	声	voice
+きぶん	気分	mood, feeling
+きもち	気持ち	feeling
+じこ	事故	accident
+ストレス	(uk)	stress
 
 Rooms and items in a house
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-アパート
-flat, apartment
-いえ
-家
-house
-うち
-home
-マンション
-flat, apartment
-にわ
-庭
-garden
-いま
-居間
-lounge
-おてあらい
-お手洗い
-toilet
-かいだん
-階段
-stairs
-しゃこ
-車庫
-garage
-しんしつ
-寝室
-bedroom
-だいどころ
-台所
-kitchen
-ドア
-door
-トイレ
-toilet
-ふろば
-風呂場
-bath room
-へや
-部屋
-room
-（お）ふろ
-（お）風呂
-bath
-エアコン
-air conditioning
-かぐ
-家具
-furniture
-かべ
-壁
-wall(s)
-カレンダー
-calendar
-ソファ
-sofa
-たな
-棚
-shelf
-だんぼう
-暖房
-heating, radiator
-つくえ
-机
-desk
-テーブル
-table
-どうぐ
-道具
-tool(s)
-ふとん
-futon
-ベッド
-bed
-ほんだな
-本棚
-book shelf
-まど
-窓
-window
-れいぞうこ
-冷蔵庫
-refrigerator
-**かいだて
-**階建て
-** storey
+アパート	(uk)	flat, apartment
+いえ	家	house
+うち	(uk)	home
+マンション	(uk)	flat, apartment
+にわ	庭	garden
+いま	居間	lounge
+おてあらい	お手洗い	toilet
+かいだん	階段	stairs
+しゃこ	車庫	garage
+しんしつ	寝室	bedroom
+だいどころ	台所	kitchen
+ドア	(uk)	door
+トイレ	(uk)	toilet
+ふろば	風呂場	bathroom
+へや	部屋	room
+（お）ふろ	（お）風呂	bath
+エアコン	(uk)	air conditioning
+かぐ	家具	furniture
+かべ	壁	wall(s)
+カレンダー	(uk)	calendar
+ソファ	(uk)	sofa
+たな	棚	shelf
+だんぼう	暖房	heating, radiator
+つくえ	机	desk
+テーブル	(uk)	table
+どうぐ	道具	tool(s)
+ふとん	(uk)	futon
+ベッド	(uk)	bed
+ほんだな	本棚	bookshelf
+まど	窓	window
+れいぞうこ	冷蔵庫	refrigerator
+**かいだて	**階建て	** storey
 
 Sport
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-からて
-空手
-karate
-ゴルフ
-golf
-サッカー
-football
-さんぽ
-散歩
-going for a walk
-じゅうどう
-柔道
-judo
-すいえい
-水泳
-swimming
-スキー
-ski(ing)
-スケート
-skating
-スポーツ
-sports
+からて	空手	karate
+ゴルフ	(uk)	golf
+サッカー	(uk)	football
+さんぽ	散歩	going for a walk
+じゅうどう	柔道	judo
+すいえい	水泳	swimming
+スキー	(uk)	ski(ing)
+スケート	(uk)	skating
+スポーツ	(uk)	sports
 すもう
 相撲
 sumo
