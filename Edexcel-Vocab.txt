@@ -750,140 +750,64 @@ Other useful expressions
 
 Foundation tier
 --------------------------------------------------------------------------------
-**くん
-**君
-used after a boy's name
-**さん
-Mr./Mrs./Ms.
-** さま
-**様
-Mr./Mrs./Ms.
-**でございます
-This is / It is **
-あの（う）
-well…
-ありがとう（ございます）
-thank you (very much)
-いいですね(え)
-that's nice
-いいですよ
-that's fine
-いただきます
-bon apetite
-いらっしゃいませ
-welcome
-いってきます
-行ってきます
-I'm off
-いってらっしゃい
-see you later / take care
-ただいま
-I'm home
-おかえりなさい
-お帰りなさい
-welcome home
-おかげさまで
-thanks for asking
-おげんきですか
-お元気ですか
-how are you?
-おだいじに
-お大事に
-take care (to an ill person)
-おねがいします
-お願いします
-please
-おはよう（ございます）
-good morning
-おやすみなさい
-お休みなさい
-good night
-かしこまりました
-certainly
-がんばって（ください）
-頑張って（ください）
-Do your best
-ごちそうさま（でした）
-thanks for a lovely meal
-ごめんなさい
-I'm sorry
-こんにちは
-hello
-こんばんは
-good evening
-さようなら
-goodbye
-ざんねんです（が）
-残念です（が）
-It's a pity, but..
-じゃ
-well then, in that case
-じゃ、また
-see you again
-すみません
-sorry, excuse me, thanks
-ぜんぶ（で）
-全部（で）
-in total
-だいじょうぶ（です）
-大丈夫（です）
-I'm/It's okay
-ちょっと…
-it’s a bit…
-つごうがわるいです
-都合が悪いです
-It's not convenient
-どうぞ
-said when giving things
-どうも
-thanks
-はい
-yes
-いいえ
-no
-ええ
-yes (familiar)
-うん
-yes (familiar)
-ううん
-no (familiar)
-はじめまして
-初めまして
-how do you do
-ほかに？
-他に？
-anything else?
-もういちどおねがいします
-もう一度お願いします
-again, please
-もしもし
-hello on the phone
-ようこそ
-welcome
-よろしく（おねがいします）
-よろしく（お願いします）
-please be good to me
+**くん	**君	used after a boy's name
+**さん	(uk)	Mr./Mrs./Ms.
+** さま	**様	Mr./Mrs./Ms.
+**でございます	(uk)	This is / It is **
+あの（う）	(uk)	well…
+ありがとう（ございます）	(uk)	thank you (very much)
+いいですね(え)	(uk)	that's nice
+いいですよ	(uk)	that's fine
+いただきます	(uk)	bon apetite
+いらっしゃいませ	(uk)	welcome
+いってきます	行ってきます	I'm off
+いってらっしゃい	(uk)	see you later / take care
+ただいま	(uk)	I'm home
+おかえりなさい	お帰りなさい	welcome home
+おかげさまで	(uk)	thanks for asking
+おげんきですか	お元気ですか	how are you?
+おだいじに	お大事に	take care (to an ill person)
+おねがいします	お願いします	please
+おはよう（ございます）	(uk)	good morning
+おやすみなさい	お休みなさい	good night
+かしこまりました	(uk)	certainly
+がんばって（ください）	頑張って（ください）	Do your best
+ごちそうさま（でした）	(uk)	thanks for a lovely meal
+ごめんなさい	(uk)	I'm sorry
+こんにちは	(uk)	hello
+こんばんは	(uk)	good evening
+さようなら	(uk)	goodbye
+ざんねんです（が）	残念です（が）	It's a pity, but..
+じゃ	(uk)	well then, in that case
+じゃ、また	(uk)	see you again
+すみません	(uk)	sorry, excuse me, thanks
+ぜんぶ（で）	全部（で）	in total
+だいじょうぶ（です）	大丈夫（です）	I'm/It's okay
+ちょっと…	(uk)	it’s a bit…
+つごうがわるいです	都合が悪いです	It's not convenient
+どうぞ	(uk)	said when giving things
+どうも	(uk)	thanks
+はい	(uk)	yes
+いいえ	(uk)	no
+ええ	(uk)	yes (familiar)
+うん	(uk)	yes (familiar)
+ううん	(uk)	no (familiar)
+はじめまして	初めまして	how do you do
+ほかに？	他に？	anything else?
+もういちどおねがいします	もう一度お願いします	again, please
+もしもし	(uk)	hello on the phone
+ようこそ	(uk)	welcome
+よろしく（おねがいします）	よろしく（お願いします）	please be good to me
 
 Higher tier
 --------------------------------------------------------------------------------
-けっこうです
-結構です
-it's okay
-こちらこそ
-it's me who should be saying that
-しつれいします
-失礼します
-excuse me
-しつれいですが
-失礼ですが
-excuse me, but…
-では、また
-see you again
-どういたしまして
-you're welcome
-わたしのいけんでは
-私の意見では
-in my opinion
+けっこうです	結構です	it's okay
+こちらこそ	(uk)	it's me who should be saying that
+しつれいします	失礼します	excuse me
+しつれいですが	失礼ですが	excuse me, but…
+では、また	(uk)	see you again
+どういたしまして	(uk)	you're welcome
+わたしのいけんでは	私の意見では	in my opinion
 
 Countries and continents
 ================================================================================
@@ -1333,7 +1257,9 @@ knife
 fork
 スプーン
 spoon
+
 Higher tier
+--------------------------------------------------------------------------------
 あぶら
 油
 oil
@@ -1522,7 +1448,9 @@ swimming costume/trunks
 ようふく
 洋服
 (western) clothes
+
 Higher tier
+--------------------------------------------------------------------------------
 アクセサリー
 accessories
 イヤリング
@@ -1778,8 +1706,12 @@ she/girlfriend
 かれら
 彼ら
 they
+
 Describing people
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 あたまがいい
 頭がいい
 clever
@@ -2162,7 +2094,9 @@ baseball
 yacht
 ラグビー
 rugby
+
 Higher tier
+--------------------------------------------------------------------------------
 カヌー
 canoe
 かんきゃく
@@ -2325,8 +2259,12 @@ violin
 flute
 ロック
 rock music
+
 Celebrations and festivals
+================================================================================
+
 Foundation tier
+--------------------------------------------------------------------------------
 (お）いわい
 （お）祝い
 celebration
@@ -2456,7 +2394,9 @@ remote control
 cooking
 レジャー
 leisure
+
 Higher tier
+--------------------------------------------------------------------------------
 えんげき
 演劇
 drama
@@ -2732,7 +2672,9 @@ locker
 **や
 **屋
 ** shop
+
 Higher tier
+--------------------------------------------------------------------------------
 いちば
 市場
 market
@@ -3065,7 +3007,9 @@ rental
 わすれもの
 忘れもの
 lost property
+
 Higher tier
+--------------------------------------------------------------------------------
 うんてんめんきょ
 運転免許
 driving licence
@@ -3241,7 +3185,9 @@ form time, form room
 れきし
 歴史
 history
+
 Higher tier
+--------------------------------------------------------------------------------
 かがく
 化学
 chemistry
@@ -3468,7 +3414,9 @@ school year
 **ねんせい
 **年生
 ** grader
+
 Higher tier
+--------------------------------------------------------------------------------
 こうりつ
 公立
 public
@@ -3921,7 +3869,9 @@ recycle
 advantage(s)
 ワールドカップ
 world cup
+
 Higher tier
+--------------------------------------------------------------------------------
 イスラムきょう
 イスラム教
 Islam
@@ -3956,18 +3906,10 @@ natural disaster
 trial
 サミット
 summit
-しげん
-資源
-natural resources
-じんけん
-人権
-human rights
-しんとう
-神道
-Shintoism
-せきたん
-石炭
-coal
+しげん	資源	natural resources
+じんけん	人権	human rights
+しんとう	神道	Shintoism
+せきたん	石炭	coal
 せきゆ	石油	oil
 せつやく	節約	to save
 せんきょ	選挙	election
