@@ -1351,731 +1351,327 @@ Foundation tier
 スキー	(uk)	ski(ing)
 スケート	(uk)	skating
 スポーツ	(uk)	sports
-すもう
-相撲
-sumo
-ダンス
-dance
-チーム
-team
-テニス
-tennis
-ハイキング
-hiking
-バスケットボール
-basketball
-バドミントン
-badminton
-ボール
-ball
-ホッケー
-hockey
-マウンテンバイク
-mountain bik(ing)
-やきゅう
-野球
-baseball
-ヨット
-yacht
-ラグビー
-rugby
+すもう	相撲	sumo
+ダンス	(uk)	dance
+チーム	(uk)	team
+テニス	(uk)	tennis
+ハイキング	(uk)	hiking
+バスケットボール	(uk)	basketball
+バドミントン	(uk)	badminton
+ボール	(uk)	ball
+ホッケー	(uk)	hockey
+マウンテンバイク	(uk)	mountain bik(ing)
+やきゅう	野球	baseball
+ヨット	(uk)	yacht
+ラグビー	(uk)	rugby
 
 Higher tier
 --------------------------------------------------------------------------------
-カヌー
-canoe
-かんきゃく
-観客
-audience, specator(s)
-クライミング
-climing
-ゴール
-goal
-サーフィン
-surfing
-サイクリング
-cycling
-じょうば
-乗馬
-riding
-すいじょうスキー
-水上スキー
-water skiing
-スケートボード
-skate board
-セーリング
-sailing
-せんしゅ
-選手
-(sports) player
-たいそう
-体操
-gymnastics
-たっきゅう
-卓球
-table tennis
-とざん
-登山
-climbing
-バレー
-ballet
-バレーボール
-volleyball
-ボクシング
-boxing
-ようぐ
-用具
-equipment
+カヌー	(uk)	canoe
+かんきゃく	観客	audience, spectator(s)
+クライミング	(uk)	climbing
+ゴール	(uk)	goal
+サーフィン	(uk)	surfing
+サイクリング	(uk)	cycling
+じょうば	乗馬	riding
+すいじょうスキー	水上スキー	water skiing
+スケートボード	(uk)	skate board
+セーリング	(uk)	sailing
+せんしゅ	選手	(sports) player
+たいそう	体操	gymnastics
+たっきゅう	卓球	table tennis
+とざん	登山	climbing
+バレー	(uk)	ballet
+バレーボール	(uk)	volleyball
+ボクシング	(uk)	boxing
+ようぐ	用具	equipment
 
 Social media and technology
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-CD
-CD
-DVD
-DVD
-インターネット
-internet
-ウィルス
-virus
-ウェブサイト
-website
-オンライン
-online
-クリック
-click
-コンピューター
-computer
-コンピューターゲーム
-computer game
-スクリーン
-screen
-ソーシャルネットワーク
-social network
-ダウンロード
-download
-ディスク
-disk
-デジタル
-digital
-パスワード
-password
-パソコン
-personal computer
-プリンター
-printer
-ブログ
-blog
-ホームページ
-home page
-マウス
-mouse
+CD	(uk)	CD
+DVD	(uk)	DVD
+インターネット	(uk)	internet
+ウィルス	(uk)	virus
+ウェブサイト	(uk)	website
+オンライン	(uk)	online
+クリック	(uk)	click
+コンピューター	(uk)	computer
+コンピューターゲーム	(uk)	computer game
+スクリーン	(uk)	screen
+ソーシャルネットワーク	(uk)	social network
+ダウンロード	(uk)	download
+ディスク	(uk)	disk
+デジタル	(uk)	digital
+パスワード	(uk)	password
+パソコン	(uk)	personal computer
+プリンター	(uk)	printer
+ブログ	(uk)	blog
+ホームページ	(uk)	home page
+マウス	(uk)	mouse
 
 Higher tier
 --------------------------------------------------------------------------------
-アップロード
-upload
-さくじょ
-削除
-to delete
-ソフト
-software
-タイプ
-to type
-チャットルーム
-chat room
-でんしゲーム
-電子ゲーム
-electronic games
+アップロード	(uk)	upload
+さくじょ	削除	to delete
+ソフト	(uk)	software
+タイプ	(uk)	to type
+チャットルーム	(uk)	chat room
+でんしゲーム	電子ゲーム	electronic games
 
 Music
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-うた
-歌
-song
-オーケストラ
-orchestra
-おんがく
-音楽
-music
-かしゅ
-歌手
-singer
-がっき
-楽器
-musical instrument
-ギター
-guitar
-クラシック
-classical
-クラリネット
-clarinet
-コンサート
-concert
-ドラム
-drum(s)
-バンド
-band
-ピアノ
-piano
-ポップス
-popular music
+うた	歌	song
+オーケストラ	(uk)	orchestra
+おんがく	音楽	music
+かしゅ	歌手	singer
+がっき	楽器	musical instrument
+ギター	(uk)	guitar
+クラシック	(uk)	classical
+クラリネット	(uk)	clarinet
+コンサート	(uk)	concert
+ドラム	(uk)	drum(s)
+バンド	(uk)	band
+ピアノ	(uk)	piano
+ポップス	(uk)	popular music
 
 Higher tier
 --------------------------------------------------------------------------------
-がっしょう
-合唱
-chorus, choir
-ジャズ
-jazz
-トランペット
-trumpet
-バイオリン
-violin
-ふえ
-笛
-(Japanese) flute
-フルート
-flute
-ロック
-rock music
+がっしょう	合唱	chorus, choir
+ジャズ	(uk)	jazz
+トランペット	(uk)	trumpet
+バイオリン	(uk)	violin
+ふえ	笛	(Japanese) flute
+フルート	(uk)	flute
+ロック	(uk)	rock music
 
 Celebrations and festivals
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-(お）いわい
-（お）祝い
-celebration
-イベント
-event
-まつり
-祭り
-festival
-おしょうがつ
-お正月
-New Year
-おぼん
-お盆
-the 'bon' festival
-クリスマス
-Christmas
-けっこんしき
-結婚式
-wedding
-ゴールデンウィーク
-Golden Week
-しんねん
-新年
-new year
-はつもうで
-初詣
-new year shrine visit
-はなみ
-花見
-flower arranging
+（お）いわい	（お）祝い	celebration
+イベント	(uk)	event
+まつり	祭り	festival
+おしょうがつ	お正月	New Year
+おぼん	お盆	the 'bon' festival
+クリスマス	(uk)	Christmas
+けっこんしき	結婚式	wedding
+ゴールデンウィーク	(uk)	Golden Week
+しんねん	新年	new year
+はつもうで	初詣	new year shrine visit
+はなみ	花見	flower arranging
 
 Hobbies and interests
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-アニメ
-animation
-いけばな
-生け花
-flower arranging
-えいが
-映画
-film
-おもちゃ
-toy
-かいもの
-買い物
-shopping
-かつどう
-活動
-activity
-カメラ
-camera
-カラオケ
-karaoke
-きょうみ
-興味
-interest
-クラブ
-club
-ゲーム
-game
-げき
-劇
-a play
-（お）こづかい
-（お）小遣い
-pocket money
-ざっし
-雑誌
-magazine
-しゃしん
-写真
-photograph, photography
-じゆうじかん
-自由時間
-free time
-しゅみ
-趣味
-hobby
-ショー
-show
-シリーズ
-series
-たのしみ
-楽しみ
-pleasure, enjoyment
-つり
-釣り
-fishing
-ディスコ
-disco
-テレビ
-TV
-どくしょ
-読書
-reading
-ドラマ
-drama
-ナイトクラブ
-night club
-ニュース
-news
-パーティー
-party
-ばんぐみ
-番組
-programme
-ビデオ
-video
-ぶんか
-文化
-culture
-ほん
-本
-book
-まんが
-漫画
-manga, cartoon
-ユースクラブ
-youth club
-リモコン
-remote control
-りょうり
-料理
-cooking
-レジャー
-leisure
+アニメ	(uk)	animation
+いけばな	生け花	flower arranging
+えいが	映画	film
+おもちゃ	(uk)	toy
+かいもの	買い物	shopping
+かつどう	活動	activity
+カメラ	(uk)	camera
+カラオケ	(uk)	karaoke
+きょうみ	興味	interest
+クラブ	(uk)	club
+ゲーム	(uk)	game
+げき	劇	a play
+（お）こづかい	（お）小遣い	pocket money
+ざっし	雑誌	magazine
+しゃしん	写真	photograph, photography
+じゆうじかん	自由時間	free time
+しゅみ	趣味	hobby
+ショー	(uk)	show
+シリーズ	(uk)	series
+たのしみ	楽しみ	pleasure, enjoyment
+つり	釣り	fishing
+ディスコ	(uk)	disco
+テレビ	(uk)	TV
+どくしょ	読書	reading
+ドラマ	(uk)	drama
+ナイトクラブ	(uk)	night club
+ニュース	(uk)	news
+パーティー	(uk)	party
+ばんぐみ	番組	programme
+ビデオ	(uk)	video
+ぶんか	文化	culture
+ほん	本	book
+まんが	漫画	manga, cartoon
+ユースクラブ	(uk)	youth club
+リモコン	(uk)	remote control
+りょうり	料理	cooking
+レジャー	(uk)	leisure
 
 Higher tier
 --------------------------------------------------------------------------------
-えんげき
-演劇
-drama
-かじ
-家事
-housework
-がめん
-画面
-screen
-さどう
-茶道
-tea ceremony
-しせつ
-施設
-facility
-しゅうかん
-習慣
-custom
-でんとう
-伝統
-tradition
-にちじょうせいかつ
-日常生活
-every day life
+えんげき	演劇	drama
+かじ	家事	housework
+がめん	画面	screen
+さどう	茶道	tea ceremony
+しせつ	施設	facility
+しゅうかん	習慣	custom
+でんとう	伝統	tradition
+にちじょうせいかつ	日常生活	every day life
 
 Local area, holiday and travel: methods of transport
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-こうつうしゅだん
-交通手段
-method of transport
-のりもの
-乗り物
-method of transport
-あるいて
-歩いて
-on foot
-オートバイ
-motorbike
-くるま
-車
-car
-じてんしゃ
-自転車
-bicycle
-じどうしゃ
-自動車
-car
-しんかんせん
-新幹線
-bullet train
-タクシー
-taxi
-ちかてつ
-underground, tube
-でんしゃ
-電車
-tram/train
-トラック
-lorry
-バス
-bus
-ひこうき
-飛行機
-aeroplane
-フェリー
-ferry
-ふね
-船
-ship, boat
-フライト
-flight
-**びん
-**便
-flight **
-ヘリコプター
-helicopter
-ボート
-boat
-レンタカー
-hire car
-スピード
-speed
+こうつうしゅだん	交通手段	method of transport
+のりもの	乗り物	method of transport
+あるいて	歩いて	on foot
+オートバイ	(uk)	motorbike
+くるま	車	car
+じてんしゃ	自転車	bicycle
+じどうしゃ	自動車	car
+しんかんせん	新幹線	bullet train
+タクシー	(uk)	taxi
+ちかてつ	(uk)	underground, tube
+でんしゃ	電車	tram/train
+トラック	(uk)	lorry
+バス	(uk)	bus
+ひこうき	飛行機	aeroplane
+フェリー	(uk)	ferry
+ふね	船	ship, boat
+フライト	(uk)	flight
+**びん	**便	flight **
+ヘリコプター	(uk)	helicopter
+ボート	(uk)	boat
+レンタカー	(uk)	hire car
+スピード	(uk)	speed
 
 Places in town/places to visit
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-いなか
-田舎
-countryside
-インフォメーション
-information
-うりば
-売り場
-sales counter
-えいがかん
-映画館
-cinema
-えき
-駅
-station
-エスカレーター
-escalator
-エレベーター
-lift
-がいこく
-外国
-abroad, foreign country
-かいしゃ
-会社
-company
-ガソリンスタンド
-petrol station
-カフェ
-café
-かんこうあんないじょ
-観光案内所
-tourist information office
-キオスク
-kiosk
-きっぷうりば
-切符売り場
-ticket office
-キャンプ
-camp
-キャンプじょう
-キャンプ場
-camping ground
-きょうかい
-教会
-church
-ぎんこう
-銀行
-bank
-きんじょ
-近所
-neighbourhood
-くうこう
-空港
-airport
-くすりや
-薬屋
-pharmacy, chemist
-くに
-国
-country
-けいさつ
-警察
-police
-けいさつしょ
-警察署
-police station
-げきじょう
-劇場
-theatre
-コインロッカー
-locker
-こうえん
-公園
-park
-こうじょう
-工場
-factory
-こうばん
-交番
-police box
-コンビニ
-convenience store
-じむしょ
-事務所
-office
-しょくどう
-食堂
-canteen
-ショッピングセンター
-shopping centre
-（お）しろ
-（お）城
-castle
-じんじゃ
-神社
-shrine
-しんぶんや
-新聞屋
-newsagent
-スーパー
-supermarket
-スポーツセンター
-sports centre
-たいしかん
-大使館
-embassy
-タクシーのりば
-タクシー乗り場
-taxi rank
-たてもの
-建物
-building
-たばこや
-たばこ屋
-tobacco shop
-ちゅうしゃじょう
-駐車（場）
-car park
-テニスコート
-tennis court
-デパート
-department store
-（お）てら
-（お）寺
-temple
-どうぶつえん
-動物園
-zoo
-としょかん
-図書館
-library
-にくや
-肉屋
-butcher
-のうじょう
-農場
-farm
-バー
-bar
-はくぶつかん
-博物館
-museum
-バスのりば
-バス乗り場
-bus stop
-パブ
-pub
-パンや
-パン屋
-baker
-ビーチ
-beach
-びじゅつかん
-美術館
-art gallery
-びょういん
-病院
-hospital
-ビル
-high rise building
-プール
-swimming pool
-ヘアサロン
-hair salon
-ポスト
-post box
-まち
-町、街
-town
-みせ
-店
-shop
-もん
-門
-gate
-ゆうびんきょく
-郵便局
-post office
-レストラン
-restaurant
-ロッカー
-locker
-**や
-**屋
-** shop
+いなか	田舎	countryside
+インフォメーション	(uk)	information
+うりば	売り場	sales counter
+えいがかん	映画館	cinema
+えき	駅	station
+エスカレーター	(uk)	escalator
+エレベーター	(uk)	lift
+がいこく	外国	abroad, foreign country
+かいしゃ	会社	company
+ガソリンスタンド	(uk)	petrol station
+カフェ	(uk)	café
+かんこうあんないじょ	観光案内所	tourist information office
+キオスク	(uk)	kiosk
+きっぷうりば	切符売り場	ticket office
+キャンプ	(uk)	camp
+キャンプじょう	キャンプ場	camping ground
+きょうかい	教会	church
+ぎんこう	銀行	bank
+きんじょ	近所	neighbourhood
+くうこう	空港	airport
+くすりや	薬屋	pharmacy, chemist
+くに	国	country
+けいさつ	警察	police
+けいさつしょ	警察署	police station
+げきじょう	劇場	theatre
+コインロッカー	(uk)	coin-locker
+こうえん	公園	park
+こうじょう	工場	factory
+こうばん	交番	police box
+コンビニ	(uk)	convenience store
+じむしょ	事務所	office
+しょくどう	食堂	canteen
+ショッピングセンター	(uk)	shopping centre
+（お）しろ	（お）城	castle
+じんじゃ	神社	shrine
+しんぶんや	新聞屋	newsagent
+スーパー	(uk)	supermarket
+スポーツセンター	(uk)	sports centre
+たいしかん	大使館	embassy
+タクシーのりば	タクシー乗り場	taxi rank
+たてもの	建物	building
+たばこや	たばこ屋	tobacco shop
+ちゅうしゃじょう	駐車（場）	car park
+テニスコート	(uk)	tennis court
+デパート	(uk)	department store
+（お）てら	（お）寺	temple
+どうぶつえん	動物園	zoo
+としょかん	図書館	library
+にくや	肉屋	butcher
+のうじょう	農場	farm
+バー	(uk)	bar
+はくぶつかん	博物館	museum
+バスのりば	バス乗り場	bus stop
+パブ	(uk)	pub
+パンや	パン屋	baker
+ビーチ	(uk)	beach
+びじゅつかん	美術館	art gallery
+びょういん	病院	hospital
+ビル	(uk)	high rise building
+プール	(uk)	swimming pool
+ヘアサロン	(uk)	hair salon
+ポスト	(uk)	post box
+まち	町、街	town
+みせ	店	shop
+もん	門	gate
+ゆうびんきょく	郵便局	post office
+レストラン	(uk)	restaurant
+ロッカー	(uk)	locker
+**や	**屋	** shop
 
 Higher tier
 --------------------------------------------------------------------------------
-いちば
-市場
-market
-うけつけ
-受付
-reception
-かいがい
-海外
-abroad
-かいがん
-海岸
-coast
-かいじょう
-会場
-location
-かんこうめいしょ
-観光名所
-famous tourist spot
-こっきょう
-国境
-border
-じどうはんばいき
-自動販売機
-vending machine
-しやくしょ
-市役所
-city/town hall
-せんめんじょ
-洗面所
-wash room
-タワー
-tower
-とかい
-都会
-large city
-とこや
-床屋
-barber
-ところ
-所
-place
-バスてい
-バス停
-bus stop
-まちあいしつ
-待合室
-waiting room
-みずうみ
-湖
-lake
-みなと
-港
-port
+いちば	市場	market
+うけつけ	受付	reception
+かいがい	海外	abroad
+かいがん	海岸	coast
+かいじょう	会場	location
+かんこうめいしょ	観光名所	famous tourist spot
+こっきょう	国境	border
+じどうはんばいき	自動販売機	vending machine
+しやくしょ	市役所	city/town hall
+せんめんじょ	洗面所	wash room
+タワー	(uk)	tower
+とかい	都会	large city
+とこや	床屋	barber
+ところ	所	place
+バスてい	バス停	bus stop
+まちあいしつ	待合室	waiting room
+みずうみ	湖	lake
+みなと	港	port
 
 Finding the way
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-いりぐち
-入口
-entrance
-かど
-corner
-こうさてん
-交差点
-crossroads, junction
-こうつう
-交通
-traffic
-しんごう
-信号
-traffic light(s)
-ちゅうしん
-中心
-centre
-でぐち
-出口
-exit
-はし
-橋
-bridge
-ばしょ
-場所
-place
-ひだり
-左
-left
-みぎ
-右
-right
-みち
-道
-road
+いりぐち	入口	entrance
+かど	(uk)	corner
+こうさてん	交差点	crossroads, junction
+こうつう	交通	traffic
+しんごう	信号	traffic light(s)
+ちゅうしん	中心	centre
+でぐち	出口	exit
+はし	橋	bridge
+ばしょ	場所	place
+ひだり	左	left
+みぎ	右	right
+みち	道	road
 
 Higher tier
 --------------------------------------------------------------------------------
-いきさき
-行先
-destination
-おうだんほどう
-横断歩道
-pedestrial crossing
-こうそくどうろ
-高速道路
-motorway
-どうろ
-道路
-road
-ほうこう
-方向
-directions
-ラッシュアワー
-rush hour
-ロータリー
-roundabout
+いきさき	行先	destination
+おうだんほどう	横断歩道	pedestrial crossing
+こうそくどうろ	高速道路	motorway
+どうろ	道路	road
+ほうこう	方向	directions
+ラッシュアワー	(uk)	rush hour
+ロータリー	(uk)	roundabout
 
 Accommodation
 ================================================================================
