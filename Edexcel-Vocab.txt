@@ -1678,1115 +1678,461 @@ Accommodation
 
 Foundation tier
 --------------------------------------------------------------------------------
-おきゃくさん
-お客さん
-customer, guest
-かぎ
-鍵
-key, lock
-シーツ
-sheet(s)
-シャワー
-shower
-せっけん
-石鹸
-soap
-タオル
-towel
-チェックアウト
-check out
-チェックイン
-check in
-パスポート
-passport
-ホテル
-hotel
-ユースホステル
-youth hostel
-ようしつ
-洋室
-Western style room
-ようしょく
-洋食
-Western meal
-よやく
-予約
-reservation
-りょかん
-旅館
-Japanese inn
-わしつ
-和室
-Japanese style room
-わしょく
-和食
-Japanese room
+おきゃくさん	お客さん	customer, guest
+かぎ	鍵	key, lock
+シーツ	(uk)	sheet(s)
+シャワー	(uk)	shower
+せっけん	石鹸	soap
+タオル	(uk)	towel
+チェックアウト	(uk)	check out
+チェックイン	(uk)	check in
+パスポート	(uk)	passport
+ホテル	(uk)	hotel
+ユースホステル	(uk)	youth hostel
+ようしつ	洋室	Western style room
+ようしょく	洋食	Western meal
+よやく	予約	reservation
+りょかん	旅館	Japanese inn
+わしつ	和室	Japanese style room
+わしょく	和食	Japanese room
 
 Buying a train ticket
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-おうふく
-往復
-return
-かたみち
-片道
-one-way
-きっぷ
-切符
-ticket
-グリーンしゃ
-グリーン車
-1st class
-していせき
-指定席
-reserved seat
-じゆうせき
-自由席
-unreserved seat
-りょうきん
-料金
-fare
-** ばんせん
-**番線
-platform number
-**せん
-**線
-the ** line
-ホーム
-platform
-**ゆき
-**行き
-bound for **
+おうふく	往復	return
+かたみち	片道	one-way
+きっぷ	切符	ticket
+グリーンしゃ	グリーン車	1st class
+していせき	指定席	reserved seat
+じゆうせき	自由席	unreserved seat
+りょうきん	料金	fare
+** ばんせん	**番線	platform number
+**せん	**線	the ** line
+ホーム	(uk)	platform
+**ゆき	**行き	bound for **
 
 Services
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-え
-絵
-picture
-えはがき
-絵葉書
-picture postcard
-おおきさ
-大きさ
-size
-おかね
-お金
-money
-おつり
-お釣り
-change
-おみやげ
-お土産
-souvenir
-カード
-card
-ガイド
-(tour) guide
-ガイドブック
-guidebook
-ガソリン
-petrol
-かたち
-形
-shape
-かんこう
-観光
-tourism
-かんこうきゃく
-観光客
-tourist
-きって
-切手
-stamps
-きゃく
-客
-customer, guest
-くすり
-薬
-medicine, tablets
-クレジットカード
-credit card
-さいふ
-財布
-purse
-サイン
-(to) sign
-しんぶん
-新聞
-newspaper
-スーツケース
-suitcase
-ただ
-free
-ちか
-地下
-basement, underground
-チケット
-ticket
-ちず
-地図
-map
-ツアー
-tour
-てがみ
-手紙
-a letter
-でんち
-電池
-battery
-テント
-tent
-にもつ
-荷物
-baggage, luggage
-ねだん
-値段
-price
-はがき
-postcard
-はこ
-箱
-box
-はなび
-花火
-fireworks
-はブラシ
-歯ブラシ
-tooth brush
-パンフレット
-pamphlet
-ビザ
-visa
-プレゼント
-present
-ボールペン
-ball point pen
-ほかの
-他の
-other
-ポスター
-poster
-ラジオ
-radio
-りょうしゅうしょ
-領収書
-receipt
-りょこう
-旅行
-travelling
-レジ
-till
-レシート
-receipt
-レンタル
-rental
-わすれもの
-忘れもの
-lost property
+え	絵	picture
+えはがき	絵葉書	picture postcard
+おおきさ	大きさ	size
+おかね	お金	money
+おつり	お釣り	change
+おみやげ	お土産	souvenir
+カード	(uk)	card
+ガイド	(uk)	(tour) guide
+ガイドブック	(uk)	guidebook
+ガソリン	(uk)	petrol
+かたち	形	shape
+かんこう	観光	tourism
+かんこうきゃく	観光客	tourist
+きって	切手	stamps
+きゃく	客	customer, guest
+くすり	薬	medicine, tablets
+クレジットカード	(uk)	credit card
+さいふ	財布	purse
+サイン	(uk)	(to) sign
+しんぶん	新聞	newspaper
+スーツケース	(uk)	suitcase
+ただ	(uk)	free
+ちか	地下	basement, underground
+チケット	(uk)	ticket
+ちず	地図	map
+ツアー	(uk)	tour
+てがみ	手紙	a letter
+でんち	電池	battery
+テント	(uk)	tent
+にもつ	荷物	baggage, luggage
+ねだん	値段	price
+はがき	(uk)	postcard
+はこ	箱	box
+はなび	花火	fireworks
+はブラシ	歯ブラシ	tooth brush
+パンフレット	(uk)	pamphlet
+ビザ	(uk)	visa
+プレゼント	(uk)	present
+ボールペン	(uk)	ball point pen
+ほかの	他の	other
+ポスター	(uk)	poster
+ラジオ	(uk)	radio
+りょうしゅうしょ	領収書	receipt
+りょこう	旅行	travelling
+レジ	(uk)	till
+レシート	(uk)	receipt
+レンタル	(uk)	rental
+わすれもの	忘れもの	lost property
 
 Higher tier
 --------------------------------------------------------------------------------
-うんてんめんきょ
-運転免許
-driving licence
-きかい
-機械
-machine
-こうかん
-交換
-exchange
-こうきょうこうつうきかん
-公共交通機関
-public transport
-さんぎょう
-産業
-industry
-じもと（の）
-地元（の）
-local
-しゅくはく
-宿泊
-accommodation
-たいけん
-体験
-personal/physical experience
-てんらんかい
-展覧会
-exhibition
-にゅうじょうりょう
-入場料
-entrance fee
-にんぎょう
-人形
-doll
-はみがきこ
-歯磨き粉
-toothpaste
-ふうとう
-封筒
-envelope
+うんてんめんきょ	運転免許	driving licence
+きかい	機械	machine
+こうかん	交換	exchange
+こうきょうこうつうきかん	公共交通機関	public transport
+さんぎょう	産業	industry
+じもと（の）	地元（の）	local
+しゅくはく	宿泊	accommodation
+たいけん	体験	personal/physical experience
+てんらんかい	展覧会	exhibition
+にゅうじょうりょう	入場料	entrance fee
+にんぎょう	人形	doll
+はみがきこ	歯磨き粉	toothpaste
+ふうとう	封筒	envelope
 
 Weather and climate
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-てんき
-天気
-weather
-てんきよほう
-天気予報
-weather forecast
-あめ
-雨
-rain
-かぜ
-風
-wind
-くも
-雲
-cloud
-くもり
-曇り
-cloudy
-たいふう
-台風
-typhoon
-はれ
-晴れ
-sunny
-ゆき
-雪
-snow
-**ど
-**度
-** degrees
-き
-木
-tree
-くうき
-空気
-air
-さくら
-桜
-cherry blossom
-そら
-空
-sky
-つき
-月
-moon
-はな
-花
-flower
-ほし
-星
-star
+てんき	天気	weather
+てんきよほう	天気予報	weather forecast
+あめ	雨	rain
+かぜ	風	wind
+くも	雲	cloud
+くもり	曇り	cloudy
+たいふう	台風	typhoon
+はれ	晴れ	sunny
+ゆき	雪	snow
+**ど	**度	** degrees
+き	木	tree
+くうき	空気	air
+さくら	桜	cherry blossom
+そら	空	sky
+つき	月	moon
+はな	花	flower
+ほし	星	star
 
 Higher tier
 --------------------------------------------------------------------------------
-あらし
-嵐
-storm
-かみなり
-雷
-thunder
-きおん
-気温
-temperature
-きこう
-気候
-climate
-きり
-霧
-fog
-しつど
-湿度
-humidity
-たいよう
-太陽
-sun
-のち
-later
+あらし	嵐	storm
+かみなり	雷	thunder
+きおん	気温	temperature
+きこう	気候	climate
+きり	霧	fog
+しつど	湿度	humidity
+たいよう	太陽	sun
+のち	(uk)	later
 
 School subjects
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-かもく
-科目
-subject
-えいご
-英語
-English
-がいこくご
-外国語
-foreign language
-かがく
-科学
-science
-**ご
-**語
-** language
-こくご
-国語
-Japanese
-しゃかい
-社会
-social studies
-しゅうじ
-習字
-calligraphy/brush writing
-すうがく
-数学
-mathematics
-たいいく
-体育
-physical education
-ちり
-地理
-geography
-にほんご
-日本語
-Japanese
-びじゅつ
-美術
-art
-ぶんがく
-文学
-literature
-ホームルーム
-form time, form room
-れきし
-歴史
-history
+かもく	科目	subject
+えいご	英語	English
+がいこくご	外国語	foreign language
+かがく	科学	science
+**ご	**語	** language
+こくご	国語	Japanese
+しゃかい	社会	social studies
+しゅうじ	習字	calligraphy/brush writing
+すうがく	数学	mathematics
+たいいく	体育	physical education
+ちり	地理	geography
+にほんご	日本語	Japanese
+びじゅつ	美術	art
+ぶんがく	文学	literature
+ホームルーム	(uk)	form time, form room
+れきし	歴史	history
 
 Higher tier
 --------------------------------------------------------------------------------
-かがく
-化学
-chemistry
-かていか
-家庭科
-home economics
-ぎじゅつ
-技術
-technology
-けいざい
-経済
-economics
-しゅうきょう
-宗教
-religion, religious studies
-しょどう
-書道
-calligraphy/brush writing
-せいぶつ（がく）
-生物（学）
-biology
-せんたく（かもく）
-選択（科目）
-optional subjects
-どうとく
-道徳
-moral education
-ぶつり（がく）
-物理（学）
-physics
+かがく	化学	chemistry
+かていか	家庭科	home economics
+ぎじゅつ	技術	technology
+けいざい	経済	economics
+しゅうきょう	宗教	religion, religious studies
+しょどう	書道	calligraphy/brush writing
+せいぶつ（がく）	生物（学）	biology
+せんたく（かもく）	選択（科目）	optional subjects
+どうとく	道徳	moral education
+ぶつり（がく）	物理（学）	physics
 
 The school day and school year
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-えんそく
-遠足
-excursion
-きゅうしょく
-給食
-(set) school lunch
-けんがく
-見学
-study trip
-しあい
-試合
-(sports) match
-しゅうがくりょこう
-修学旅行
-school trip
-じゅぎょう
-授業
-lesson(s)
-そつぎょう
-卒業
-graduation
-にゅうがく
-入学
-entering a school
-テスト
-test
-ひるやすみ
-昼休み
-lunch break
-ほうかご
-放課後
-after school
-ホームステイ
-home stay
-やすみ
-休み
-holiday
-やすみじかん
-休み時間
-break
-レッスン
-lesson(s)
+えんそく	遠足	excursion
+きゅうしょく	給食	(set) school lunch
+けんがく	見学	study trip
+しあい	試合	(sports) match
+しゅうがくりょこう	修学旅行	school trip
+じゅぎょう	授業	lesson(s)
+そつぎょう	卒業	graduation
+にゅうがく	入学	entering a school
+テスト	(uk)	test
+ひるやすみ	昼休み	lunch break
+ほうかご	放課後	after school
+ホームステイ	(uk)	home stay
+やすみ	休み	holiday
+やすみじかん	休み時間	break
+レッスン	(uk)	lesson(s)
 
 Higher tier
 --------------------------------------------------------------------------------
-かいぎ
-会議
-meeting
-きまつ
-期末
-end of term
-きゅうけい
-休憩
-rest
-けんしゅう
-研修
-training
-しけん
-試験
-examination
-そつぎょうしき
-卒業式
-school graduation ceremony
-にゅうがくしき
-入学式
-school entrance ceremony
-ちゅうかん
-中間
-mid-(term)
-りゅうがく
-留学
-studying abroad
+かいぎ	会議	meeting
+きまつ	期末	end of term
+きゅうけい	休憩	rest
+けんしゅう	研修	training
+しけん	試験	examination
+そつぎょうしき	卒業式	school graduation ceremony
+にゅうがくしき	入学式	school entrance ceremony
+ちゅうかん	中間	mid-(term)
+りゅうがく	留学	studying abroad
 
 School buildings and things in a classroom
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-いす
-椅子
-chair
-えんぴつ
-鉛筆
-pencil
-かみ
-紙
-paper
-きょうかしょ
-教科書
-text book
-きょうしつ
-教室
-classroom
-グラウンド
-sports ground
-けしゴム
-消しゴム
-rubber, eraser
-ごみばこ
-ごみ箱
-rubbish bin
-じしょ
-辞書
-dictionary
-セロテープ
-selotape
-たいいくかん
-体育館
-sports hall, gym
-ノート
-notebook
-のり
-glue
-はさみ
-scissors
-プリント
-handout
-ペン
-pen
-レポート
-report
-ろうか
-廊下
-corridor
+いす	椅子	chair
+えんぴつ	鉛筆	pencil
+かみ	紙	paper
+きょうかしょ	教科書	text book
+きょうしつ	教室	classroom
+グラウンド	(uk)	sports ground
+けしゴム	消しゴム	rubber, eraser
+ごみばこ	ごみ箱	rubbish bin
+じしょ	辞書	dictionary
+セロテープ	(uk)	selotape
+たいいくかん	体育館	sports hall, gym
+ノート	(uk)	notebook
+のり	(uk)	glue
+はさみ	(uk)	scissors
+プリント	(uk)	handout
+ペン	(uk)	pen
+レポート	(uk)	report
+ろうか	廊下	corridor
 
 Higher tier
 --------------------------------------------------------------------------------
-うんどうじょう
-運動場
-sports ground
-こうてい
-校庭
-school yard
-こくばん
-黒板
-blackboard
-しょくいんしつ
-職員室
-staff room
-ふでばこ
-筆箱
-pencil case
-りょう
-寮
-dormitory
+うんどうじょう	運動場	sports ground
+こうてい	校庭	school yard
+こくばん	黒板	blackboard
+しょくいんしつ	職員室	staff room
+ふでばこ	筆箱	pencil case
+りょう	寮	dormitory
 
 Types of schools and students
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-がっこう
-学校
-school
-しょうがっこう
-小学校
-primary school
-ちゅうがっこう
-中学校
-middle school, junior high school
-こうこう
-高校
-(senior) high school
-だいがく
-大学
-universtiy
-しょうがくせい
-小学生
-primary school pupil
-ちゅうがくせい
-中学生
-secondary school pupil
-こうこうせい
-高校生
-high school pupil
-がくせい
-学生
-student
-だいがくせい
-大学生
-universtiy student
-せいと
-生徒
-pupil(s)
-がくねん
-学年
-school year
-**ねんせい
-**年生
-** grader
+がっこう	学校	school
+しょうがっこう	小学校	primary school
+ちゅうがっこう	中学校	middle school, junior high school
+こうこう	高校	(senior) high school
+だいがく	大学	universtiy
+しょうがくせい	小学生	primary school pupil
+ちゅうがくせい	中学生	secondary school pupil
+こうこうせい	高校生	high school pupil
+がくせい	学生	student
+だいがくせい	大学生	universtiy student
+せいと	生徒	pupil(s)
+がくねん	学年	school year
+**ねんせい	**年生	** grader
 
 Higher tier
 --------------------------------------------------------------------------------
-こうりつ
-公立
-public
-しりつ
-私立
-private
-ようちえん
-幼稚園
-nursery
-りゅうがくせい
-留学生
-overseas student
+こうりつ	公立	public
+しりつ	私立	private
+ようちえん	幼稚園	nursery
+りゅうがくせい	留学生	overseas student
 
 Other school vocabulary
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-はじめ
-始め、初め
-start
-おわり
-終わり
-end
-ひらがな
-hiragana
-かたかな
-katakana
-かんじ
-漢字
-kanji
-ローマじ
-ローマ字
-romaji
-がっき
-学期
-(school) term
-**くみ
-**組
-class **
-クラス
-class
-グループ
-group
-こうちょう（せんせい）
-校長（先生）
-head teacher
-こたえ
-答
-answer
-ことば
-言葉
-word
-さくぶん
-作文
-essay
-じ
-字
-letter(s)
-**じかんめ
-**時間目
-period **
-じかんわり
-時間割
-timetable
-しつもん
-質問
-question
-じゅく
-塾
-cram school
-しゅくだい
-宿題
-homework
-せいせき
-成績
-grade(s)
-せいふく
-制服
-uniform
-**ぶ
-**部
-** club/department
-ページ
-page
-れい
-例
-example
-れんしゅう
-練習
-practice
-なつやすみ
-夏休み
-summer holiday
-はるやすみ
-春休み
-spring holiday
-ふゆやすみ
-冬休み
-winter holiday
-** について
-about **
+はじめ	始め、初め	start
+おわり	終わり	end
+ひらがな	(uk)	hiragana
+かたかな	(uk)	katakana
+かんじ	漢字	kanji
+ローマじ	ローマ字	romaji
+がっき	学期	(school) term
+**くみ	**組	class **
+クラス	(uk)	class
+グループ	(uk)	group
+こうちょう（せんせい）	校長（先生）	head teacher
+こたえ	答	answer
+ことば	言葉	word
+さくぶん	作文	essay
+じ	字	letter(s)
+**じかんめ	**時間目	period **
+じかんわり	時間割	timetable
+しつもん	質問	question
+じゅく	塾	cram school
+しゅくだい	宿題	homework
+せいせき	成績	grade(s)
+せいふく	制服	uniform
+**ぶ	**部	** club/department
+ページ	(uk)	page
+れい	例	example
+れんしゅう	練習	practice
+なつやすみ	夏休み	summer holiday
+はるやすみ	春休み	spring holiday
+ふゆやすみ	冬休み	winter holiday
+**について	(uk)	about **
 
 Higher tier
 --------------------------------------------------------------------------------
-いけん
-意見
-opinion
-いみ
-意味
-meaning
-おと
-音
-sound
-おもいで
-思い出
-memory
-かいわ
-会話
-conversation
-きまり
-rule
-きょういく
-教育
-education
-けいけん
-経験
-experience
-けっか
-結果
-result(s)
-けっせき
-欠席
-absent
-けんきゅう
-研究
-research
-ごうかく
-合格
-pass
-こと
-事
-(abstract) thing
-もの
-物
-(physical) thing
-じっけん
-実験
-experiment
-じゆうけんきゅう
-自由研究
-project work
-しゅっせき
-出席
-present
-しょうせつ
-小説
-novel
-しょるい
-書類
-documents
-にっき
-日記
-diary
-はなし
-話
-talk
-ふくしゅう
-復習
-revision
-よしゅう
-予習
-preparing for class
-プレッシャー
-pressure
+いけん	意見	opinion
+いみ	意味	meaning
+おと	音	sound
+おもいで	思い出	memory
+かいわ	会話	conversation
+きまり	(uk)	rule
+きょういく	教育	education
+けいけん	経験	experience
+けっか	結果	result(s)
+けっせき	欠席	absent
+けんきゅう	研究	research
+ごうかく	合格	pass
+こと	事	(abstract) thing
+もの	物	(physical) thing
+じっけん	実験	experiment
+じゆうけんきゅう	自由研究	project work
+しゅっせき	出席	present
+しょうせつ	小説	novel
+しょるい	書類	documents
+にっき	日記	diary
+はなし	話	talk
+ふくしゅう	復習	revision
+よしゅう	予習	preparing for class
+プレッシャー	(uk)	pressure
 
 Future aspirations, study and work
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-アーティスト
-artist
-いしゃ
-医者
-doctor
-ウェーター
-waiter
-ウェートレス
-waitress
-うんてんしゅ
-運転手
-driver
-エンジニア
-engineer
-おんがくか
-音楽家
-musician
-かいしゃいん
-会社員
-company employee
-かんごし
-看護師
-nurse
-ぎんこういん
-銀行員
-banker
-けいかん
-警官
-police officer
-さっか
-作家
-writer
-シェフ
-chef
-ジャーナリスト
-journalist
-しゃちょう
-社長
-company president
-しゅふ
-主婦
-housewife
-スチュワーデス
-stewardess
-スチュワード
-steward
-せんせい
-先生
-teacher
-つうやく
-通訳
-interpreter
-デザイナー
-designer
-てんいん
-店員
-shop assistant
-はいしゃ
-歯医者
-dentist
-はいゆう
-俳優
-actor, actress
-パイロット
-pilot
-キャビンアテンダント
-flight attendant
-プログラマー
-(computer) programmer
-べんごし
-弁護士
-lawyer
-ほんやくか
-翻訳家
-translator
-マネージャー
-manager
-むしょく
-無職
-unemployed
-アルバイト
-part time job
-インタビュー
-interview
-きゅうりょう
-給料
-salary
-けいかく
-計画
-plan
-じこしょうかい
-自己紹介
-self introduction
-しごと
-仕事
-job
-しょうらい
-将来
-future
-しょくばたいけん
-職場体験
-work experience
-トレーニング
-training
-パートタイム
-part time
-フルタイム
-full time
-プロ
-professional
-ボーナス
-bonus
-ボランティア
-volunteer
-ゆめ
-夢
-dream
-よてい
-予定
-plan
-りゆう
-理由
-reason
+アーティスト	(uk)	artist
+いしゃ	医者	doctor
+ウェーター	(uk)	waiter
+ウェートレス	(uk)	waitress
+うんてんしゅ	運転手	driver
+エンジニア	(uk)	engineer
+おんがくか	音楽家	musician
+かいしゃいん	会社員	company employee
+かんごし	看護師	nurse
+ぎんこういん	銀行員	banker
+けいかん	警官	police officer
+さっか	作家	writer
+シェフ	(uk)	chef
+ジャーナリスト	(uk)	journalist
+しゃちょう	社長	company president
+しゅふ	主婦	housewife
+スチュワーデス	(uk)	stewardess
+スチュワード	(uk)	steward
+せんせい	先生	teacher
+つうやく	通訳	interpreter
+デザイナー	(uk)	designer
+てんいん	店員	shop assistant
+はいしゃ	歯医者	dentist
+はいゆう	俳優	actor, actress
+パイロット	(uk)	pilot
+キャビンアテンダント	(uk)	flight attendant
+プログラマー	(uk)	(computer) programmer
+べんごし	弁護士	lawyer
+ほんやくか	翻訳家	translator
+マネージャー	(uk)	manager
+むしょく	無職	unemployed
+アルバイト	(uk)	part time job
+インタビュー	(uk)	interview
+きゅうりょう	給料	salary
+けいかく	計画	plan
+じこしょうかい	自己紹介	self introduction
+しごと	仕事	job
+しょうらい	将来	future
+しょくばたいけん	職場体験	work experience
+トレーニング	(uk)	training
+パートタイム	(uk)	part time
+フルタイム	(uk)	full time
+プロ	(uk)	professional
+ボーナス	(uk)	bonus
+ボランティア	(uk)	volunteer
+ゆめ	夢	dream
+よてい	予定	plan
+りゆう	理由	reason
 
 Higher tier
 --------------------------------------------------------------------------------
-かいけいし
-会計士
-accountant
-がか
-画家
-painter
-きょうし
-教師
-teacher
-けんちくか
-建築家
-architect
-こうむいん
-公務員
-civil servant
-いがく
-医学
-medicine
-てつがく
-哲学
-philosophy
-ほうがく
-法学
-law
-いんしょう
-印象
-impression
-きかい
-機会
-opportunity
-げんご
-言語
-language(s)
-こうこく
-広告
-advert
-しかく
-資格
-qualification
-じしん
-自信
-self confidence
-しつぎょう
-失業
-unemployment
-せんもん
-専門
-specialism
-めんせつ
-面接
-interview
-もくてき
-目的
-aim
+かいけいし	会計士	accountant
+がか	画家	painter
+きょうし	教師	teacher
+けんちくか	建築家	architect
+こうむいん	公務員	civil servant
+いがく	医学	medicine
+てつがく	哲学	philosophy
+ほうがく	法学	law
+いんしょう	印象	impression
+きかい	機会	pportunity
+げんご	言語	language(s)
+こうこく	広告	advert
+しかく	資格	qualification
+じしん	自信	self confidence
+しつぎょう	失業	unemployment
+せんもん	専門	specialism
+めんせつ	面接	interview
+もくてき	目的	aim
 
 International and global dimension
 ================================================================================
 
 Foundation tier
 --------------------------------------------------------------------------------
-エネルギー
-energy
-オリンピック
-Olympics
-かざん
-火山
-volcano
-かんきょう
-環境
-environment
-けってん
-欠点
-disadvantage(s)
-こうがい
-公害
-pollution
-こくさい
-国際
-international
-こくさいてき（な）
-国際的（な）
-international
-ごみ
-rubbish
-さんせい
-賛成
-agree
-じしん
-地震
-earthquake
-しぜん
-自然
-nature
-じゆう
-自由
-freedom
-せいじ
-政治
-politics
-せかい
-世界
-world
-せきじゅうじ
-赤十字
-Red Cross
-せんそう
-戦争
-war
-ちきゅう
-地球
-earth
-チャリティー
-charity
-テロ（リズム）
-terrorism
-でんき
-電気
-electricity
-どろぼう
-泥棒
-thief
-におい
-匂い
-smell
-はんたい
-反対
-disagree
-フェアトレード
-fair trade
-へいわ
-平和
-peace
-ほご
-保護
-protection
-もんだい
-問題
-problem
-リサイクル
-recycle
-りてん
-利点
-advantage(s)
-ワールドカップ
-world cup
+エネルギー	(uk)	energy
+オリンピック	(uk)	Olympics
+かざん	火山	volcano
+かんきょう	環境	environment
+けってん	欠点	disadvantage(s)
+こうがい	公害	pollution
+こくさい	国際	international
+こくさいてき（な）	国際的（な）	international
+ごみ	(uk)	rubbish
+さんせい	賛成	agree
+じしん	地震	earthquake
+しぜん	自然	nature
+じゆう	自由	freedom
+せいじ	政治	politics
+せかい	世界	world
+せきじゅうじ	赤十字	Red Cross
+せんそう	戦争	war
+ちきゅう	地球	earth
+チャリティー	(uk)	charity
+テロ（リズム）	(uk)	terrorism
+でんき	電気	electricity
+どろぼう	泥棒	thief
+におい	匂い	smell
+はんたい	反対	disagree
+フェアトレード	(uk)	fair trade
+へいわ	平和	peace
+ほご	保護	protection
+もんだい	問題	problem
+リサイクル	(uk)	recycle
+りてん	利点	advantage(s)
+ワールドカップ	(uk)	world cup
 
 Higher tier
 --------------------------------------------------------------------------------
-イスラムきょう
-イスラム教
-Islam
-いみん
-移民
-immigrant, emigrant
-おせん
-汚染
-pollution
-かく
-核
-nuclear
-かじ
-火事
-(a) fire
-ぎょうじ
-行事
-event
-キリストきょう
-キリスト教
-Christianity
-グローバル
-global
-こうずい
-洪水
-flood
-さいがい
-災害
-natural disaster
-さいばん
-裁判
-trial
-サミット
-summit
+イスラムきょう	イスラム教	Islam
+いみん	移民	immigrant, emigrant
+おせん	汚染	pollution
+かく	核	nuclear
+かじ	火事	(a) fire
+ぎょうじ	行事	event
+キリストきょう	キリスト教	Christianity
+グローバル	(uk)	global
+こうずい	洪水	flood
+さいがい	災害	natural disaster
+さいばん	裁判	trial
+サミット	(uk)	summit
 しげん	資源	natural resources
 じんけん	人権	human rights
 しんとう	神道	Shintoism
