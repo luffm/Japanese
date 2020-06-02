@@ -7,22 +7,22 @@ Common verbs
 
 Foundation tier
 --------------------------------------------------------------------------------
-あう	会う	to meet
-あける	開ける	to open
-あげる	(uk)	to give
-あそぶ	遊ぶ	to play, to socialize
-あつまる	集まる	to assemble
-あつめる	集める	to collect
-あらう	洗う	to wash
-ある		(uk)	to be, to exist
-あるく	歩く	to walk
-いう	言う	to say
-いく	行く	to go
-いそぐ	急ぐ	to hurry
-いる	(uk)	to be, to exist
-いれる	入れる	to put in
-うごく	動く	to move
-うたう	歌う	to sing
+あう	会う	to meet	(v5u,vi,HL)
+あける	開ける	to open	(v1,vt,LHH)
+あげる	(uk)	to give	(v1,vt,LHH)
+あそぶ	遊ぶ	to play, to socialize	(v5b,vi,LHH)
+あつまる	集まる	to assemble	(v5r,vi,LHHL)
+あつめる	集める	to collect	(v1,vt,LHHL)
+あらう	洗う	to wash	(v5u,vt,LHH)
+ある		(uk)	to be, to exist	(v5r,vi,HL)
+あるく	歩く	to walk	(v5k,vi,LHL)
+いう	言う	to say	(v5u,vt,vi,LH)
+いく	行く	to go	(v5k,vi,LH)
+いそぐ	急ぐ	to hurry	(v5g,vi,vt,LHL)
+いる	(uk)	to be, to exist	(v1,vi,LH)
+いれる	入れる	to put in	(v1,vt,LHH)
+うごく	動く	to move	(v5g,vi,LHL)
+うたう	歌う	to sing	(v5u,vi,LHH)
 うまれる	生まれる	to be born
 うる	売る	to sell
 えらぶ	選ぶ	to choose
@@ -150,7 +150,7 @@ Higher tier
 （シャワーを）あびる	（シャワーを）浴びる	to have a shower
 いきる	生きる	to live
 いじめる	(uk)	to bully
-いる	要る	to need
+いる	要る	to need	(v5r,vi,LH)
 （しけんに）うかる	（試験に）受かる	to pass (an exam)
 うける	受ける	to receive, to take an exam
 うつ	打つ	to hit
