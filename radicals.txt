@@ -1,19 +1,82 @@
+1	1	一	-	ichi	[one; "horizontal stroke"]
+1	2	丨	-	tatebou	["vertical stroke"]
+1	3	丶	-	ten	["dot stroke"]
+1	4	丿	-	no	["diagonal stroke"]
+1	5	乙	-	otsu	[2nd Heavenly Stem; fishguts]
+1	6	亅	-	harebou	["vertical stroke with hook"]
+2	7	二	-	ni	[two]
+2	8	亠	T	nabebuta	[lid, top; up; head]
+2	9	人,亻	-,L	hito, ninben	[person] (体 : タイ body) (住 : ジュウ dwelling)
+2	10	儿	B	hitoashi	[human legs]
+2	11	入	-	iru	[enter]
+2	12	八	T	hachigashira	[eight; divide]
+2	13	冂	s	dougamae	[enclose; upside down box]
+2	14	冖	T	wakanmuri	[cover]
+2	15	冫	L	nisui	[ice] (冷 : レイ cold) (次 : つぎ next)
+2	16	几	R	ki'nyou	[table, desk]
+2	17	凵	s	kan'nyou	[container]
+2	18	刀,刂	-,R	katana, rittou	[knife, sword]
+2	19	力	-	chikara	[power]
+2	20	勹	s	tsutsumigamae	[wrap; embrace]
+2	21	匕	R	saji	[spoon]
+2	22	匚	s	hakogamae	[box]
+2	23	匸	s	kakushigamae	[conceal]
+2	24	十	-	juu	[ten]
+2	25	卜	-	uranai	[divination; oracle]
+2	26	卩,㔾	R	fushidsukuri	[stamp, seal]
+2	27	厂	s	gandare	[cliff]
+2	28	厶	-	mu	[private]
+2	29	又	-	mata	[again; hand]
+3	30	口	L	kuchihen	[mouth] (味 : ミ flavour;taste) (呼 : よ.ぶ call out to)
+3	31	囗		kunigamae	[border; box]
+3	32	土	L	tsuchihen	[earth] (地 : チ earth) (場 : ジョウ location)
+3	33	士	-	samurai	[man; scholar]
+3	34	夂		nomata	[follow]
+3	35	夊	B	natsuashi	[go slowly]
+3	36	夕		yuube	[evening]
+3	37	大		dai	[large]
+3	38	女	L	onnahen	[woman] (好 : す.き liked) (始 : はじ.め beginning)
+3	39	子		ko	[child, son]
+3	40	宀		ukanmuri	[roof; crown]
+3	41	寸		sen	[inch; glue]
+3	42	小		chiisai	[small]
+3	43	尢		mageashi	[lame; crooked-big]
+3	44	尸		shikabare	[corpse; flag]
+3	45	屮		tetsu	[sprout; old grass]
+3	46	山		yama	[mountain]
+3	47	川		magarigawa	[crooked river]
+3	48	工		takumi	[work; craft]
+3	49	己	-	onore	[self; threads on a loom; snake]
+3	50	巾		haba	[cloth]
+3	51	干		hasu	[dry; shield]
+3	52	幺		itogashira	[young; slight; short thread]
+3	53	广		madare	[slanting roof; dotted cliff]
+3	54	廴	s	en'nyou	[move, stretch; long stride]
+3	55	廾	B	nijuuashi	[folding hands; twenty]
+3	56	弋	-	igurumi	[javelin; ceremony]
+3	57	弓	L	yumihen	[bow in archery] (引 : ひ.く pull) (強 : つよ.い strong)
+3	58	ヨ,⺕,⼹,⺔	-	keigashira	[pig's head]
+3	59	彡	R	sandsukuri	[hair-style; light rays]
+3	60	彳	L	gyouninben	["going man"; step, stride; stop, linger, loiter]
+
+4	61				[heart]
+
+	66	攴,攵
+
+	90	?,丬
+
+	162	?,辶	s
+7	163	邑,⻏	R	oozato	[village, community]
+
+8	170	阜,⻏	L	kozatohen	[hill, mound]
 
 
-2  9 亻 ninben [person] <人> (体 : タイ body) (住 : ジュウ dwelling)
-2 15 冫 nisui [ice] <冰> (冷 : レイ cold) (次 : つぎ next)
-3 30 口 kuchihen [mouth] (味 : ミ flavour;taste) (呼 : よ.ぶ call out to)
-3 32 土 tsuchihen [earth] (地 : チ earth) (場 : ジョウ location)
-3 38 女 onnahen [woman] (好 : す.き liked) (始 : はじ.め beginning)
-3 57 弓 yumihen [bow in archery] (引 : ひ.く pull) (強 : つよ.い strong)
-3 60 ⼻ gyouninben [step]
+2	-	𠆢	T	N/A	[person; roof]
 
 
 
 
-
-
-⼀		one, horizontal stroke	いち		
+1	⼀		one, horizontal stroke	いち		
 1	⼁		vertical stroke	たてぼう		
 1	⼂		dot	てん		
 1	⼃		diagonal sweeping stroke	の		
