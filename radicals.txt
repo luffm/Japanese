@@ -117,6 +117,8 @@
 5	116				[]
 5	117				[]
 
+6	130	肉,冃,⺼			[flesh, meat]
+
 7	162	?,辶	s
 7	163	邑,⻏	R	oozato	[village, community]
 
