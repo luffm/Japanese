@@ -8,44 +8,49 @@
 応答詞 response word
 接尾語 suffix
 
-Lesson 1 - わたしは　にほんじんです
+Lesson 1 - わたしは　にほんじんです // I am Japanese
 
 [Expressions] Expressing correspondence or non-correspondence of things (concerning people)
 
 [Sentence Patterns]
-(1) （わたし）は～です			(I) am ~
-(2) （わたし）は～ではありません	(I) am not ~
-(3) （あなた）は～ですか		Are (you) ~?
-(4) ～はどなた／だれですか		Who is ~?
-(5) （～は）どのひとですか		Which person is (~)?
-(6) （～さん）も～です			(Mr ~) is also ~
+(1) （わたし）は～です // (I) am ~
+(2) （わたし）は～ではありません // (I) am not ~
+(3) （あなた）は～ですか // Are (you) ~ ?
+(4) ～はどなた／だれですか // Who is ~ ?
+(5) （～は）どのひとですか // Which person is (~) ?
+(6) （～さん）も～です // (Mr ~) is also ~
 
 [Grammatical Matters]
-(1) Usage of demonstrative 「この（ひと）」 「その（ひと）」 「あの（ひと）」 and interrogative 「どの（ひと）」 「どなた」 「だれ」
-(2) Usage of pre-noun adjectival particle 「の」 （イギリスの学生）
-(3) Usage of binding particles 「は」「も」 and sentence-ending particle 「か」
-(4) Usage of 「～です」 「～ではありません」
-(5) Usage of response words 「はい」 「いいえ」 (See Lesson 17 for responses to negative questions)
-(6) Suffixes 「～じん(人)」 「～ご(語)」 「～さん」
+(1) Usage of demonstrative「この（ひと）」「その（ひと）」「あの（ひと）」and interrogative「どの（ひと）」「どなた」「だれ」
+(2) Usage of pre-noun adjectival particle「の」（イギリスの学生）
+(3) Usage of binding particles 「は」「も」and sentence-ending particle「か」
+(4) Usage of「～です」「～ではありません」
+(5) Usage of response words「はい」「いいえ」(See Lesson 17 for responses to negative questions)
+(6) Suffixes「～じん(人)」「～ご(語)」「～さん」
 
 [Scene] Entrance ceremony, social gathering
 [Topic] Introduction of a person
 
-2課これはつくえです
-[Expressions]事物の一致，不一致を表す言い方(物について)
+Lesson 2 - これは　つくえです // This is a desk
+
+[Expressions] Expressing correspondence or non-correspondence of things (concerning things)
+
 [Sentence Patterns]
-(1) (これ〕は~です
-(2) (これ)は~ではありません
-(3) これ〕は~ですか
-(4) (これ)はなんですか
-(5) ~はどれですか
-(6) ~は~ですかですか
-(7l (これ)も~です
+(1) （これ）は～です // (This) is ~
+(2) （これ）は～ではありません // (This) is not ~
+(3) （これ）は～ですか // Is (this) ~ ?
+(4) （これ）はなんですか // What is (this) ?
+(5) ～はどれですか // Which is ~ ?
+(6) ～は～ですか、～ですか // Is ~ ~ ?
+(7) （これ）も～です // (This) is also ~
+
 [Grammatical Matters]
-(1) 指示詞「これJrそれJrあれ」と疑問詞「どれJrなん(なに)Jの用法
-(2) 連休助詞「の」の用法(わたしのかさ，おとこのぼうし)
-[Scene]教室
-[Topic]事物の説明，所属，所有
+(1) Usage of demonstrative「これ」「それ」「あれ」and interrogative「どれ」「なん(なに)」
+(2) Usage of pre-noun adjectival particle「の」(わたしのかさ，おとこのぼうし)
+
+[Scene] Classroom
+[Topic] Explanation, affiliation, ownership of things
+
 3課ここにでんわがあります
 [Expressions]事物の存在，非存在を表す言い方
 '斗
