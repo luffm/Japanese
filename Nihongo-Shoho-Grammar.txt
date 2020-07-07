@@ -4,6 +4,8 @@
 連体 pre-noun adjectival; adnominal adjective
 助詞 particle
 係助詞 binding particle
+格助詞 case-marking particle
+並列助詞 item-list particle
 終助詞 sentence ending particle
 応答詞 response word
 接尾語 suffix
@@ -21,12 +23,12 @@ Lesson 1 - わたしは　にほんじんです // I am Japanese
 (6) （～さん）も～です // (Mr ~) is also ~
 
 [Grammatical Matters]
-(1) Usage of demonstrative「この（ひと）」「その（ひと）」「あの（ひと）」and interrogative「どの（ひと）」「どなた」「だれ」
-(2) Usage of pre-noun adjectival particle「の」（イギリスの学生）
-(3) Usage of binding particles 「は」「も」and sentence-ending particle「か」
-(4) Usage of「～です」「～ではありません」
-(5) Usage of response words「はい」「いいえ」(See Lesson 17 for responses to negative questions)
-(6) Suffixes「～じん(人)」「～ご(語)」「～さん」
+(1) Usage of demonstrative 「この（ひと）」 「その（ひと）」 「あの（ひと）」 and interrogative 「どの（ひと）」 「どなた」「だれ」
+(2) Usage of pre-noun adjectival particle 「の」 （イギリスの学生）
+(3) Usage of binding particles 「は」「も」and sentence-ending particle 「か」
+(4) Usage of 「～です」 「～ではありません」
+(5) Usage of response words 「はい」 「いいえ」 (See Lesson 17 for responses to negative questions)
+(6) Suffixes 「～じん(人)」 「～ご(語)」 「～さん」
 
 [Scene] Entrance ceremony, social gathering
 [Topic] Introduction of a person
@@ -36,38 +38,42 @@ Lesson 2 - これは　つくえです // This is a desk
 [Expressions] Expressing correspondence or non-correspondence of things (concerning things)
 
 [Sentence Patterns]
-(1) （これ）は～です // (This) is ~
-(2) （これ）は～ではありません // (This) is not ~
-(3) （これ）は～ですか // Is (this) ~ ?
+(1) （これ）は～です // (This) is a ~
+(2) （これ）は～ではありません // (This) is not a ~
+(3) （これ）は～ですか // Is (this) a ~ ?
 (4) （これ）はなんですか // What is (this) ?
 (5) ～はどれですか // Which is ~ ?
-(6) ～は～ですか、～ですか // Is ~ ~ ?
-(7) （これ）も～です // (This) is also ~
+(6) ～は～ですか、～ですか // Is ~ a ~ ?
+(7) （これ）も～です // (This) is also a ~
 
 [Grammatical Matters]
-(1) Usage of demonstrative「これ」「それ」「あれ」and interrogative「どれ」「なん(なに)」
-(2) Usage of pre-noun adjectival particle「の」(わたしのかさ，おとこのぼうし)
+(1) Usage of demonstrative 「これ」「それ」「あれ」 and interrogative 「どれ」 「なん(なに)」
+(2) Usage of pre-noun adjectival particle 「の」 (わたしのかさ, おとこのぼうし)
 
 [Scene] Classroom
 [Topic] Explanation, affiliation, ownership of things
 
-3課ここにでんわがあります
-[Expressions]事物の存在，非存在を表す言い方
+Lesson 3 - ここに　でんわが　あります // There is a telephone here
+
+[Expressions] Expressing existence and non-existence of things
+
 [Sentence Patterns]
-(1) ～に～があります
-(2) ～は～にあります
-(3) ～になにがありますか
-(4) ～になにかありますか
-(5) ～にはなにもありません
-(6) ～はどこですか
-(7) ～はどこにありますか
+(1) ～に～があります // There is ~ (at/in/on) ~
+(2) ～は～にあります // ~ is (at/in/on) ~
+(3) ～になにがありますか // What is (at/in/on) ~ ?
+(4) ～になにかありますか // Is there something (at/in/on) ~ ?
+(5) ～にはなにもありません // There is nothing (at/in/on) ~
+(6) ～はどこですか // Where is ~ ?
+(7) ～はどこにありますか // Where is ~ ?
+
 [Grammatical Matters]
-(1) 場所を示す指示詞「ここ」 iそこ」 iあそこ」と疑問詞「どこ」の用法
-(2) 格助詞「が」， iに」 (場所)の用法
-(3) 並列助調「と」， iや～(など)」の用法
-(4) 打消と呼応する「なにも(ない)」の用法
-[Scene]居室台所
-[Topic]へや家具食物建物
+(1) Usage of demonstrative 「ここ」 「そこ」 「あそこ」 and interrogative 「どこ」 to indicate location
+(2) Usage of case-marking particles 「が」, 「に」 (location)
+(3) Usage of item-list particles 「と」, 「や～(など)」
+(4) Usage of negation response 「なにも(ない)」
+
+[Scene] Living room, kitchen
+[Topic] Room, furniture, food, buildings
 
 4課あそこに人が、、ます
 [Expressions]人・動物の存在，非存在を表す言い方
