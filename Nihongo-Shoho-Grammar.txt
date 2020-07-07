@@ -62,7 +62,7 @@ Lesson 3 - ここに　でんわが　あります // There is a telephone here
 (2) ～は～にあります // ~ is (at/in/on) ~
 (3) ～になにがありますか // What is (at/in/on) ~ ?
 (4) ～になにかありますか // Is there something (at/in/on) ~ ?
-(5) ～にはなにもありません // There is nothing (at/in/on) ~
+(5) ～にはなにもありません // There isn't anything (at/in/on) ~
 (6) ～はどこですか // Where is ~ ?
 (7) ～はどこにありますか // Where is ~ ?
 
@@ -75,15 +75,17 @@ Lesson 3 - ここに　でんわが　あります // There is a telephone here
 [Scene] Living room, kitchen
 [Topic] Room, furniture, food, buildings
 
-4課あそこに人が、、ます
-[Expressions]人・動物の存在，非存在を表す言い方
+Lesson 4 - あそこに　人が　います
+
+[Expressions] Expressing existence and non-existence of people and animals
+
 [Sentence Patterns]
-(1) ～に～がいます
-(2) ～は～にいます
-(3) ～にどなた/だれがいますか
-(4) ～にどなた/だれかいますか
-(5) ～にはどなた/だれもいません
-(6) ～になにがいますか
+(1) ～に～がいます // There is ~ (at/in/on) ~ 
+(2) ～は～にいます // ~ is (at/in/on) ~
+(3) ～にどなた/だれがいますか // Who is (at/in/on) ~ ?
+(4) ～にどなた/だれかいますか // Is there someone (at/in/on) ~ ?
+(5) ～にはどなた/だれもいません // There isn't anyone (at/in/on) ~
+(6) ～になにがいますか //
 RJV
 口マ
 内d
